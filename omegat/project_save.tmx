@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>凌寒花了整整十秒钟的时间，才终于肯定，他确实转世重生了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230318T054851Z" creationid="Yuanl" creationdate="20230318T054851Z">
+        <seg>ppkease commit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>对于一名天人境的强者来说，需要花十秒钟才能去肯定一件事情，这绝对不可思议之极，但也同样证明发生在他身上的事情有多么得不可思议。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230318T054855Z" creationid="Yuanl" creationdate="20230318T054855Z">
+        <seg>we reply on thios</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv lang="ZH-CN">
         <seg>第1章 重生</seg>
