@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="ZH-CN">
+        <seg>===第一章 惊蛰===</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Admin" changedate="20230318T073925Z" creationid="Admin" creationdate="20230318T073925Z">
+        <seg>Chapter 1: Awakening</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>二月二，龙抬头。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Admin" changedate="20230318T074231Z" creationid="Admin" creationdate="20230318T074231Z">
+        <seg>The second day of the second month on the lunar calendar was said to be the day that the dragon raised its head, also known as the Longtaitou Festival. [ref]The Chinese characters for Longtaitou (龙抬头) literally translate to Dragon Raising Head.[/ref]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>凌寒花了整整十秒钟的时间，才终于肯定，他确实转世重生了。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Yuanl" changedate="20230318T054851Z" creationid="Yuanl" creationdate="20230318T054851Z">
