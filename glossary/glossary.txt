@@ -6762,3 +6762,11 @@ Qiu Jian	求剑
 烧瓷	pottery firing
 朝廷	imperial court
 官员	officials
+官窑	official kiln
+官窑	imperial ware
+拉坯	pottery molding
+言官	imperial censors
+丫鬟	maidservant
+贴身丫鬟	personal maidservant
+锦衣	brocade robe, brocade-robed
+宋集薪	Song Jixin
