@@ -6420,4 +6420,342 @@ Qiu Jian	求剑
 血王	Blood King
 红狐仙	Red Fox Celestial Maiden
 孤傲魔王	Demon King of Arrogance
+艾尔文	Erwin
+萨留希	Sarus
+缅尹	Burmen
+洵公馆	Rivers Mansion
+兰莉	Riley
+卢尼	Loonies
+凤凰大街	Phoenix Street
+宫城	palatial complex
+内城	inner city
+外城	outer city
+缇德	Teedus Academy
+山阴石	Yin Mountain Stone
+雅菲帝国	Effer Kingdom
+皇家骑士团	Imperial Cavalry Brigade
+宫廷法师团	Court Magician Council
+曜夜石	Nightglow Stone
+凯巴	Kaiba
+莱梧	Larwood
+宸朱	Chase
+隽云	Gwen
+瞬发魔法	instant-release spells
+《时空法则》	"Laws of Time and Space"
+鹰隼	Professor Hawk
+费提墨	Professor Hawk
+枕剑会	Pillow Sword Tournament
+紫荆阁	Redbud Pavilion
+魔法盾	magic shield
+特拉勒底山脉	Terarody Mountain Ranges
+雷萨亲王	Prince Lazaar
+攻防课	offense and defense class
+光正教	True Light Church
+咒术魔法的起源	"The Origins of Arcane Spells"
+旧河	Old River Restaurant
+希律主教	Archbishop Sirius
+庭霄帝国	Skycourt Kingdom
+墨焰	Black Blaze
+裂空	space split technique
+选手看台	contestant's spectating platform
+曜影剑阵	Shadowgleam Sword Array
+乔芷	Georgina
+论魔法的最终伤害	"A Discussion on the Ultimate Damage of Magic"
+鹘嘴蜥蜴	Falcon Beak Lizards
+天星	Heavenly Star mercenary legion
+四方	Four Winds mercenary legion
+狼月	Wolf Moon mercenary legion
+庭霄	Skycourt Kingdom
+大魔导师	grand magic mentor
+咒术邪焰黑龙	Arcane Inferno Black Dragon spell
+约芬	Joffen
+特瓦德丹	Tewadedan
+落晶	Fall Crystals
+葵倾	Christine
+疯猪	Deranged Pig
+聂一一	Nie Yiyi
+元	Adam
+机械军	Mechguard
+红蜘蛛	Red Spider
+梅	May
+胡克	Hook
+精神教会	Psychic Church
+雷顿	Layton Academy
+金莎	Shae
+金牙齿	Golden Teeth Incorporated
+疯猪	Deranged Pig
+本.加西亚	Ben Garcia
+金.加西亚	Kim Garcia
+金	Kim
+精神世界	psychic world
+当铺	pawn shop
+沙腾市	Sandrise City
+召唤	invoke
+地狱犬	Hellhound
+木乃伊	Mummy
+恶魔	anomaly
+精神体	psychic body
+山本正雄	Masao Yamamoto
+雷诺	Layton Academy
+金熙照	Kim Hee-cho
+灵觉	telegnosis
+畸变者	psychic mutant
+杀杀狂魔	Lean Mean Killing Machine
+八岐大蛇	Yamata no Orochi
+百鬼	Hyakki Yagyou
+蛇巫	Hebi no Miko
+尼德霍格	Níðhöggr
+学舟	Ark Learning Children's Fund
+秦夜	Qin Ye
+灵灾	supernatural disaster
+织田信长	Oda Nobunaga
+织田信忠	Oda Nobutada
+归天蛊铠甲	armaments forged from the carapace of blight vermin
+鬼民	netherworldly citizens
+离镜宫	Reflection Palace
+阴差	Hellguards
+阴兽	Yin beasts
+蓬丘	Ashmound
+射神棺	Soul-Launching Coffin
+灭日弩	Sun Vanquishing Crossbow
+暗鸠	Dark Dove
+鹤独	Lone Crane
+六方鬼王	Sixfold Ghost Kings
+赵云	Zhao Yun
+鬼火	netherworldly fire
+鬼火	netherworldly fire
+判官	Infernal Judge
+鬼差	Netherworld Operative
+母衣众	Umamawari
+阴气	Yin energy
+阴差拿人，闲杂退避	By Hell’s Dictum, all rabble shall disperse
+阿落刹娑	Arakshasa
+东山	Eastmount Province
+徽省	Insignia Province
+阿尔萨斯	Arthis
+………	……………………………………………………
+承薪	Everburn
+龙胆亮银枪	Courage of Dragons Silver Spear
+平西军	West Vanquishing Army
+陕西	West Shan Province
+威！！	Chaaaaarge!!
+八大门阀	Eight Great Clans
+吕方	Lü Fang
+生死簿	Book of Life and Death
+十殿阎罗	Yama-Kings of the 10 Palaces
+天界	Heaven
+明镜高悬	Mirror of Eminence
+阴阳裂隙	Yin Yang Mezzanines
+鬼差	Netherworld Operative
+拘魂	Soul Hunter
+无常	Anitya Hellguards
+府君	Abyssal Prefects
+阎罗	Yama-Kings
+彼世安温的魔法炉	Chalice of Preiddeu Annwn
+彼世安温	Preiddeu Annwn
+阎罗印	King Yanluo's Seal
+西都	West Capital
+董卓	Dong Zhuo
+机关兽	Mechanical Beasts
+畜生道主	Daolord of the Beast
+青溪县	Clear Creek County
+宝安	City of Salvation
+阴刺军	Assassins of the Underworld
+天狗食月	Moon-Devouring Heavenly Dog
+地藏像	Ksitigarbha
+地藏像	Ksitigarbha
+特别调查处	Special Investigations Department
+龙胆亮银枪	Courage of Dragons Silver Spear
+……	…………………………………………………..
+结界	Array of the Nine Gods
+马海峡	Strait of Tsushima
+判官笔	Judgment Pen
+六道轮回	six paths of reincarnation
+黑夜叉	Black Yaksha
+饿鬼道	path of the hungry ghost
+封魂球	soul sphere
+神器	divine artifact
+创造级	creation-grade
+羽蛇神	Plumed Serpent God
+神血	blood of a divinity
+非洲	Alkebulan Underworlds
+地府大战	great war of the netherword
+西川	Westriver Province
+三星堆	Three Star Mound
+阴差形态	Hell's Emissary state
+烛龙	Aurogon
+孟婆	Granny Meng
+十八地狱	18 abysses of punishment
+六道	six paths of reincarnation
+苏妲	Su Daji
+秦侩	Qin Hui
+大理寺	Imperial Court of Judicial Review
+慎刑司	Department of Prudence
+天岩户	Amano-Iwato
+贵方省	Rich Province
+王兽	monarch beast
+阴灵	Yin spirit
+周瑜	Zhou Yu
+十二天罗	twelve envoys
+刘裕	Liu Yu
+身毒大使	official of Sindhu
+高渐离	Gao Jianli
+吕蒙	Lü Meng
+吕子明	Lü Ziming
+…	………………………………………………….
+谛听	Harken
+王成浩	Wang Chenghao
+鲁班	Lu Ban
+吴道子	Wu Daozi
+暴风城	Stormwind City
+高长恭	Gao Changgong
+大秦王朝	Qin Dynasty
+业火神弩	Karmic Fire Divine Crossbows
+杨继业	Yang Jiye
+吕宋王	Lord of Luzon
+圣旨	imperial edict
+希腊地府	Argosian Underworld
+塔纳托斯	Thanatos
+修普诺斯	Hypnos
+艾亚哥斯	Aeacus
+米诺斯	Minos
+拉达曼迪斯	Rhadamanthus
+印度地府	Hindustani Underworld
+禁术不扩散条约	treaty on the non-proliferation of forbidden arts
+华国地府	Cathayan Underworld
+不扩散	treaty on the non-proliferation of forbidden arts
+神弃之地	forsaken land
+阴符	Yin Talismans
+李贞淑	Lee Jung-sook
+中元节	Hungry Ghost Festival
+权景浩	Kwon Kyung-ho
+黄家土楼	Huang Clan's earthen building
+百鬼夜行	Dusk Legionnaire
+刘昌闵	Ryu Changmin
+韩国	Daehan
+华国	Cathay
+灵体	spiritual body
+楚人美	Chu Renmei
+黄宝坤	Huang Baokun
+拆迁	demolition and relocation
+黄建森	Huang Jiansen
+十恶不赦	irredeemably heinous
+太岁	Taisui fungus
+护国神卫	Divine Protectors of the country
+明妃	Karmamudrā
+降魔杵	evil-subduing pestle
+卜万田	Bu Wantian
+桃花源	Peach Blossom Spring
+阴羽	darkfeathers
+九州正神结界	Array of the Nine Gods
+万宝池	Myriad Treasure Pond
+河洛九宫八卦图	Nine Palaces Eight Trigrams Diagram
+撼灵堂	Hall of Tremors
+莫长浩	Mo Changhao
+大狱丸	Otakemaru
+叶星辰	Ye Xingchen
+女娲	Nüwa
+后土娘娘	Goddess Earth Mother
+曜变天目碗	Obsidian Heaven’s Eye Bowl
+八尺镜	Yata no Kagami
+齐女	Qi Nü
+轩辕不死印	Yellow Emperor Protector Seal
+冥王冥后	Mictlantecutli and Mictetikasiwa
+二代	second King Yanluo
+日本地府	Nipponese Underworld
+东大寺	Tōdai-ji
+秦长信	Qin Changxin
+伊邪那美	Izanami
+素盏鸣尊	Susanoo-no-Mikoto
+怀石料理	kaiseki-ryōri
+华国	Cathayan Underworld
+汤恩娜	Tanvana
+奇尔汀	Giltine
+耶梦加德	Jörmungandr
+北欧	Northern Europa
+素盏明尊	Susanoo-no-Mikoto
+维拉科查	Viracocha
+埃及	Aegyptian Underworld
+阿基米德	Archimedes
+冥后	Mictetikasiwa
+伯爵	Count
+特斯卡	Tezcatlipoca
+烟雾镜	Tezcatlipoca
+阿空加瓜峰	Aconcagua
+希帕克特里	Cipactli
+朗基努斯	Spear of Longinus
+格洛里亚教堂	Gloria Dei Old Swedes Episcopal Church
+江崎玲於奈	Reona Esaki
+天启大辩论	Great Revelation Debate
+二代禁术	second-generation forbidden arts
+启动模组	startup module
+汤川秀树	Hideki Yukawa
+蒋秘书	Secretary Jiang
+知更鸟	messgenger bird
+布政使	administrative commisioner
+城隍庙	City God Temple
+轩辕剑主	Sword Master Xuanyuan
+地藏	Ksitigarbha
+钱多来	Qian Duolai
+祖冲之	Zu Chongzhi
+公格尔峰	Kongur Tagh
+水电站	hydroelectric power station
+羲和	Xi He Retirement Home
+姚泾明	Yao Jingming
+世能研	World Energy Resource Research Organization
+伊帕密浓达	Epaminondas
+无名死神	nameless god of death
+圣安东尼	Archbishop Antonio
+藤井平八郎	Heihachiro Fujii
+圣宝	Sacred Treasure Consortium
+米克特兰提库特里	Mictlantecutli
+冥王	Mictlantecutli
+阴宙系	Yin Space River
+库库尔坎	Quetzalcoatl
+坎昆	Cancún
+吉得宝	Tepoztli
+黑白无常	Black and White Anitya Hellguards
+东方明珠	Oriental Pearl Television Tower
+大人	Your Excellency
+拱手	cupped his fist in a salute
+阴差	underworld emissary
+阴阳裂缝	Yin Yang Mezzanine
+妖鬼仙	demonic ghostly immortals
+铁浮屠	heavy cavalry units
+万魂塔	Myriad Soul Pagoda
+沈田子	Thẩm Điền Tử
+朱龄石	Chu Linh Thạch
+王镇恶	Vương Trấn Ác
+剑礁	Sword Coral Research Institute
+阴山格物院	Yin Mountains Research Institute
+恭弥	Iwasaki Kyouya
+本一郎	Iwasaki Ichiro
+竹茂楼	Takeshigerou
+岩崎弥太郎	Iwasaki Yatarō
+比良坂	Nipponese Underworld
+水蛭子	Hiruko
+高天原	Takamagahara
+歌山三段壁	Sandanbeki Rock Cliff
+青木原树海	Aokigahara
+天逆每	Amanozako
+本多忠胜	Honda Tadakatsu
+羽泽城	Feathersheen City
+德川家康	Tokugawa Ieyasu
+神原康正	Sakakibara Yasumasa
+亚太经合会	Asia-Pacific Economic Development Conference
+北条时宗	Hōjō Tokimune
+丰臣秀吉	Toyotomi Hideyoshi
+足利义昭	Ashikaga Yoshiaki
+川岛琢磨	Kawashima Takuma
+玉藻前	Tamamo-no-Mae
+八岐大蛇	Yamata no Orochi
+宏野吉泽	Yoshizawa Hiroshi
+前田利家	Maeda Toshiie
+毛利辉元	Mōri Terumoto
+二口女	Futakuchi-onna
+大菩提寺	Mahabodhi Temple
+阴摩罗	Onmoraki
+轮入道	Wanyūdō
+耶梦加得	Jörmungandr
+天之御中	Minakanushi
 
