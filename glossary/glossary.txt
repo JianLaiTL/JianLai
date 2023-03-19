@@ -2,7 +2,6 @@
 巅峰	peak
 不灭天经	Undying Heavenly Scripture
 龙抬头	Longtaitou Festival
-泥瓶巷	Clay Vase Valley
 好马不吃回头草	a good man doesn't backtrack
 小菜一碟	a piece of cake
 太阳从西边出来	hell freezes over
@@ -6782,3 +6781,4 @@ Qiu Jian	求剑
 道士	taoist priest
 摸骨	scapulimancy
 陈平安	Chen Ping'an
+泥瓶巷	Clay Vase Alley
