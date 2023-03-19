@@ -6758,7 +6758,6 @@ Qiu Jian	求剑
 轮入道	Wanyūdō
 耶梦加得	Jörmungandr
 天之御中	Minakanushi
-陈平安	Chen Pingan
 烧瓷	pottery firing
 朝廷	imperial court
 官员	officials
@@ -6782,3 +6781,4 @@ Qiu Jian	求剑
 玉如意	jade scepter
 道士	taoist priest
 摸骨	scapulimancy
+陈平安	Chen Ping'an
