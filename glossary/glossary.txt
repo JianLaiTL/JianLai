@@ -6783,3 +6783,6 @@ Qiu Jian	求剑
 泥瓶巷	Clay Vase Alley
 道士	daoist priest
 稚圭	Zhi Gui
+蛟	wyrm
+虬	drake
+螭	hornless dragon
