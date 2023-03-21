@@ -4319,7 +4319,6 @@ Qiu Jian	求剑
 斜眼	looked askance
 眉心	glabella, area between the brows
 火系法则	fire-elemental laws
-蛟	wyrm, flood dragon
 体魄	physique
 吐血	vomiting blood
 吞噬法则	engulfing law
@@ -6783,6 +6782,17 @@ Qiu Jian	求剑
 泥瓶巷	Clay Vase Alley
 道士	daoist priest
 稚圭	Zhi Gui
-蛟	wyrm
 虬	drake
 螭	hornless dragon
+蛟	flood dragon
+卢正淳	Lu Zhengchun
+剑经	sword scripture
+宝甲	prized armor
+正阳山	Suns Sorch Mountain
+廊桥	covered bridge
+根骨	aptitude for cultivation
+肉眼可见	at a rate disciernible to the naked eye
+玄术	profound arts
+神通	mystical abilities
+道法	dao powers
+披云山	Cloud Drape Mountain
