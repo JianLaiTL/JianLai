@@ -6811,3 +6811,4 @@ Qiu Jian	求剑
 圣贤	sage
 丹鼎派	alchemy branch of daoism
 官话	official dialect
+机缘	fated opportunity
