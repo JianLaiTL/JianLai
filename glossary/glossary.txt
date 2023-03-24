@@ -6825,3 +6825,5 @@ Qiu Jian	求剑
 玉圭	jade tablet
 镇圭	regal tablet
 金精	gold essence
+锦衣少年	brocade-robed boy
+暗器	hidden weapon
