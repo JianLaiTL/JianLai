@@ -6847,3 +6847,5 @@ Qiu Jian	求剑
 邛让	Ruan Qiong
 牌坊	archway
 碎银	loose silver
+槐树	locust tree
+槐叶	locust leaf
