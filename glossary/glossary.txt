@@ -6845,3 +6845,5 @@ Qiu Jian	求剑
 桃叶巷	Peach Leaf Alley
 浑厚	deep and resonant	when describing voices
 邛让	Ruan Qiong
+牌坊	archway
+碎银	loose silver
