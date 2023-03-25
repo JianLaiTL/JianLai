@@ -6827,3 +6827,21 @@ Qiu Jian	求剑
 金精	gold essence
 锦衣少年	brocade-robed boy
 暗器	hidden weapon
+弋阳郡	Yiyang County
+大隋	Great Sui Nation
+御风	Windsoar Stage
+远游	Windsoar Stage
+大宗师	Superior Grandmaster
+小宗师	Lesser Grandmaster
+高稹	Gao Zhen
+大貂寺	chief eunuchs
+六科	six supervisory divisions
+大骊	Great Li Empire
+御马监	Directorate of Imperial Horses
+掌印太监	Seal Holding Eunuch
+宦官	eunuch
+山崖书院	Mountain Cliff Academy
+国师	imperial preceptor
+桃叶巷	Peach Leaf Alley
+浑厚	deep and resonant	when describing voices
+邛让	Ruan Qiong
