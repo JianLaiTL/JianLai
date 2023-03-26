@@ -6795,7 +6795,6 @@ Qiu Jian	求剑
 紫金	violet gold
 顾粲	Gu Can
 嫡传弟子	direct disciple
-真君	true lord
 开宗之祖	sect-founding patriarch
 下宗	lower sect
 云霞山	Dawn Cloud Mountain
@@ -6881,3 +6880,12 @@ Qiu Jian	求剑
 乡塾	private school
 琉璃	colored glaze
 宁姚	Ning Yao
+真君	True Lord
+仙长	Immortal Elder
+顾氏	Mrs. Gu
+书简湖	Lake Shujian
+止境	Halted Realm
+神通	mystical power
+青峡岛	Cyan Gorge Island
+金精铜钱	gold essence copper coins
+玉簪子	jade hairpin
