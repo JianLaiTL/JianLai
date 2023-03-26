@@ -809,7 +809,6 @@
 山河	Mountain River
 修为	cultivation level
 力不从心	strained
-。	—	(my keyboard doesn't support em dash so yeh)
 无奈	reluctant
 无奈	exasperation
 无奈	helpless
@@ -6195,7 +6194,6 @@ Qiu Jian	求剑
 混沌合金砖	Chaotic Alloy Brick
 浮空大陆	floating continent
 南天门	Northern Heavenly Gate
-。	—	(coz my keyboard don't support the flippin' em-dash)
 加固	strengthen
 封印	seal
 昆仑山	Kunlun Mountain ranges
@@ -6531,7 +6529,6 @@ Qiu Jian	求剑
 东山	Eastmount Province
 徽省	Insignia Province
 阿尔萨斯	Arthis
-………	……………………………………………………
 承薪	Everburn
 龙胆亮银枪	Courage of Dragons Silver Spear
 平西军	West Vanquishing Army
@@ -6564,7 +6561,6 @@ Qiu Jian	求剑
 地藏像	Ksitigarbha
 特别调查处	Special Investigations Department
 龙胆亮银枪	Courage of Dragons Silver Spear
-……	…………………………………………………..
 结界	Array of the Nine Gods
 马海峡	Strait of Tsushima
 判官笔	Judgment Pen
@@ -6600,7 +6596,6 @@ Qiu Jian	求剑
 高渐离	Gao Jianli
 吕蒙	Lü Meng
 吕子明	Lü Ziming
-…	………………………………………………….
 谛听	Harken
 王成浩	Wang Chenghao
 鲁班	Lu Ban
@@ -6875,3 +6870,14 @@ Qiu Jian	求剑
 道行	Dao foundation
 陆沉	Lu Chen
 陆道人	Daoist Lu
+桃芽	Tao Ya
+赶紧	hurriedly
+墙外书	Beyond the Wall
+曹曦	Cao Xi
+县志	Local County Chronicle
+四姓十族	Four Surnames and Ten Clans
+婢女	maidservant
+谢实	Xie Shi
+乡塾	private school
+琉璃	colored glaze
+宁姚	Ning Yao
