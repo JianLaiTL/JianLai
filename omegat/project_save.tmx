@@ -498,8 +498,8 @@
       <tuv lang="ZH-CN">
         <seg>三袋子金精铜钱，迎春钱，供养钱，压胜钱，很巧，刚好凑齐了。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Yuanl" changedate="20230327T101528Z" creationid="Yuanl" creationdate="20230327T101528Z">
-        <seg>Three pouches of gold essence copper coins — coincidentally, there was one pouch of Greeting Spring Coins, one pouch of Offering Coins, and one pouch of Good Fortune Coins.</seg>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230327T101548Z" creationid="Yuanl" creationdate="20230327T101528Z">
+        <seg>Three pouches of gold essence copper coins — coincidentally, there was one pouch of Greeting Spring Coins, one pouch of Offering Coins, and one pouch of Good Fortune Coins. All three types of coins were present.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1116,6 +1116,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230319T115526Z" creationid="Admin" creationdate="20230319T115526Z">
         <seg>He took a big stride over the doorstep, clearly intentionally avoiding stepping on the ashes of the burned talisman.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>他好像有些不确定，便转头笑问道：“对吧”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230327T105004Z" creationid="Yuanl" creationdate="20230327T105004Z">
+        <seg>As if unsure of himself, he turned around and asked with a smile, "Right?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3102,6 +3110,14 @@ Liu Xianyang chuckled in disdain, "The way you're going to help me avert disaste
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>她瞥了眼叫陈平安的少年。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230327T105349Z" creationid="Yuanl" creationdate="20230327T105349Z">
+        <seg>She glanced at the young boy called Chen Ping'an.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>她突然问了个莫名其妙的问题，“陈平安，你真不后悔”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Yuanl" changedate="20230327T091954Z" creationid="Yuanl" creationdate="20230327T091954Z">
@@ -3146,6 +3162,14 @@ Liu Xianyang chuckled in disdain, "The way you're going to help me avert disaste
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230327T073318Z" creationid="Admin" creationdate="20230327T073318Z">
         <seg>After that, she really did leave as she was instructed, and she obediently closed the gate behind her, doing so with great care so that she didn't make any more noise than necessary.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>她问道：“你之所以有这场劫难，全是因为那条泥鳅，为什么不告诉那个孩子真相”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230327T104349Z" creationid="Yuanl" creationdate="20230327T104349Z">
+        <seg>"It's all because of that loach that you're facing this calamity. Why didn't you tell that little boy the truth?" she asked.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4614,6 +4638,14 @@ Liu Xianyang chuckled in disdain, "The way you're going to help me avert disaste
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>少女听完之后，云淡风轻道：“那截江真君刘志茂，显然是罪魁祸首，不过蔡金简和苻南华，也都不是什么好鸟，若不是齐先生出来捣糨糊，你以后就算逃到天涯海角，也逃不出三方势力的围剿捕杀，说句难听的，杀你真的很容易，如果不是在小镇上，别说刘志茂，就是那个云霞山的女子，根手指头就能将你碾压得魂飞魄散。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230327T104118Z" creationid="Yuanl" creationdate="20230327T104118Z">
+        <seg>After listening to his recollection, the young woman calmly said, "That River Severing True Lord Liu Zhimao was clearly the culprit behind everything. However, it's not like Cai Jinjian and Fu Nanhua were good people either. If it weren't for Mr. Qi's help, you would've had no hope of escaping from the clutches of the three forces in the future, regardless of how far you fled. To put it bluntly, killing you is truly an easy task. If we weren't in this small town, to say nothing of Liu Zhimao, even that woman from the Dawn Cloud Mountain would be able to crush your body and soul with a single finger."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>少女呵呵一笑，说了三个字。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230324T000435Z" creationid="Admin" creationdate="20230324T000435Z">
@@ -4670,6 +4702,30 @@ Liu Xianyang chuckled in disdain, "The way you're going to help me avert disaste
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>少女很是哀其不幸，怒其不争。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230327T102956Z" creationid="Yuanl" creationdate="20230327T102956Z">
+        <seg>The young woman was expressing great pity for his misfortune, yet she was also expressing deep annoyance at his lack of fight.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>少女怒目相向，“对你个大头鬼”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230327T105054Z" creationid="Yuanl" creationdate="20230327T105054Z">
+        <seg>Ning Yao glared back at him. "Right in your dreams!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>少女手托着腮帮，手伸出手指，拨弄着三枚铜钱，随口问道：“你的事情如何了能不能跟我说说”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230327T101840Z" creationid="Yuanl" creationdate="20230327T101840Z">
+        <seg>The young woman rested her chin in one hand as she reached over to play around with three coins with her other. "How did everything go? Are you able to tell me?" she casually asked.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>少女抬起头，死死盯住中年儒士。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230326T031850Z" creationid="Admin" creationdate="20230326T031850Z">
@@ -4710,6 +4766,14 @@ Liu Xianyang chuckled in disdain, "The way you're going to help me avert disaste
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>少女欲言又止，最后望向那个瘦弱背影，感慨道：“那你知不知道，你的拳头不硬的话，就没有人会在乎你的对错。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230327T104834Z" creationid="Yuanl" creationdate="20230327T104805Z">
+        <seg>Ning Yao wanted to say something, but she hesitated for a moment before eventually looking at the back of the skinny young boy. She sighed with emotion and said, "Then do you know? If your fists aren't strong enough, no one will care whether you're right or wrong."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>少女此时就站在院墙那边，她有一双杏眼，怯怯弱弱。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230318T100956Z" creationid="Admin" creationdate="20230318T100956Z">
@@ -4730,6 +4794,14 @@ Liu Xianyang chuckled in disdain, "The way you're going to help me avert disaste
       </tuv>
       <tuv lang="EN-US" changeid="Yuanl" changedate="20230326T063702Z" creationid="Yuanl" creationdate="20230326T063702Z">
         <seg>The young girl's intensity suddenly dropped by a drastic amount, and she silently called, "Dad?" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>少女气呼呼道：“你知道个屁”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230327T104148Z" creationid="Yuanl" creationdate="20230327T104148Z">
+        <seg>"You don't know squat!" Ning Yao huffed angrily.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4774,6 +4846,14 @@ Liu Xianyang chuckled in disdain, "The way you're going to help me avert disaste
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>少女用三根手指按住三枚铜钱，在桌面上抹来抹去，“爱说不说。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230327T103406Z" creationid="Yuanl" creationdate="20230327T103406Z">
+        <seg>Ning Yao placed three slender fingers on three separate copper coins, dragging them around the table. "Do whatever you want."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>少女皱了皱眉头，“不一定，有些人运气好，可能当天来回，有些人运气差，一辈子就交待在这里了。如果一定要我给出一个推断的话，也行，但是未必准，你自己看着办，比如我们这拨人，一行八人，两拨属于狗大户，人傻钱多，他们一看就不像是能来去匆匆的，怎么都该在小镇上待个几天，那个戴高冠挂玉佩的公子哥，估摸着会相对顺利一些，有个傻大个，一门心思对付那口水井了，能不能得逞，看老天爷赏不赏这碗饭给他吃。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230327T084044Z" creationid="Admin" creationdate="20230327T084044Z">
@@ -4802,6 +4882,14 @@ Liu Xianyang chuckled in disdain, "The way you're going to help me avert disaste
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230323T092124Z" creationid="Admin" creationdate="20230323T092124Z">
         <seg>The young woman's brows furrowed slightly, and she didn't even turn her head as she spat through gritted teeth, "Piss off!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>少女皱眉道：“你都混到这般凄惨田地了，还担心我听了秘密后，被谁杀人灭口陈平安，不是我说你，实在是你这种烂好人，我劝你这辈子都别离开小镇，否则怎么死都不知道。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230327T102722Z" creationid="Yuanl" creationdate="20230327T102212Z">
+        <seg>The young woman furrowed her brows. "You're already stuck in such a miserable state, yet you're still afraid that I might be silenced and killed after hearing your secrets? Chen Ping'an, I'm not trying to belittle or discourage you, but I truly encourage a foolishly kind person like you to never leave this small town. Otherwise, you won't even know how you got killed."</seg>
       </tuv>
     </tu>
     <tu>
@@ -5198,6 +5286,14 @@ Liu Xianyang chuckled in disdain, "The way you're going to help me avert disaste
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>少年悻悻然重新转过头，继续熬药。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230327T105216Z" creationid="Yuanl" creationdate="20230327T105216Z">
+        <seg>Chen Ping'an huffed and turned back around, continuing to brew the medicine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>少年惊讶道：“齐先生，走路也算吃苦？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Yuanl" changedate="20230326T100818Z" creationid="Yuanl" creationdate="20230326T100748Z">
@@ -5266,6 +5362,14 @@ Liu Xianyang chuckled in disdain, "The way you're going to help me avert disaste
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230322T220540Z" creationid="Admin" creationdate="20230322T220540Z">
         <seg>Chen Ping'an scratched his head as he looked back at Fu Nanhua with a pair of clear and innocent eyes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>少年摇头道：“不管别人听不听，道理就是道理。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230327T104921Z" creationid="Yuanl" creationdate="20230327T104921Z">
+        <seg>The young boy shook his head. "Regardless of whether they want to listen to it or not, the truth of the matter won't change."</seg>
       </tuv>
     </tu>
     <tu>
@@ -7952,6 +8056,14 @@ Liu Xianyang chuckled in disdain, "The way you're going to help me avert disaste
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>簪子上有个字，便是仅算粗通文墨的少女，也觉得极为动人。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230327T105606Z" creationid="Yuanl" creationdate="20230327T105606Z">
+        <seg>Even though she only had a rough understanding of calligraphy, she still felt that the words inscribed on the jade hairpin were extremely beautiful and moving.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>粗鄙至极的世俗蝼蚁，也敢调戏仙家神女？</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230322T232439Z" creationid="Admin" creationdate="20230322T232439Z">
@@ -9218,6 +9330,14 @@ A faint smile appeared on Fu Nanhua's face as he said, "Seeing as the first pric
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>草鞋少年乐呵呵道：“那我就给你说说看”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230327T103307Z" creationid="Yuanl" creationdate="20230327T103307Z">
+        <seg>The young boy in straw sandals chuckled and said, "Then I'll tell you."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>草鞋少年坐在门槛上，“宁姑娘，我能不能问你一些事情？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230327T100443Z" creationid="Admin" creationdate="20230327T083303Z">
@@ -9544,6 +9664,14 @@ Chen Ping'an was seated on his doorstep, and he suddenly asked, "Can I ask you s
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230327T080703Z" creationid="Admin" creationdate="20230327T080647Z">
         <seg>The woman didn't know whether she should continue, but the River Severing True Lord smiled and said, "You can keep going."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>言念君子，温其如玉。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230327T105911Z" creationid="Yuanl" creationdate="20230327T105911Z">
+        <seg>As gentle and amiable as jade should a virtuous person be.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9964,6 +10092,14 @@ She often followed the young master to his private school, and there were some s
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230327T071213Z" creationid="Admin" creationdate="20230327T071213Z">
         <seg>In Fu Nanhua's, eyes, people like Song Jixin were the easiest to deal with, so long as he stayed above them, but they could also be the most difficult type of people to deal with if they were to overtake him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>这种古板性格的少年，哪怕是位兼具罗汉金身天君道术的强大剑仙，只要丢到她家乡那边，年之内必死无疑，而且尸骨无存。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230327T103244Z" creationid="Yuanl" creationdate="20230327T103244Z">
+        <seg>Even if this stubborn and inflexible youth were an Arhat, Heavenly Lord, and Sword Immortal all at once, he would still face certain death within a year once he left this small town and was tossed into her hometown. Not even his corpse would remain.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10536,6 +10672,14 @@ She often followed the young master to his private school, and there were some s
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>陈平安便将齐先生出现之前的事情经过，跟少女说了遍，之后的事情，选择性说了些。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230327T103516Z" creationid="Yuanl" creationdate="20230327T103516Z">
+        <seg>Chen Ping'an recounted the events before Mr. Qi's arrival. As for the events after Mr. Qi's arrival, he picked and chose what he told her.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>陈平安先将那包裹放在床上，跟黑衣少女说是新买的衣裳。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230326T105456Z" creationid="Admin" creationdate="20230326T105453Z">
@@ -11090,6 +11234,14 @@ Do I look stupid to you? qhetiqhewithoiwhtoiwhethewhtiowhethewthewothoewit</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>陈平安没有反驳，继续煎药。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230327T104300Z" creationid="Yuanl" creationdate="20230327T104225Z">
+        <seg>Chen Ping'an didn't deny this, and he continued to brew the medicine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>陈平安没有否认。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230327T020456Z" creationid="Admin" creationdate="20230327T020456Z">
@@ -11166,6 +11318,14 @@ Do I look stupid to you? qhetiqhewithoiwhtoiwhethewhtiowhethewthewothoewit</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230319T021300Z" creationid="Admin" creationdate="20230318T171006Z">
         <seg>"I do," Chen Ping'an replied with a nod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>陈平安点头道：“我知道。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230327T104129Z" creationid="Yuanl" creationdate="20230327T104129Z">
+        <seg>Chen Ping'an nodded and said, "I know."</seg>
       </tuv>
     </tu>
     <tu>
@@ -11450,6 +11610,14 @@ Do I look stupid to you? qhetiqhewithoiwhtoiwhethewhtiowhethewthewothoewit</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>陈平安蹲在窗口那边的墙根，小心盯着火候，时不时翻看下三张药方，听到问话后，“合适说吗”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230327T102155Z" creationid="Yuanl" creationdate="20230327T102155Z">
+        <seg>Chen Ping'an kept a careful eye on the flames as he squatted next to the wall near the window. Occassionally, he would also flip through the three sheets of prescription. Upon hearing Ning Yao's question, he replied, "Is it appropriate to tell?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>陈平安还想要说话，年轻道人猛然记起事，从袖中掏出枚青玉印章，小巧玲珑，对着印面轻轻呵了口气，然后对着书写药方的那张纸，重重按下，从纸面提起印章后，颇为满意，收入袖子后，年轻道人连同其余两张纸起递给陈平安，“好好收着，小镇上书籍多是私人家藏，你购买不易，如果真想学字，可以从贫道这副药方学起。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230326T103628Z" creationid="Admin" creationdate="20230326T103628Z">
@@ -11462,6 +11630,14 @@ Do I look stupid to you? qhetiqhewithoiwhtoiwhethewhtiowhethewthewothoewit</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230319T043922Z" creationid="Admin" creationdate="20230319T043922Z">
         <seg>Over the years, Chen Ping'an had always been very envious of Liu Xianyang.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>陈平安这次没有沉默，也没有转头，坐在小板凳上，低头看着青红色的火焰，轻声道：“这样做不对。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230327T104521Z" creationid="Yuanl" creationdate="20230327T104507Z">
+        <seg>Chen Ping'an didn't remain silent this time. Nor did he turn around to look at her. He sat down on a small stool and looked at the jumping red flames as he quietly replied, "Doing that wouldn't be right."</seg>
       </tuv>
     </tu>
     <tu>
@@ -12161,6 +12337,14 @@ The young woman was looking a little trouble troubled, and she was clearly also 
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230326T041302Z" creationid="Admin" creationdate="20230326T041302Z">
         <seg>The young woman asked, "You're not from the Eastern Treasured Vial Continent, right?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>黑衣少女，叫宁姚的外乡姑娘，拿起那根碧玉簪子，凝神望去，发现篆刻有行小字。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230327T105332Z" creationid="Yuanl" creationdate="20230327T105317Z">
+        <seg>The young woman in black, the outsider called Ning Yao, picked up the jade hairpin and carefully observed it. She quickly discovered a small line of words inscribed upon it.</seg>
       </tuv>
     </tu>
     <tu>
