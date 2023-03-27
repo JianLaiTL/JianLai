@@ -6894,3 +6894,16 @@ Qiu Jian	求剑
 倒悬山	Stalactite Mountain
 道人	Daoist priest
 道人	Daoist priest
+顽劣	unruly
+顽劣	naughty
+顽劣	mischievous
+顽劣	stubborn
+陶罐	clay pot
+泥鳅	loach
+院子	courtyard
+外乡人	outsider
+厉色	stern
+谄媚	obsequious
+谄媚	toadying
+铜钱	copper coin
+哭笑不得	didn't know whether to laugh or to cry
