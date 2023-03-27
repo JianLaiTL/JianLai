@@ -6921,3 +6921,4 @@ Qiu Jian	求剑
 供养钱	Offering Coins
 迎春钱	Greeting Spring Coins
 压胜钱	Good Fortune Coins
+药方	prescription
