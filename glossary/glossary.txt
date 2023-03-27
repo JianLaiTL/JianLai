@@ -6543,7 +6543,6 @@ Qiu Jian	求剑
 阴阳裂隙	Yin Yang Mezzanines
 鬼差	Netherworld Operative
 拘魂	Soul Hunter
-无常	Anitya Hellguards
 府君	Abyssal Prefects
 阎罗	Yama-Kings
 彼世安温的魔法炉	Chalice of Preiddeu Annwn
@@ -6907,3 +6906,8 @@ Qiu Jian	求剑
 谄媚	toadying
 铜钱	copper coin
 哭笑不得	didn't know whether to laugh or to cry
+无常	Reaper of Impermanence
+老龙布雨	Old Dragon Rainbringer
+供养钱	offering coins
+门神	door god
+春联	couplets
