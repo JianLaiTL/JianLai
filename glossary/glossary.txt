@@ -6939,3 +6939,16 @@ Qiu Jian	求剑
 圣人	Saint
 圣贤	Sage
 圣人	Sage
+武道九境	nine tiers of martial arts
+武夫	martial artist
+龙门境	Dragon Gate Tier
+中五境	Middle Five Tiers
+沙哑	hoarse
+失落	dejected
+失落	downcast
+失落	despondent
+佛陀	Buddha
+儒家至圣	Confucius
+心虚	guilty
+心虚	diffident
+阮师傅	Master Ruan
