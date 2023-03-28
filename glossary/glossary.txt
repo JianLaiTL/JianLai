@@ -6927,3 +6927,9 @@ Qiu Jian	求剑
 迎春钱	spring welcome coin
 压胜钱	numismatic coin
 桃符	peach charm
+开门	precursor
+登堂	beginning
+入室	journey
+精气神	energy, essence, and spirit
+老人	River Severing True Lord
+道家真君	True Lord of Daoism
