@@ -4374,7 +4374,6 @@ Qiu Jian	求剑
 真仙	Perfected Immortal
 金仙	Golden Immortal
 大罗	Zenith Heaven
-圣人	Saint, Sage
 三千大世界	Trichiliocosm
 道域	Dao Domain
 道心	Dao Heart
@@ -6801,7 +6800,6 @@ Qiu Jian	求剑
 老龙城	Old Dragon City
 蔡金简	Cai Jinjian
 苻南华	Fu Nanhua
-圣贤	sage
 丹鼎派	alchemy branch of daoism
 官话	official dialect
 机缘	fated opportunity
@@ -6941,3 +6939,6 @@ Qiu Jian	求剑
 秘方	secret recipe
 嘀咕	mumble
 嘀咕	grumble
+圣人	Saint
+圣贤	Sage
+圣人	Sage
