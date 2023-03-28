@@ -6906,7 +6906,6 @@ Qiu Jian	求剑
 哭笑不得	didn't know whether to laugh or to cry
 无常	Reaper of Impermanence
 老龙布雨	Old Dragon Rainbringer
-供养钱	offering coins
 门神	door god
 春联	couplets
 茫然	baffled
@@ -6923,8 +6922,6 @@ Qiu Jian	求剑
 真人	Spiritual Master
 柱国	pillar general
 迎春钱	spring welcome coin
-压胜钱	numismatic coin
-桃符	peach charm
 开门	precursor
 登堂	beginning
 入室	journey
