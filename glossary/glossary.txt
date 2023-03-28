@@ -6820,8 +6820,6 @@ Qiu Jian	求剑
 暗器	hidden weapon
 弋阳郡	Yiyang County
 大隋	Great Sui Nation
-御风	Windsoar Stage
-远游	Windsoar Stage
 大宗师	Superior Grandmaster
 小宗师	Lesser Grandmaster
 高稹	Gao Zhen
@@ -6952,3 +6950,5 @@ Qiu Jian	求剑
 心虚	guilty
 心虚	diffident
 阮师傅	Master Ruan
+御风	Windsoar Tier
+远游	Windsoar Tier
