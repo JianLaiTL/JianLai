@@ -6953,3 +6953,5 @@ Qiu Jian	求剑
 御风	Windsoar Tier
 远游	Windsoar Tier
 领养钱	adoption money
+南海	South Sea
+心誓	cardinal vow
