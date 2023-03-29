@@ -6955,3 +6955,9 @@ Qiu Jian	求剑
 领养钱	adoption money
 南海	South Sea
 心誓	cardinal vow
+清风城	Light Breeze City
+瘊子甲	scaly armor
+水榭	lakeside pavilion	lakeside in the particular context it's appeared in for me, could be riverside pavilion or just waterside pavilion in general
+入室弟子	in-house disciple
+藩王	monarch
+宋长镜	Song Changjing
