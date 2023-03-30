@@ -6851,7 +6851,6 @@ Qiu Jian	求剑
 瓷镇	porcelain paperweight
 舍不得	reluctant
 儒家	Confucianism
-截江真君	River Severing True Lord
 刘志茂	Liu Zhimao
 姚老头	Old Man Yao
 说书先生	storyteller
@@ -6924,7 +6923,6 @@ Qiu Jian	求剑
 登堂	beginning
 入室	journey
 精气神	energy, essence, and spirit
-老人	River Severing True Lord
 道家真君	True Lord of Daoism
 少女	young woman
 少女	young girl
@@ -6965,3 +6963,18 @@ Qiu Jian	求剑
 风雷园	Wind Lightning Field
 文庙	Confucian temple
 陪祭	accompanying officiant
+陶魁	Tao Kui
+纯阳剑祖	Pure Yang Sword Patriarch
+督造官衙署	office of the kiln supervision official
+督造官	kiln supervision official
+衙署	office
+门房	porter
+观湖书院	Lake View Academy
+大雍王朝	Great Yong Empire
+龙尾郡	Dragon Tail County
+刘灞桥	Liu Baqiao
+野修	vagrant cultivator
+陈松风	Chen Songfeng
+白猿	Bai Yuan
+崔明皇	Cui Minghuang
+管事	steward
