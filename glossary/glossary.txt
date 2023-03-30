@@ -6961,3 +6961,7 @@ Qiu Jian	求剑
 入室弟子	in-house disciple
 藩王	monarch
 宋长镜	Song Changjing
+搬山老猿	Mountain-moving Ape
+风雷园	Wind Lightning Field
+文庙	Confucian temple
+陪祭	accompanying officiant
