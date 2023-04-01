@@ -4211,7 +4211,6 @@ Qiu Jian	求剑
 血髓	blood marrow
 热血沸腾	ardor and zeal coursing through their blood
 青龙	azure dragon
-朱雀	vermilion bird
 提炼	extraction
 金乌	Golden Crow
 神魔	Godfiend
@@ -6981,3 +6980,14 @@ Qiu Jian	求剑
 阮邛	Ruan Qiong
 宁姑娘	Ning Yao
 四大姓	four major clans
+匾额	plaque
+答非所问	sidestepped the question
+答非所问	answered evasively
+答非所问	gave an irrelevant answer
+巍峨	majestic
+白虎	White Tiger
+王朱	Wang Zhu
+卢家	Lu Clan
+沧桑	vicissitudes
+嗤笑	sneer
+泥塑	clay statue
