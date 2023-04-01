@@ -6999,5 +6999,7 @@ Qiu Jian	求剑
 小溪	creek
 蛇胆石	snake gall pebbles
 簪子	hairpin
-算命先生	fortuneteller
 财迷	avaricious
+算命先生	fortune teller
+石子	pebble
+青色石崖	green stone cliff
