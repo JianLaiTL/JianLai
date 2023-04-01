@@ -7004,3 +7004,6 @@ Qiu Jian	求剑
 石子	pebble
 青色石崖	green stone cliff
 石板鱼	rock slate fish
+谢家老祖	Patriarch Xie
+掌柜	shopkeeper
+阮秀	Ruan Xiu
