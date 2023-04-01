@@ -7003,3 +7003,4 @@ Qiu Jian	求剑
 算命先生	fortune teller
 石子	pebble
 青色石崖	green stone cliff
+石板鱼	rock slate fish
