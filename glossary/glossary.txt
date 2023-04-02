@@ -1207,7 +1207,6 @@
 孔成和	Kong Chenghe
 古天初	Gu Tianchu
 南门扬	Nanmen Yang
-皇宫	Imperial Palace
 姐姐大人	Big Sister
 碧落皇	Jade Drop Emperor
 瞿秋雪	Qu Qiuxue
@@ -7017,3 +7016,10 @@ Qiu Jian	求剑
 腼腆	bashful
 腼腆	shy
 青石板	bluestone slab
+皇宫	imperial palace
+哭丧	sullen
+宋大人	Master Song
+晦涩	obscure
+大礼	Grand Etiquette
+修身篇	Self-Cultivation Chapter
+云淡风轻	nonchalant
