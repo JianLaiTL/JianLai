@@ -408,6 +408,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“所以啊，如今趁着老天爷还睁只眼闭只眼的时候，能多走人是人。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T053024Z" creationid="Yuanl" creationdate="20230402T053024Z">
+        <seg>"So, while the heavens are still turning a blind eye, it's best that as many of you leave as possible."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“接下来段时间，少出门。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230327T034659Z" creationid="Admin" creationdate="20230327T034659Z">
@@ -944,6 +952,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>不知何时，读书少年郎赵繇的奶奶，拄着拐杖的老妪已经走近这边，“都快入土的老头子了，还这般天真，如老娘们涂抹胭脂，真是尤其面目可憎。这场灭顶之灾，是你那点好心肠就能改变丝毫的”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T053624Z" creationid="Yuanl" creationdate="20230402T053624Z">
+        <seg>At some unknown time, Zhao Yao's grandma, the old woman with a cane, had already walked over, saying, "You're already about to be six feet under, yet you're still being so hopeful and naive? Just like old women caking their face in makeup, your actions are truly vile and repulsive. Is this calamity something that your kindness and benevolence can stop?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>不等妇人解释其中渊源缘由，隔壁那边的女孩已经怒气冲冲道：“就凭你也想染指我们失传已久的镇山之宝？此次我们来此，是名正言顺的物归原主，可不像某些不要脸的家伙，是做强盗、做小偷、甚至是做乞丐来着！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230320T215700Z" creationid="Admin" creationdate="20230320T215700Z">
@@ -1154,8 +1170,8 @@
       <tuv lang="ZH-CN">
         <seg>两人在街角分开，稚圭接过水桶去往泥瓶巷，陈平安返回刘羡阳家，在这之后，还要去城东门那边取家书信笺，一封一钱，要是早早拥有这份生意，就凭陈平安跑遍方圆百里山头的脚力，估计媳妇本都已经攒够了。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T004043Z" creationid="Yuanl" creationdate="20230402T003932Z">
-        <seg>The two of them parted ways at the a crossroad. Zhi Gui accepted her bucket of water and continued to Clay Vase Alley, while Chen Ping'an went the other way and returned to Liu Xianyang's house. Afterward, he would still need to head to the western gate of the small town to collect the letters to deliver. He would earn one coin for each letter delivered. Had Chen Ping'an started this job earlier, with his ability to traverse through the mountains on just his two legs, he would have most likely already made enough money to get himself a wife.</seg>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T040842Z" creationid="Yuanl" creationdate="20230402T003932Z">
+        <seg>The two of them parted ways at the a crossroad. Zhi Gui accepted her bucket of water and continued to Clay Vase Alley, while Chen Ping'an went the other way and returned to Liu Xianyang's house. Afterward, he would still need to head to the eastern gate of the small town to collect the letters to deliver. He would earn one coin for each letter delivered. Had Chen Ping'an started this job earlier, with his ability to traverse through the mountains on just his two legs, he would have most likely already made enough money to get himself a wife.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1252,6 +1268,38 @@
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230325T011208Z" creationid="Admin" creationdate="20230325T011208Z">
         <seg>He was a Daoist priest, yet in an atrocious act of blasphemy, he was praying to the Buddha and the Bodhisattva as opposed to the Three Pure Ones of Daoism.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>丫鬟只得怯生生离去，步三回头。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T051319Z" creationid="Yuanl" creationdate="20230402T051319Z">
+        <seg>The maidservant had no option but to head back in. However, she couldn't help but glance back several times.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>丫鬟得了表扬，娇憨笑着。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T050838Z" creationid="Yuanl" creationdate="20230402T050838Z">
+        <seg>The maidservant wore a lovely and innocent smile upon hearing this praise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>丫鬟愣了愣，眼睛下子红了，哭腔道：“老祖宗，我不想离开这里。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T051052Z" creationid="Yuanl" creationdate="20230402T051034Z">
+        <seg>The maidservant faltered upon hearing this. Her eyes became teary, and she sniffed, "Grandpa, I don't want to leave here."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>丫鬟服侍老人有些年数了，知道老祖宗是菩萨心肠，少女对老人是有敬无惧，就笑脸嫣然，俏皮问道：“老祖宗，该不是想起少年时遇见的姑娘了吧那位姑娘当时就站在桃树下”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T050644Z" creationid="Yuanl" creationdate="20230402T050644Z">
+        <seg>The maidservant had already served this old man for quite some years, so she knew that he was a kind and benevolent person. The young girl respected but didn't need to fear the old man, so she asked with a cheeky smile, "Grandpa, you're not reminiscing about how you met a girl in your youth, are you? Was the girl also standing under the peach trees at that time?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1596,6 +1644,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230319T021300Z" creationid="Admin" creationdate="20230318T150308Z">
         <seg>On this day, as Chen Ping'an cast his gaze out of the town gate, he was surprised to discovered that there were seven or eight people waiting outside, and there were people of both genders and all ages among them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>今年桃叶见不到桃花。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T055759Z" creationid="Yuanl" creationdate="20230402T055634Z">
+        <seg>This year, the peach tree produced leaves, but it produced no blossoms.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2646,6 +2702,14 @@ He led the two young men into the room, and right as he did so, Liu Baqiao sudde
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>六封信，福禄街那边的卢李赵宋四大姓，各有封，还有两封在桃叶巷，其中封很凑巧，还是先前那位和蔼老人的家书，更巧的是开门收信的人，还是老人，看到是陈平安后，老人认出了草鞋少年，就玩笑道：“孩子，真的不进来喝口水”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T044700Z" creationid="Yuanl" creationdate="20230402T044700Z">
+        <seg>Of the six letters, four of them were addressed to the Lu Clan, Li Clan, Zhao Clan, and Song Clan of Fortune Street. These were the four major clans of the small town. The remaining two letters were addressed to people in Peach Leaf Alley. Coincidentally, one of them was addressed to the benevolent old man from before. Even more coincidentally, it was again this old man who opened the door to collect the letter. He recognized the young boy in staw sandals, and he said jokingly, Young child, you're really not going to come in for a drink?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>关于这一点，两个少年百思不得其解，实在想象不出，到底得是多么庞大的山林猛兽，才能够造就这幅恐怖光景，后来朝廷多有封禁山峰，不得百姓进山砍柴烧炭，陈平安和刘羡阳几乎从不逾越禁例，很大部分原因便在这里。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Yuanl" changedate="20230401T025031Z" creationid="Yuanl" creationdate="20230401T025031Z">
@@ -3206,6 +3270,14 @@ Liu Xianyang chuckled in disdain, "The way you're going to help me avert disaste
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230319T031210Z" creationid="Admin" creationdate="20230319T031027Z">
         <seg>Only now did he notice that Chen Ping'an was doing something rather strange. He was squatted down inside the doorstep with his body leaning forward, using a candle to burn a piece of yellow paper. Only around a thumb's length of the candle remained, and all of the ashes of burned piece of paper fell outside of the doorstep. It seemed that Chen Ping'an was also chanting something, but Liu Xianyang was too far away to hear what he was saying.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>刘羡阳每次都听得咽口水，宋集薪偶尔也去，不会带着稚圭，笑得很比刘羡阳含蓄些，但跟着众人起偷偷起哄的时候，格外卖力，比早晚两次读圣贤书还要大声。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T043000Z" creationid="Yuanl" creationdate="20230402T043000Z">
+        <seg>Liu Xianyang would always gulp when he hear gossip like this. Song Jixin would also occasionally hang out near the old locust tree, although he would never bring Zhi Gui along with him. His smile would also be more reserved than Liu Xianyang's. However, when he secretly hooted and heckled with the others, his voice would be even louder than when he recited the teachings of the Sages during morning and night.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3984,6 +4056,14 @@ In any case, Zhao Yao also liked to interact with people outside Fortune Street.
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230322T231434Z" creationid="Admin" creationdate="20230322T231434Z">
         <seg>Song Jixin immediately flared with rage upon seeing this. "Why are you looking at me, Chen Ping'an? Are you trying to imply something?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>向极好说话的老人挥挥手，“我再看会儿巷子风景，你先回去，桃芽，听话，否则我会生气的。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T051240Z" creationid="Yuanl" creationdate="20230402T051210Z">
+        <seg>The benevolent old man waved his hand and said, "I'm going to look at the scenery in the alley for a while longer. You can go back in first. Tao Ya, listen to me. Otherwise, I'm going to get angry."</seg>
       </tuv>
     </tu>
     <tu>
@@ -9156,6 +9236,14 @@ In any case, Zhao Yao also liked to interact with people outside Fortune Street.
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>少年跑着离开青石板街面的桃叶巷。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T050038Z" creationid="Yuanl" creationdate="20230402T050038Z">
+        <seg>The young boy left the bluestone slabs of Peach Leaf Alley behind him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>少年跨过门槛。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230401T080844Z" creationid="Admin" creationdate="20230401T080844Z">
@@ -10166,6 +10254,14 @@ In any case, Zhao Yao also liked to interact with people outside Fortune Street.
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>座繁华千年的安详小镇，不曾想到最后，皆是没有来生来世的可怜人。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T055420Z" creationid="Yuanl" creationdate="20230402T055213Z">
+        <seg>This was a peaceful town that had prospered for thousands of years. In the end, however, it would unexpectedly become a town whose pitiful residents would enjoy no reincarnation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>庭院深深处，有位赤脚老人沧桑老人推门而出，站在院子里跳脚怒骂道：“是哪个王蛋在谋害我宋氏基业站出来战”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230325T045929Z" creationid="Admin" creationdate="20230325T045929Z">
@@ -10346,6 +10442,14 @@ In any case, Zhao Yao also liked to interact with people outside Fortune Street.
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230323T011744Z" creationid="Admin" creationdate="20230323T011744Z">
         <seg>Of course, there was no set method to transcending these tribulations, and it was required for the transcender to work out solutions on their own.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>当真就没有线生机吗</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T055436Z" creationid="Yuanl" creationdate="20230402T055436Z">
+        <seg>Was there truly not even a sliver of a hope?</seg>
       </tuv>
     </tu>
     <tu>
@@ -10610,6 +10714,14 @@ In any case, Zhao Yao also liked to interact with people outside Fortune Street.
       </tuv>
       <tuv lang="EN-US" changeid="Yuanl" changedate="20230401T063113Z" creationid="Yuanl" creationdate="20230401T063050Z">
         <seg>At this moment, there was only a single thought in the young boy's mind. That was, the material of this young girl's clothes were definitely very expensive. Otherwise, there was simply no way they could withstand such immense pressure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>拐杖雨点般落在身上，老人只得落荒而逃，不过哈哈大笑。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T054438Z" creationid="Yuanl" creationdate="20230402T054424Z">
+        <seg>Like raindrops, the cane swung down at the old man again and again. He could only flee in a hurry. However, he couldn't help but laugh heartily as he did so.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10950,6 +11062,14 @@ In any case, Zhao Yao also liked to interact with people outside Fortune Street.
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>最后，老妪抬起头，看着抽出嫩芽的桃叶。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T055035Z" creationid="Yuanl" creationdate="20230402T055035Z">
+        <seg>In the end, she looked up at the budding leaves of the peach tree.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>有个五短身材的汉子，浓眉大眼，锐气逼人，袒胸露腹，手持铁锤正在打铁，一锤下去，火星四溅，满室光辉。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Yuanl" changedate="20230326T061106Z" creationid="Yuanl" creationdate="20230326T061106Z">
@@ -11154,6 +11274,14 @@ In any case, Zhao Yao also liked to interact with people outside Fortune Street.
       </tuv>
       <tuv lang="EN-US" changeid="Yuanl" changedate="20230326T040814Z" creationid="Yuanl" creationdate="20230326T040814Z">
         <seg>In the Peach Leaf Alley, there was a kindly and amiable old man sitting in a cane chair under the corridor of his residence. Beside him was a clever-looking and adorable maidservant in a jade-colored dress and yellow-patterned long pants. She slowly waved a fan as she listened to the old man telling his stories.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>桃叶巷的桃叶郁郁，尚无桃花。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T051401Z" creationid="Yuanl" creationdate="20230402T051401Z">
+        <seg>The peach leaves in the alley were lush and verdant. However, peach blossoms were still yet to form.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11494,6 +11622,14 @@ In any case, Zhao Yao also liked to interact with people outside Fortune Street.
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>汉子屁股坐在树墩子上，叹息道：“神仙打架，凡人遭殃啊。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T044336Z" creationid="Yuanl" creationdate="20230402T044336Z">
+        <seg>He sat down on the tree stump and heaved a sigh, saying, "When immortals fight, its the commoners and mortals who suffer the most..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>汉子恼羞成怒，将事先准备好的五枚铜钱，狠狠拍在少年手心后，大手一挥，豪气干云道：“剩下五钱，先欠着！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230319T021300Z" creationid="Admin" creationdate="20230318T172537Z">
@@ -11534,6 +11670,14 @@ In any case, Zhao Yao also liked to interact with people outside Fortune Street.
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>汉子气笑道：“呦呵，还是个有点眼力劲儿的。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T044055Z" creationid="Yuanl" creationdate="20230402T044055Z">
+        <seg>The gatekeeper chuckled and mused, "Oh? He's quite an observant one."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>汉子沉声道：“换你来锤打剑条，正好借此机会锤炼你的神意。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Yuanl" changedate="20230326T062047Z" creationid="Yuanl" creationdate="20230326T062047Z">
@@ -11550,10 +11694,26 @@ In any case, Zhao Yao also liked to interact with people outside Fortune Street.
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>汉子看了眼天色，滚滚雷声早已没有，原本像是要几乎压到屋檐的低垂云层，已经渐渐散去。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T044204Z" creationid="Yuanl" creationdate="20230402T044204Z">
+        <seg>He looked up at the sky. The rumbling thunder had already subsided, and the blanket of dark clouds that had seemingly wanted to bear down on the houses had also slowly dissipated.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>汉子看破少年心思，笑得更加开心，“你要是不傻，老子能让你来送信？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230319T021300Z" creationid="Admin" creationdate="20230318T171320Z">
         <seg>The gatekeeper could tell what Chen Ping'an was thinking, and he began to laugh even more boisterously. "If you aren't stupid, I wouldn't have asked you to come deliver letters!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>汉子瞥了眼东边的宽敞大道，气咻咻道：“等大爷”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T043919Z" creationid="Yuanl" creationdate="20230402T043919Z">
+        <seg>The gatekeeper glanced at the wide road in the east and huffed, "Waiting for your grandpa!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -11594,6 +11754,14 @@ In any case, Zhao Yao also liked to interact with people outside Fortune Street.
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230318T171700Z" creationid="Admin" creationdate="20230318T171700Z">
         <seg>The gatekeeper turned and cast his gaze toward the outsiders, stroking his stubbly chin as he mused to himself, "That woman just now had a pair of killer legs!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>汉子骂了句娘，跳下树墩子，瞥见草鞋少年后，也不说话，去黄泥茅屋拿了摞信过来，六封家书，只给了五颗文的铜钱。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T043231Z" creationid="Yuanl" creationdate="20230402T043231Z">
+        <seg>The disheveled man cursed before hopping off the tree stump and shooting a glance at the young boy. He didn't say anything, and he went to the mud hut to retrieve a bundle of letters. There were six letters in total, yet he only handed Chen Ping'an five copper coins.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11754,6 +11922,14 @@ In any case, Zhao Yao also liked to interact with people outside Fortune Street.
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230323T071311Z" creationid="Admin" creationdate="20230323T071311Z">
         <seg>Zhao Yao was rather taken aback to hear this, and he was also feeling a little dejected, "Why, Sir?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>溪水渐浅，井水渐冷，老槐更老，铁锁生锈，大云低垂。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T055555Z" creationid="Yuanl" creationdate="20230402T055555Z">
+        <seg>The creek gradually became shallower, and the well gradually became colder. The old locust tree grew even older, and the iron lock grew even rustier. The large clouds bore down on the small town.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12218,6 +12394,14 @@ In any case, Zhao Yao also liked to interact with people outside Fortune Street.
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230320T234245Z" creationid="Admin" creationdate="20230320T234117Z">
         <seg>The old man crouched down beside her as he chuckled, "Young Mistress, if the leader of the Lu Clan wasn't lying to us, then that creature has already fallen into someone else's hands."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>白发苍苍的老人笑道：“桃芽，你跟那送信少年样，亦是有心人啊。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T050807Z" creationid="Yuanl" creationdate="20230402T050722Z">
+        <seg>The old man smiled and replied, "Tao Ya, both you and that young boy are kind-hearted and determined people."</seg>
       </tuv>
     </tu>
     <tu>
@@ -12894,6 +13078,14 @@ In any case, Zhao Yao also liked to interact with people outside Fortune Street.
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>老人久久站在家门口，看着两边的桃树，名身材婀娜的妙龄丫鬟来到老人身旁，小声道：“老祖宗，看什么呢外边天冷，可别冻着。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T050353Z" creationid="Yuanl" creationdate="20230402T050334Z">
+        <seg>The old man stood at his door for a long time, gazing at the two rows of peach trees lining the alley. A shapely young maidservant walked up to the old man, saying in a soft voice, "Grandpa, what are you looking at? The weather's cold outside, so be careful not to catch the chills."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>老人也坐在门槛上，想了想，“小姐，有些话本不该跟你说的，只是事已至此，再隐瞒也没有意思，老奴就一并跟你说了。此次小镇之行，多半是有人精心策划的一个局，那个清风城许家婆娘，跑不掉，只不过她未必是分量最重之人。这个坑，厉害的地方在于哪怕老奴有所察觉，也无法不跳。小姐有所不知，那部剑经的主人，曾经是一位叛出正阳山的剑道孽徒，由他自创而成，依照你爷爷的说法，这部剑经最可贵之处，在于虽然写书之人，最终剑道成就不过是摸着剑仙的门槛，但是剑经内容，直指大道。小姐你想啊，与咱们正阳山交好的谢家老祖，何等眼界，仍是给予这部剑经，“极高”两字评语。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230401T034614Z" creationid="Admin" creationdate="20230401T034614Z">
@@ -12914,6 +13106,14 @@ In any case, Zhao Yao also liked to interact with people outside Fortune Street.
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230328T021728Z" creationid="Admin" creationdate="20230328T021728Z">
         <seg>The River Severing True Lord looked on as the head approached them, and he murmured to himself, "What a truly stunning sight."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>老人伸出干枯手掌，扶住桃枝，“有心人有心人，希望真能天不负吧。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T053316Z" creationid="Yuanl" creationdate="20230402T053316Z">
+        <seg>The old man extended a shriveled hand and placed it on a branch, saying, "Kind and determined children, here's wishing that the heavens don't target and suppress you."</seg>
       </tuv>
     </tu>
     <tu>
@@ -13028,6 +13228,14 @@ The old man murmured to himself upon seeing this, "So be it, I'll let you do wha
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230320T195956Z" creationid="Admin" creationdate="20230320T195956Z">
         <seg>The old man was completely dumbfounded.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>老人回望眼自己宅子，呢喃道：“小镇的得天独厚，本就不合大道，当初被圣人们硬生生改天换地，享受了整整三千年大气运，历代走出小镇之人，多在整个东宝瓶洲开枝散叶，可是老天爷何等精明，所以是时候来秋后算账跟咱们收取报酬喽。你们这些孩子，不赶紧离开这里，难道跟随我们这些本就破碎不堪的老朽旧瓷，起等死吗要知道，死分大小，咱们小镇几千口人，这死，是大死啊，连来生也没了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T052924Z" creationid="Yuanl" creationdate="20230402T052907Z">
+        <seg>He glanced back at his house and murmured, "The uniqueness of this small town is innately discordant with the Great Dao. The Sages forcefully transformed this area at that time, allowing this small town to enjoy great fortune for 3000 years. Many people have walked out of here and left their descendants all throughout the Eastern Treasured Vial Continent. However, just how astute are the heavens? Thus, it's now time for the scores to be settled and for us to pay what we owe. If you children don't leave as soon as possible, are you going to stay and await death alongside us? Us who are old and broken like shattered porcelain? You have to realize that death can come great or minor. For the thousands of people in this small town, what we're going to face is a great death, a death were there is no next life.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13176,6 +13384,14 @@ The old man murmured to himself upon seeing this, "So be it, I'll let you do wha
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>老人欣微笑着，“去吧去吧，年之计在于春，少年多活动筋骨，肯定是好事。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T045939Z" creationid="Yuanl" creationdate="20230402T045927Z">
+        <seg>The old man wore a pleased smile, and he said, "Off you go. Spring is the most important time of the year, so it'll definitely be good for you to exercise more during this time."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>老人沉声道：“所以这部剑经，老奴如果能够拿到手，交给小姐你来修行，是最好的结果。退一万步说，就算我们正阳山没有拿到手，给什么老龙城云霞山之流，被那些年轻人得去了机缘，正阳山倒也能忍，唯独一事，绝对不能退让半步，那就是被风雷园的狗杂种们将剑经拿到手！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230401T035535Z" creationid="Admin" creationdate="20230401T035424Z">
@@ -13196,6 +13412,14 @@ The old man murmured to himself upon seeing this, "So be it, I'll let you do wha
       </tuv>
       <tuv lang="EN-US" changeid="Yuanl" changedate="20230326T065710Z" creationid="Yuanl" creationdate="20230326T065524Z">
         <seg>The old man didn't open his eyes as he replied, "You have a good son, and I found myself a good disciple. Mrs. Gu, you can patiently wait to gain honor and renown thanks to your son."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>老人没有觉得意外，只是从袖子摸出把铜钱，递给陈平安，笑呵呵解释道：“今天家里有好事，这点喜钱，见者有份，图个吉利而已，不多，就十几文钱，所以你就放心拿着吧。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T045146Z" creationid="Yuanl" creationdate="20230402T045146Z">
+        <seg>The old man wasn't surprised by this, and he simply retrieved some copper coins from his sleeve and handed them to Chen Ping'an, saying, "There's a happy occassion in our family today, so this is just a little something that all visitors can receive. It's just a token of good fortune. It's nothing much, only 10 copper coins, so be at ease and accept it."</seg>
       </tuv>
     </tu>
     <tu>
@@ -13228,6 +13452,14 @@ The old man murmured to himself upon seeing this, "So be it, I'll let you do wha
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230327T073024Z" creationid="Admin" creationdate="20230327T072953Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>老人点点头，突然说道：“孩子，最近啊，没事的时候，可以经常去槐树底下坐坐，见到地上有槐叶槐枝啊什么的，就拿回家去放着，能够防蚁虫蜈蚣的，多好，还不用你花钱。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T045704Z" creationid="Yuanl" creationdate="20230402T045704Z">
+        <seg>The old man nodded in acknowledgment, and he suddenly said, "Young child, whenever you've got nothing to do in the next while, you can head over to the old locust tree and sit in its shade. If you see any branches or leaves on the floor, you can take them home and place them somewhere. They can keep away insects and vermin. Isn't that nice? And they're free as well."</seg>
       </tuv>
     </tu>
     <tu>
@@ -13296,6 +13528,14 @@ The old man murmured to himself upon seeing this, "So be it, I'll let you do wha
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>老人眼神有些恍惚，看着同样满头雪白的老妪，莫名其妙说了句，“你来了啊。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T053730Z" creationid="Yuanl" creationdate="20230402T053730Z">
+        <seg>The old man was slightly entranced as he looked at the equally old woman, and he mysteriously said, "You've come."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>老人眼神阴森。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Yuanl" changedate="20230326T080334Z" creationid="Yuanl" creationdate="20230326T080334Z">
@@ -13332,6 +13572,14 @@ The old man murmured to himself upon seeing this, "So be it, I'll let you do wha
       </tuv>
       <tuv lang="EN-US" changeid="Yuanl" changedate="20230326T041920Z" creationid="Yuanl" creationdate="20230326T041920Z">
         <seg>The old man suddenly asked, "Tao Ya, where's the wind? Are you nodding off again? I'm not trying to frighten you, but if you slack off like this in the large clans outside this small town, you'll definitely receive punishment."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>老人突然笑道：“这两天有个远房亲戚要登门拜访，到时候桃芽你就跟随家里那几个孩子，起离开小镇。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T050936Z" creationid="Yuanl" creationdate="20230402T050936Z">
+        <seg>The old man suddenly smiled and said, "A distant relative is going to visit in the next few days. When they leave, you can also leave with the other children in the family."</seg>
       </tuv>
     </tu>
     <tu>
@@ -13456,6 +13704,14 @@ The old man murmured to himself upon seeing this, "So be it, I'll let you do wha
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>老人轻轻呼出口浊气，跨过门槛，走下台阶，走向最近的棵桃树，站在树底下，老人伤感道：“桃之夭夭，灼灼其华。真的是再也见不到啦。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T051837Z" creationid="Yuanl" creationdate="20230402T051837Z">
+        <seg>The old man gently exhaled. He then walked out the door and down steps, waking to a nearby peach tree and standing under it. There was sadness in his voice as he said, "A beautiful girl like the blooming peach blossoms... There's truly no opportunity for me to witness it again."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>老人连忙否认，然后岔开话题，问道：“小镇上是不是经常发生一些怪事？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230320T195653Z" creationid="Admin" creationdate="20230320T195653Z">
@@ -13546,6 +13802,14 @@ Right now, however, things were completely different. The lowly maidservant from
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>老妪先是愣，然后立即恼羞成怒，拐杖就打过去，“老不羞的贼胚子，大把年纪了，还敢嘴花花”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T054013Z" creationid="Yuanl" creationdate="20230402T054013Z">
+        <seg>The old woman faltered upon hearing this. However, she immediately became enraged, swinging her cane at him and saying, "Shameless old geezer! How old are you? Yet, you still dare to make such remarks."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>老妪向后退出一步，无比庄严肃穆道：“赵繇，落座！今天就由你替赵家列祖列宗，为龙点睛！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Yuanl" changedate="20230401T005932Z" creationid="Yuanl" creationdate="20230401T005809Z">
@@ -13602,6 +13866,14 @@ Right now, however, things were completely different. The lowly maidservant from
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>老妪步步走回福禄街，拐杖在青石板上次次敲响。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T055233Z" creationid="Yuanl" creationdate="20230402T055116Z">
+        <seg>She then walked back to Fortune Street, with her cane clicking against the bluestone slabs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>老妪突然自己被自己逗乐，哈哈大笑起来，“差点忘了，那会儿我可用不着拐杖。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Yuanl" changedate="20230401T002724Z" creationid="Yuanl" creationdate="20230401T002724Z">
@@ -13614,6 +13886,14 @@ Right now, however, things were completely different. The lowly maidservant from
       </tuv>
       <tuv lang="EN-US" changeid="Yuanl" changedate="20230401T004808Z" creationid="Yuanl" creationdate="20230401T004808Z">
         <seg>The old woman immediately revealed her true feelings, unable to conceal her pride anymore. However, she purposefully humphed in a cold manner and said, "Why, of course! After all, who was that man chosen by?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>老妪站在桃树下，犹然气恼不已，后悔自己不该心软，鬼使神差走这趟桃叶巷。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T055043Z" creationid="Yuanl" creationdate="20230402T055000Z">
+        <seg>Standing under the peach tree, the old woman was still as angry as could be. She regretted becoming soft-hearted and coicidentally walking to the Peach Leaf Alley.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17046,6 +17326,14 @@ She often followed the young master to his private school, and there were some s
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>陈平安不想留下来当出气筒，赶紧跑路。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T044009Z" creationid="Yuanl" creationdate="20230402T044009Z">
+        <seg>Chen Ping'an hurriedly scooted away, not wanting to become an outlet for his frustration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>陈平安不知如何作答，只好跟她现学现用，假装什么也没听到。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Yuanl" changedate="20230327T091706Z" creationid="Yuanl" creationdate="20230327T091259Z">
@@ -17106,6 +17394,14 @@ She often followed the young master to his private school, and there were some s
       </tuv>
       <tuv lang="EN-US" changeid="Yuanl" changedate="20230328T092512Z" creationid="Yuanl" creationdate="20230328T092332Z">
         <seg>Chen Ping'an took out three copper coins and held them in his hand. He then used his arm to push the three pouches of copper coins toward the young woman, saying with a smile, "Here, take these."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>陈平安以前在老槐树那边听老人闲聊，说起现任督造官大人第次进入小镇的时候，就有很大的排场阵仗，四姓十族的祖祠老辈们几乎倾巢出动，在城东门这边“接驾”，只不过大太阳底下等了几个时辰，最后名官署管事火急火燎跑到东门，说督造官大人在衙署后院午睡刚醒，让众人直接去衙署会晤便是，给那帮富贵老爷们气得佛出世二佛升天，不过据说事后进了衙署大门后，没谁敢放个屁，个比个笑得像人家的乖孙子。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T041719Z" creationid="Yuanl" creationdate="20230402T040524Z">
+        <seg>While hanging out around the old locust tree, Chen Ping'an had heard the elderly residents chat about the arrival of the new kiln supervision official. When he had first arrived in the small town, he was offered a grand welcome, with almost all of the elders from the Four Surnames and Ten Clans coming to the eastern gate to greet him. However, after waiting under the scorching for several hours, the only person who arrived was a subordinate from the kiln supervision office who told them that the kiln supervision official was already in his office, and that he had only just woken up from his afternoon nap. He then told them to direclty go to the office of the kiln supervision official. The group of wealthy people were infuriated, but according to rumors, none of them had dared to complain a peep when they eventually entered the kiln supervision office. In fact, they had all smiled as obsequiously as they could.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17398,6 +17694,14 @@ She often followed the young master to his private school, and there were some s
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>陈平安在台阶下，向老人鞠躬致谢。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T045802Z" creationid="Yuanl" creationdate="20230402T045802Z">
+        <seg>Chen Ping'an bowed to the old man in gratitude.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>陈平安在处十字巷口停下脚步，背靠墙壁，蹲下身，手始终握拳，手系紧草鞋。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230328T041550Z" creationid="Admin" creationdate="20230328T041550Z">
@@ -17426,6 +17730,14 @@ She often followed the young master to his private school, and there were some s
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230319T203116Z" creationid="Admin" creationdate="20230319T203116Z">
         <seg>Chen Ping'an sat down on his doorstep as he rubbed his own forehead in exasperation. When he wasn't talking nonsense, Song Jixin actually wasn't a bad person to be around. However, at times like this, if Liu Xianyang were here, he would've definitely expressed to Chen Ping'an an urge to smash a brick into the back of Song Jixin's head.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>陈平安大略翻过了书信地址，也没说什么，因为有两封信是福禄街的隔壁邻居，陈平安也不愿意占这便宜，当然如果汉子破天荒发善心，起先就给六文钱，陈平安也绝不把钱往外推。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T043715Z" creationid="Yuanl" creationdate="20230402T043700Z">
+        <seg>Chen Ping'an roughly flicked through the letters, and he didn't make any complaints. This was because two of the letters were addressed to neighbors on Fortune Street. Thus, Chen Ping'an wasn't willing to take such a petty advantage. Of course, if the gatekeeper suddenly became extremely benevolent and chose to give him six copper coins instead, he wouldn't refuse this either.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17650,6 +17962,14 @@ She often followed the young master to his private school, and there were some s
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230328T025321Z" creationid="Admin" creationdate="20230328T025321Z">
         <seg>Chen Ping'an briefly considered what he had been told, then asked, "So you're telling me that if I want to go through with this, I have to strike fast, right?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>陈平安想好送信的顺序后，随口问道：“等人”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T043743Z" creationid="Yuanl" creationdate="20230402T043743Z">
+        <seg>Chen Ping'an planned out a route before casually asking, "Waiting for someone?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -18026,8 +18346,8 @@ Do I look stupid to you? qhetiqhewithoiwhtoiwhethewhtiowhethewthewothoewit</seg>
       <tuv lang="ZH-CN">
         <seg>陈平安来到东边栅栏门的时候，那邋遢汉子站在树墩子上，踮起脚跟向东边眺望，好像在等待重要的人物。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T032649Z" creationid="Yuanl" creationdate="20230402T032649Z">
-        <seg>When Chen Ping'an arrived at the wooden gates in the west of the small town, he found that the disheveled gatekeeper was standing on his tip-toes on the tree stump and gazing toward the east. It was as if he were waiting for some important person to arrive.</seg>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T040729Z" creationid="Yuanl" creationdate="20230402T032649Z">
+        <seg>When Chen Ping'an arrived at the wooden gates in the east of the small town, he found that the disheveled gatekeeper was standing on his tippy-toes on a tree stump and gazing toward the east. It was as if he were waiting for some important person to arrive.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18402,8 +18722,8 @@ Do I look stupid to you? qhetiqhewithoiwhtoiwhethewhtiowhethewthewothoewit</seg>
       <tuv lang="ZH-CN">
         <seg>陈平安由衷佩服这位陌生的姑娘，也不打搅她，笑着继续跑向小镇东边。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T032224Z" creationid="Yuanl" creationdate="20230402T032224Z">
-        <seg>Chen Ping'an admired this unfamiliar young girl from the bottom of his heart. He didn't disturb her, and he smiled as he continued to run to the west of the small town.</seg>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T040818Z" creationid="Yuanl" creationdate="20230402T032224Z">
+        <seg>Chen Ping'an admired this unfamiliar young girl from the bottom of his heart. He didn't disturb her, and he smiled as he continued to run to the east of the small town.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18460,6 +18780,14 @@ Do I look stupid to you? qhetiqhewithoiwhtoiwhethewhtiowhethewthewothoewit</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230318T102902Z" creationid="Admin" creationdate="20230318T102902Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>陈平安直感到奇怪，那些个老人怎么说得自己亲眼见到似的，每次说起福禄街桃叶巷的小道消息，比真的还真，例如说起卢家二姨奶奶跟护院教头成了相好，给人撞破房门的时候，连二姨奶奶慌乱之下，如何收拾衣裳遮挡丰硕胸脯的大串细节，也说得半点不差，说故事的人，简直就像是那护院教头本人。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T042448Z" creationid="Yuanl" creationdate="20230402T042328Z">
+        <seg>Chen Ping'an had found their recounts extremely strange. Why were the elderly residents speaking as if they were personally there to witness it? Each time they discussed rumors from Fortune Street and Peach Leaf Alley, they also spoke as if they were personally present to witness the events. For example, how the aunty from the Lu Clan was in an illicit relationship with that instructor, and how she had frantically straightened her clothes and covered her large breasts when they had been caught by someone else. They revealed a whole heap of details, not missing anything at all. It was as if they were the instructor himself.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18776,6 +19104,14 @@ Do I look stupid to you? qhetiqhewithoiwhtoiwhethewhtiowhethewthewothoewit</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>陈平安腼腆笑，摇摇头。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T044733Z" creationid="Yuanl" creationdate="20230402T044733Z">
+        <seg>Chen Ping'an wore a bashful smile as he shook his head.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>陈平安藏起瓷片，加快脚步，和儒士并肩而行，抬头问道：“齐先生，我能问一个问题吗？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Yuanl" changedate="20230325T232614Z" creationid="Yuanl" creationdate="20230325T232614Z">
@@ -18896,6 +19232,14 @@ Do I look stupid to you? qhetiqhewithoiwhtoiwhethewhtiowhethewthewothoewit</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>陈平安蹲在树墩子旁边，耐心等着小镇看门人。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T043110Z" creationid="Yuanl" creationdate="20230402T043110Z">
+        <seg>Chen Ping'an squatted next to the tree stump and patiently waited for the gatekeeper to acknowledge him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>陈平安蹲在窗口那边的墙根，小心盯着火候，时不时翻看下三张药方，听到问话后，“合适说吗”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Yuanl" changedate="20230327T102155Z" creationid="Yuanl" creationdate="20230327T102155Z">
@@ -18940,6 +19284,14 @@ Do I look stupid to you? qhetiqhewithoiwhtoiwhethewhtiowhethewthewothoewit</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Yuanl" changedate="20230401T062640Z" creationid="Yuanl" creationdate="20230401T062640Z">
         <seg>It was also at this moment that Chen Ping'an realized that she was quite young. Even so, the scenes beneath her neck were truly majestic and grand. It was no inferior to the women who had raised many children.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>陈平安这才接过铜钱，笑道：“谢谢魏爷爷”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230402T045248Z" creationid="Yuanl" creationdate="20230402T045248Z">
+        <seg>Only after hearing this did Chen Ping'an accept the copper coins. He smiled and said, "Thank you, Grandpa Wei."</seg>
       </tuv>
     </tu>
     <tu>
