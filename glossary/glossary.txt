@@ -7010,3 +7010,6 @@ Qiu Jian	求剑
 秀儿	Xiu'er
 元神	soul
 心不在焉	absent-minded
+马婆婆	Granny Ma
+傻子	retard	for Ma Kuxuan
+读书人	intellectual
