@@ -4187,11 +4187,6 @@ Qiu Jian	求剑
 空间戒指	interspatial ring
 法则	laws, nomological
 法则领悟	nomological insight
-法器	Dharma artifact, enchanted armament
-法宝	Dharma treasure
-法术	Dharma spells
-法力	Dharmic powers
-法门	Dharmic formulation
 周天	Heavenly Cycle
 道藏楼	Dao Repository
 灵丹	Spirit Pills
@@ -4709,7 +4704,6 @@ Qiu Jian	求剑
 仙家	divine abode
 拉风	trendy, eye-catching, flashy
 驾驭	to drive, steer, handle, manage, master, tame
-法宝	Magic Treasure
 灵器	Spirit Tool
 飞剑	flying sword
 空间戒指	interspatial ring
@@ -6916,7 +6910,6 @@ Qiu Jian	求剑
 药方	prescription
 真人	Spiritual Master
 柱国	pillar general
-迎春钱	spring welcome coin
 开门	precursor
 登堂	beginning
 入室	journey
@@ -7044,3 +7037,15 @@ Qiu Jian	求剑
 李家	Li Clan
 卢氏	Lu Clan
 道姑	Daoist nun
+法器	immortal tool
+法宝	immortal treasure
+法术	spell technique
+法力	immortal powers
+法门	immortal formulation
+甘草	licorice root
+许家	Xu Clan
+小姐	Young Mistress
+上五境	Upper Five Tiers
+风生水起	Rising Winds Crashing Water	for the plaque on the bridge
+青石	bluestone slab
+神仙	immortal
