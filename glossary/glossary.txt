@@ -7051,3 +7051,4 @@ Qiu Jian	求剑
 陈氏	Chen Clan
 黄油纸	parchment paper
 撼山	Mountain Shaking
+楼	Tier	for cultivation tiers, i.e. Tier Six
