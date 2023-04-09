@@ -5465,7 +5465,6 @@ Qiu Jian	求剑
 源	essence
 重	stage
 图标	icon
-撼山拳	Mountain Quaking Fist
 骂	scolded
 班主任	home-room teacher
 英雄事迹	heroic deeds
@@ -7049,3 +7048,6 @@ Qiu Jian	求剑
 风生水起	Rising Winds Crashing Water	for the plaque on the bridge
 青石	bluestone slab
 神仙	immortal
+陈氏	Chen Clan
+黄油纸	parchment paper
+撼山	Mountain Shaking
