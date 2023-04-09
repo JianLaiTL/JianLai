@@ -7056,3 +7056,5 @@ Qiu Jian	求剑
 敷衍	perfunctory
 玉玺	jade seal
 福地	blessed land
+符剑	talismanic sword
+陈对	Chen Dui
