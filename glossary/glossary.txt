@@ -7052,3 +7052,7 @@ Qiu Jian	求剑
 黄油纸	parchment paper
 撼山	Mountain Shaking
 楼	Tier	for cultivation tiers, i.e. Tier Six
+撼山谱	Mountain Shaking Guide
+敷衍	perfunctory
+玉玺	jade seal
+福地	blessed land
