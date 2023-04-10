@@ -4212,11 +4212,6 @@ Qiu Jian	求剑
 峰	peak
 师公	Grandmaster, Martial Grandfather
 师爷	Grandmaster, Martial Grandfather
-师侄	Martial Nephew, Martial Niece, Apprentice-Nephew, Apprentice-Niece
-师弟	Junior Brother, Junior Martial Brother, Junior Apprentice-Brother
-师兄	Senior Brother, Senior Martial Brother, Senior Apprentice-Brother
-师姐	Senior Sister, Senior Martial Sister, Senior Apprentice-Sister
-师妹	Junior Sister, Junior Martial Sister, Junior Apprentice-Sister
 师姑	Aunt-Master, Martial Aunt
 师叔	Uncle-Master, Martial Uncle, Aunt-Master, Martial Aunt
 师博	Uncle-Master, Martial Uncle
@@ -7087,3 +7082,21 @@ Qiu Jian	求剑
 锁龙井	Dragon Locking Well
 深潭	deep pool	under the covered bridge
 百家	hundred schools of thought
+师侄	Martial Nephew, Martial Niece
+道冠	Daoist hat
+小女孩	little girl
+贺小凉	He Xiaoliang
+金童玉女	Golden Boy and Jade Girl	for the Daoist priest and nun
+小师叔	Junior Uncle
+道家	Daoist Sect
+马苦玄	Ma Kuxuan
+真武山	True Martial Mountain
+僧人	monk
+苦行僧	ascetic monk
+雷音塔	Thundering Pagoda
+天师印	Heavenly Master Seal
+小剑冢	Small Sword Resting Ground
+兵家	Martial Sect
+山岳玉牌	Mountain Range Jade Plate
+儒家	Confucian Sect
+压胜之物	subjugation treasures
