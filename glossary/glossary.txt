@@ -540,7 +540,6 @@
 元力	Origin Power
 天人境	Heaven Tier
 化神境	Deity Transformation Tier
-炼体境	Body Refining Tier
 不灭天经	Indestructible Heaven's Scroll
 黄泉池	Netherland Spring
 紫月皇朝	Purple Moon Empire
@@ -1154,7 +1153,6 @@
 西城	Xi Cheng
 杨轩	Yang Xuan
 红颜	lover
-天劫	heaven's calamity
 杨珞丹	Yang Luodan
 碧霄丹	Jade Heaven Pill
 寿元	lifespan
@@ -2088,7 +2086,6 @@
 激起	spur
 凤王	Phoenix King
 重野	Zhong Ye
-雷劫液	Heaven's Calamity Fluid
 灭世雷霆	Extermination Lightning
 电闪	Lightning Flash
 三叉戟	three-pronged halberd
@@ -2423,7 +2420,6 @@
 黑煞咒	Black Murderous Curse
 血影魔	Blood Shadow Demon
 血影老魔	Old Demon Blood Shadow
-圆满	Consummate	For Ascending Origin Tier
 时光修炼室	Time Cultivation Chamber
 万古千秋	For All Eternity
 修炼室	cultivation chamber
@@ -7064,3 +7060,19 @@ Qiu Jian	求剑
 十境	10th Tier
 棋待诏	Go official
 绣虎	Embroidered Tiger
+炼体境	Physique Refining Tier
+天劫	tribulation
+雷劫液	Lightning Tribulation Fluid
+圆满	consummate	For Ascending Origin Tier
+炼气	Qi Refining Tier
+炼体	Physique Refining Tier
+炼神	Spirit Refining Tier
+炼体三境	three tiers of the Physique Refining Tier
+泥胚境	Mud Molding Tier
+气	Qi
+武道	martial arts
+悟性	comprehension ability
+木胎境	Wooden Fetus Tier
+水银镜	Mercury Tier
+泥菩萨过江	Mud Deity Crossing the River	name for tribulation
+窍穴	acupoint
