@@ -7051,10 +7051,16 @@ Qiu Jian	求剑
 陈氏	Chen Clan
 黄油纸	parchment paper
 撼山	Mountain Shaking
-楼	Tier	for cultivation tiers, i.e. Tier Six
 撼山谱	Mountain Shaking Guide
 敷衍	perfunctory
 玉玺	jade seal
 福地	blessed land
 符剑	talismanic sword
 陈对	Chen Dui
+楼	Tier	for cultivation tiers, i.e. Sixth Tier
+江湖	cultivation world
+截江真君	River Severing True Lord
+拳谱	fist technique
+十境	10th Tier
+棋待诏	Go official
+绣虎	Embroidered Tiger
