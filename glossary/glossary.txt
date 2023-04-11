@@ -7100,3 +7100,5 @@ Qiu Jian	求剑
 山岳玉牌	Mountain Range Jade Plate
 儒家	Confucian Sect
 压胜之物	subjugation treasures
+南魏国	Southern Wei Nation
+传家宝	heirloom
