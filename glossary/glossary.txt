@@ -6048,7 +6048,6 @@ Qiu Jian	求剑
 发泄	vent, let off, release
 耿直	honest and frank, upright
 承受	bear, support, endure, inherit
-万	tens-of-thousands
 流传	spread, circulate, hand down
 天资	talent
 卓越	unsurpassed, extreme, of the highest degree
@@ -7101,3 +7100,7 @@ Qiu Jian	求剑
 儒家	Confucian Sect
 压胜之物	subjugation treasures
 武人	martial artist
+万	tens of thousands
+站桩	standing meditation
+走桩	walking meditation
+睡桩	sleeping meditation
