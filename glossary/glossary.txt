@@ -6747,7 +6747,7 @@ Qiu Jian	求剑
 四脚蛇	four-legged snake
 杏花巷	Apricot Blossom Alley
 铁锁井	Iron Lock Well
-刘阳羡	Liu Xianyang	
+刘阳羡	Liu Xianyang
 大学士	grand secretary
 龙窑	dragon kiln
 草鞋	straw sandals
@@ -7100,3 +7100,4 @@ Qiu Jian	求剑
 山岳玉牌	Mountain Range Jade Plate
 儒家	Confucian Sect
 压胜之物	subjugation treasures
+武人	martial artist
