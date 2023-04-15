@@ -2920,6 +2920,14 @@ If someone owed Song Jixin one copper coin, perhaps he would demand them to obed
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>他有句话没跟自己徒弟挑明，世间天才是分很多种的，天赋亦是。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230415T044321Z" creationid="Yuanl" creationdate="20230415T044321Z">
+        <seg>There was something that he hadn't told his disciple just then. There were indeed many types of prodigies in the world, and there were indeed many different levels of talent and aptitude.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>他正要将一枚白子落在棋盘上，叹息一声，原本早有定数的棋子生根处，儒士突然开始举棋不定，他收回手后，棋子却依旧悬停空中，距离棋盘仍有寸余高度。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230329T071731Z" creationid="Admin" creationdate="20230329T071731Z">
@@ -3970,6 +3978,14 @@ He led the two young men into the room, and right as he did so, Liu Baqiao sudde
       </tuv>
       <tuv lang="EN-US" changeid="Yuanl" changedate="20230326T080955Z" creationid="Yuanl" creationdate="20230326T080858Z">
         <seg>Seeing that the woman was still relatively charming, he had initially wanted to take her in as a personal maidservant. However, just as he had developed this thought, she had immediately acted in such a vulgar and intolerable manner. She truly deserved to lose the opportunity to set foot on the path of cultivation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>先前那个草鞋少年，看似平淡无奇的六步走桩，其实浑身走着拳意。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230415T044639Z" creationid="Yuanl" creationdate="20230415T044515Z">
+        <seg>Just then, the six step walking meditation of the young boy in straw sandals had appeared ordinary and unremarkable. In reality, however, his movements had been filled with a rolling fist intent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14453,6 +14469,14 @@ Song Changjing said, "You should pray that you don't run into me again in your n
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>少年伸了个懒腰，“师父，你想多了，泥瓶巷那家伙就算再厉害，只要不惹到我，就与我无关，说到底，小镇这些人成就再高，将来也无非是我的yi块垫脚石而已，嫉妒？我感谢他们还来不及呢。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230415T043922Z" creationid="Yuanl" creationdate="20230415T043922Z">
+        <seg>The young boy stretched lazily and said, "Master, you're overthinking things. Regardless of how powerful that boy from Clay Vase Alley is, I won't bother him as long as he doesn't bother me. At the end of the day, the people in this small town are nothing more than stepping stones for me, regardless of how great their achievements. Being jealous of them? I can't even thank them fast enough!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>少年低声问道：“她死了”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230325T001545Z" creationid="Admin" creationdate="20230325T001545Z">
@@ -14673,6 +14697,14 @@ Song Changjing said, "You should pray that you don't run into me again in your n
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230405T140602Z" creationid="Admin" creationdate="20230405T140602Z">
         <seg>However, Chen Ping'an was able to react to the attack as if he had eyes on the back of his head, twisting around before ducking down right in the nick of time to avoid the powerful swat, then sprang toward the rooftop across the alley.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>少年好奇问道：“你在真武山排第几？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230415T044104Z" creationid="Yuanl" creationdate="20230415T044104Z">
+        <seg>"What are you ranked in the True Martial Mountain?" the young boy asked in curiosity?</seg>
       </tuv>
     </tu>
     <tu>
@@ -15069,6 +15101,14 @@ Song Changjing said, "You should pray that you don't run into me again in your n
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>少年白眼道：“早知道晚些再拜师。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230415T044203Z" creationid="Yuanl" creationdate="20230415T044203Z">
+        <seg>The young boy rolled his eyes and said, "If I had known this earlier, I would have waited for a little longer before choosing a master."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>少年皱眉道：“你认识我？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230322T220914Z" creationid="Admin" creationdate="20230322T220914Z">
@@ -15167,8 +15207,8 @@ Song Changjing said, "You should pray that you don't run into me again in your n
       <tuv lang="ZH-CN">
         <seg>少年突然问道：“那个泥瓶巷的家伙，怎么晓得水里石头的妙处？还开始练拳了？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Yuanl" changedate="20230415T042334Z" creationid="Yuanl" creationdate="20230415T042334Z">
-        <seg>"How did that boy from Clay Vase Alley find out about the value of the pebbles in the creek? And he's even practicing a fist technique?"</seg>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230415T042405Z" creationid="Yuanl" creationdate="20230415T042334Z">
+        <seg>"How did that boy from Clay Vase Alley find out about the value of the pebbles in the creek? And he's even practicing a fist technique?" the young boy suddenly asked.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19903,6 +19943,14 @@ Gu Can was the only weirdo in the small town who liked to collect snake gall peb
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>男人yi笑置之。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230415T044217Z" creationid="Yuanl" creationdate="20230415T044217Z">
+        <seg>The man replied with a smile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>男人一句话就摆平了少年。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230409T044437Z" creationid="Admin" creationdate="20230409T044437Z">
@@ -20231,6 +20279,14 @@ Gu Can was the only weirdo in the small town who liked to collect snake gall peb
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>男人无奈道：“真是讲不通，我估计以后真武山，会不消停了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230415T044044Z" creationid="Yuanl" creationdate="20230415T044044Z">
+        <seg>The man was exasperated, and he said, "There's truly no way to reason with you. I feel like the True Martial Mountain will have its hands full in the future."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>男人更加火大，如果不是在铸剑，差点就要调教骂人，“明明是让你背书就跟要你命一样，找什么借口……他娘的，闺女你这胃口，饿也很正常，还真不是借口……”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Yuanl" changedate="20230326T064146Z" creationid="Yuanl" creationdate="20230326T064146Z">
@@ -20407,10 +20463,26 @@ Gu Can was the only weirdo in the small town who liked to collect snake gall peb
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>男人突然神色严厉起来，“马苦玄！为师不管你什么性格桀骜，但是有yi点你必须谨记在心，我们兵家正宗剑修！修yi剑破万法，修yi剑顺本心，修yi剑求无敌，但是绝对不许滥杀无辜，不许欺辱俗人，更不许日后在剑道之上，因为嫉妒他人，就故意给同道中人下绊子！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230415T043641Z" creationid="Yuanl" creationdate="20230415T043641Z">
+        <seg>The man's expression instantly became serious, and he said, "Ma Kuxuan! I don't care if you're an unruly person or whatnot. However, there's one thing that you have to remember. We're swordsman from the Martial Sect! We wield the sword to shatter all techniques, we wield the sword to follow our mind, and we wield the sword to pursue invincibility. However, we definitely don't wield the sword to pick on mortals or to kill those who are innocent. More importantly, we can't purposely target others simply because we're jealous of their talent!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>男人端坐椅上，眼神深沉，望向屋外，仿佛在自言自语：“以后你看到的人越多，就会发现一件有趣的事情，什么善恶有报，快意恩仇，匹夫一怒血溅三尺，什么才子佳人，有情人终成眷，都是废物们臆想出来的大快人心。所以啊，你自己的拳头一定要硬，靠本王？靠你的亲生父母？我劝你趁早死了这条心，不然带你离开小镇，就是无异于带着你的尸体去乱葬岗，帝王之家，何尝不是生死自负。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230404T141758Z" creationid="Admin" creationdate="20230404T141758Z">
         <seg>Song Changjing sat down on his chair, casting his gaze out of the room, as he continued, seemingly talking to himself, "The more people you see in the future, the more you'll come to realize something interesting, wihch is that things like karma, justice, and happily ever afters are nothing more than romanticized stories made up by trash to console themselves. They're unable to do anything about the injustice in their lives, so they turn to these fairytales for some form of consolation. Hence, you must become strong at all costs. If you're thinking about relying on me or your parents, then I suggest you do away with those thoughts right now. Otherwise, taking you out of this town will be no different to killing you. Even members of imperial families must be responsible for their own lives."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>男人笑了笑，“不说这个，伤面子。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230415T044127Z" creationid="Yuanl" creationdate="20230415T044127Z">
+        <seg>The man chuckled and replied, "Let's not talk about this. I don't want to lose face."</seg>
       </tuv>
     </tu>
     <tu>
