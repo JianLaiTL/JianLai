@@ -1261,7 +1261,6 @@
 光龙星	Light Dragon Planet
 三元上人	Venerable Trinity
 两界通道	passageway of the two realms
-大道	great dao
 祖血	ancestral bloodline
 大圆满部	Consummate Level Division
 敕封	appoint
@@ -4815,7 +4814,6 @@ Qiu Jian	求剑
 飘荡	drift, float, wave, flutter
 气	spiritual energy
 天地间	between heaven and earth
-元气	vital energy, strength, vigour
 美妙	splendid, wonderful, beautiful, mesmerising
 按捺	restrain, control, suppress, contain
 悸动	pound, throb, palpitate from nervousness
@@ -7104,3 +7102,13 @@ Qiu Jian	求剑
 站桩	standing meditation
 走桩	walking meditation
 睡桩	sleeping meditation
+元气	vital energy
+元气	vigour
+立桩	standing meditation
+剑炉	Sword Furnace	for standing meditation
+千秋	Eternity	for sleeping meditation
+末法	degenerate age of Dharma
+天师	Heavenly Master
+护法	Dharmapala
+大德	Bhadanta
+水观心境	Observing Water Mental State
