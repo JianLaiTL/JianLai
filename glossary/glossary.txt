@@ -7112,3 +7112,5 @@ Qiu Jian	求剑
 护法	Dharmapala
 大德	Bhadanta
 水观心境	Observing Water Mental State
+剑修	swordsman
+拳意	fist intent
