@@ -6357,7 +6357,6 @@ Qiu Jian	求剑
 血神	Blood God
 秘籍	rare text, valuable book
 东方雪	Dongfang Xue
-神通	magical ability
 大魅惑术	Great Bewitching Technique
 化形	shape-shift
 娇声	seductive
@@ -7115,3 +7114,9 @@ Qiu Jian	求剑
 剑修	swordsman
 拳意	fist intent
 搬山猿	Mountain-moving Ape
+。	Chen Ping'an	author is retarded
+老猿	Bai Yuan
+护山猿	Bai Yuan
+本命	bonded
+土地神	God of the Land
+大骊藩王	Song Changjing
