@@ -4288,7 +4288,6 @@ Qiu Jian	求剑
 转世者	Reincarnators
 君王	sovereign, monarch, overlord
 空间节点	spatial node
-剑心	Heart of the Sword
 剑意	sword intent
 剑灵	sword spirit
 剑魂	sword soul
@@ -7120,3 +7119,6 @@ Qiu Jian	求剑
 本命	bonded
 土地神	God of the Land
 大骊藩王	Song Changjing
+少女	Ning Yao
+老杨头	Old Man Yang
+敕令仪式	Edict Ceremony
