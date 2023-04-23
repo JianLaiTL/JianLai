@@ -7119,3 +7119,7 @@ Qiu Jian	求剑
 老杨头	Old Man Yang
 敕令仪式	Edict Ceremony
 灵官	Enforcer	Daoist position
+玉枕	Jade Pillow
+天柱	Celestial Pillar
+祖庭	Ancestral Temple
+大道之敌	Dao enemy
