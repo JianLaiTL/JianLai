@@ -7118,3 +7118,4 @@ Qiu Jian	求剑
 少女	Ning Yao
 老杨头	Old Man Yang
 敕令仪式	Edict Ceremony
+灵官	Enforcer	Daoist position
