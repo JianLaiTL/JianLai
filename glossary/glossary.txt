@@ -7123,3 +7123,7 @@ Qiu Jian	求剑
 天柱	Celestial Pillar
 祖庭	Ancestral Temple
 大道之敌	Dao enemy
+神道	Divine Dao
+礼乐	Ritual and Music System
+兵家修士	martial artist
+阴神	Yin God
