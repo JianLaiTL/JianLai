@@ -4206,8 +4206,8 @@ Indeed, upon seeing Zhi Gui cutting the line, Granny Ma immediately started to s
       <tuv lang="ZH-CN">
         <seg>做完这一切，宁姚好奇问道：“陈平安，这是你们小镇的风土习俗？是祖辈传下来的规矩讲究？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Yuanl" changedate="20230424T100833Z" creationid="Yuanl" creationdate="20230424T100833Z">
-        <seg>After doing all this, Ning Yao asked in curiosity, ""</seg>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230424T101002Z" creationid="Yuanl" creationdate="20230424T100833Z">
+        <seg>After doing all this, Ning Yao asked in curiosity, "Chen Ping'an, is this a custom of the small town? Is this something passed down by your ancestors?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -11190,6 +11190,14 @@ When Gu Can had Chen Ping'an about this at that time, he had been laughing so ha
         <seg>宁姚一挑眉头。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Yuanl" changedate="20230422T230532Z" creationid="Yuanl" creationdate="20230422T230532Z">
+        <seg>Ning Yao raised an eyebrow.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>宁姚一挑眉毛。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230424T101054Z" creationid="Yuanl" creationdate="20230424T101054Z">
         <seg>Ning Yao raised an eyebrow.</seg>
       </tuv>
     </tu>
@@ -33703,6 +33711,14 @@ She stood up and gestured for Lu Zhengchun and the two servants to collect the b
       </tuv>
       <tuv lang="EN-US" changeid="Admin" changedate="20230404T144722Z" creationid="Admin" creationdate="20230404T144722Z">
         <seg>Chen Ping'an shook his head in response. "I was only able to meet three of the people I was looking for. I didn't get to meet Mr. Qi, but I already knew his answer from the very beginning."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>陈平安摇头道：“不是啊，是我自己这么觉得的。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Yuanl" changedate="20230424T101109Z" creationid="Yuanl" creationdate="20230424T101041Z">
+        <seg>Chen Ping'an shook his head and replied, "No, it's not. It's just something that I came up with."</seg>
       </tuv>
     </tu>
     <tu>
