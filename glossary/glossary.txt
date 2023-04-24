@@ -582,7 +582,6 @@
 山河斧	Mountain and River Axe
 灵器	Spirit Tool
 魔生剑	Demon Birth Sword
-神器	God Tool
 死灵之花	Flower of Dead Souls
 血槐树	Blood Locust Tree
 鲜于彩	Xianyu Cai
@@ -608,7 +607,6 @@
 山河斧	Mountain and River Axe
 灵器	Spirit Tool
 魔生剑	Demon Birth Sword
-神器	God Tool
 死灵之花	Flower of Dead Souls
 血槐树	Blood Locust Tree
 鲜于彩	Xianyu Cai
@@ -7127,3 +7125,9 @@ Qiu Jian	求剑
 礼乐	Ritual and Music System
 兵家修士	martial artist
 阴神	Yin God
+骑龙巷	Dragon Riding Alley
+压衣刀	skirt dagger
+无垢之躯	Untainted Physique
+神兵	Divine Weapon
+斩龙台	Dragon Slaying Platform
+磨剑石	sword whetstone
