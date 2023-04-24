@@ -7131,3 +7131,4 @@ Qiu Jian	求剑
 神兵	Divine Weapon
 斩龙台	Dragon Slaying Platform
 磨剑石	sword whetstone
+磨刀石	saber whetstone
