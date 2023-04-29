@@ -7133,3 +7133,4 @@ Qiu Jian	求剑
 磨剑石	sword whetstone
 磨刀石	saber whetstone
 养剑葫	Sword Nurturing Gourd
+术法	mystical ability
