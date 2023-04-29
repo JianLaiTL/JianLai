@@ -2092,13 +2092,8 @@
 死人菇	Death Mushroom
 圣王药	Saint King medicine
 闪击	Lightning Flash
-袁族	Yuan Tribe
 毁灭者	Destroyer
-程族	Cheng Tribe
 魂力	Spiritual Power
-岳族	Yue Tribe
-赵族	Zhao Tribe
-大河族	Great River Tribes
 先天通灵果	Natural Psychic Fruit
 庞真	Pang Zhen
 东仙域	Eastern Celestial Realm
@@ -7134,3 +7129,8 @@ Qiu Jian	求剑
 磨刀石	saber whetstone
 养剑葫	Sword Nurturing Gourd
 术法	mystical ability
+守墓人	graveyard attendent
+薛管事	Steward Xue
+搬柴哥哥	firewood collecting brother
+猿爷爷	Grandpa Yuan
+天材地宝楼	Treasure Pagoda
