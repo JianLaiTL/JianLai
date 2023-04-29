@@ -7134,3 +7134,5 @@ Qiu Jian	求剑
 书童	scholarly attendant
 亚圣	Second Sage
 本命字	kindred character
+山主	mountain master
+三学宫	three schools
