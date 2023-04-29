@@ -785,7 +785,6 @@
 妖兽	Demonic Beast
 赤湖	Crimson Lake
 精神秘术	spiritual secret technique
-神通	Mystical Power
 飞行神器	Flight God Tool
 空间神器	Spatial God Tool
 精华	essence
@@ -801,10 +800,8 @@
 体魄	physique
 神火	divine flame
 丹田	Dantian
-境界	cultivation level
 中期	middle stage
 山河	Mountain River
-修为	cultivation level
 力不从心	strained
 无奈	reluctant
 无奈	exasperation
@@ -4494,7 +4491,6 @@ Qiu Jian	求剑
 下品	inferior-grade
 中品	medial-grade
 大能	mighty figure
-洞天	Grotto-heaven
 老太君	matriarch
 天榜	Heaven roll
 神榜	God roll
@@ -4828,7 +4824,6 @@ Qiu Jian	求剑
 呆滞	dull, lifeless, idle
 傻	dumfounded, stunned, foolish, silly, stupid, imbecile
 信仰	faith, conviction, belief
-境界	Cultivation Base
 万念俱灰	completely disheartened, abandon oneself in despair, become totally disillusioned, despondent
 察觉	sense, become aware, to perceive, to detect
 吓懵	scared sh*tless
@@ -6739,7 +6734,6 @@ Qiu Jian	求剑
 摸骨	scapulimancy
 陈平安	Chen Ping'an
 泥瓶巷	Clay Vase Alley
-道士	daoist priest
 稚圭	Zhi Gui
 虬	drake
 螭	hornless dragon
@@ -7134,3 +7128,9 @@ Qiu Jian	求剑
 搬柴哥哥	firewood collecting brother
 猿爷爷	Grandpa Yuan
 天材地宝楼	Treasure Pagoda
+境界	cultivation base
+道士	Daoist priest
+洞天	realm
+书童	scholarly attendant
+亚圣	Second Sage
+本命字	kindred character
