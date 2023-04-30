@@ -4177,7 +4177,6 @@ Qiu Jian	求剑
 超品	transcendent-grade
 飞剑	flying sword
 道符	Dao talisman
-道法	Dharmic Dao
 定身术	Immobilizing Spell
 祸害	wreaked havoc
 传音	a voice transmission
@@ -4260,7 +4259,6 @@ Qiu Jian	求剑
 孤阴不长，独阳不生	Lone Yin did not lead to birth and solitary Yang did not allow growth
 太乙	Primordial Unity
 乾坤袋	Cosmic Bag, Cosmos Bag, Bag of the Cosmos
-妖	demon, Fey, demonic spirits
 魔	fiend, demon
 闭关	seclusion
 魔仆	demonic servant
@@ -6161,13 +6159,6 @@ Qiu Jian	求剑
 昆仑	Kunlun Mountain
 剿	suppress, put down, destroy, exterminate, annihilate
 怪物	monstrosity
-妖	Evil Spirit
-魔	Demon
-鬼	Ghost
-怪	Monster
-兵	Pawn
-将	General
-帝	Emperor
 渠道	channel, medium of communication, means
 半步	Half-Step
 动荡	commotion, unrest, turmoil, upheaval
@@ -7144,3 +7135,12 @@ Qiu Jian	求剑
 杨老头	Old Man Yang
 郑大风	Zheng Dafeng
 神通	mystical ability
+妖	demon
+魔	demon
+鬼	ghost
+怪	monster
+兵	pawn
+将	general
+帝	emperor
+饕餮	Taotie
+飞升境	Ascension Tier
