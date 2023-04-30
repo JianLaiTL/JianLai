@@ -6746,7 +6746,6 @@ Qiu Jian	求剑
 根骨	aptitude for cultivation
 肉眼可见	at a rate disciernible to the naked eye
 玄术	profound arts
-神通	mystical abilities
 道法	dao powers
 披云山	Cloud Drape Mountain
 赵繇	Zhao Yao
@@ -7144,3 +7143,4 @@ Qiu Jian	求剑
 杨老先生	Mr. Yang
 杨老头	Old Man Yang
 郑大风	Zheng Dafeng
+神通	mystical ability
