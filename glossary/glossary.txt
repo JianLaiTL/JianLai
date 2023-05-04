@@ -7145,3 +7145,6 @@ Qiu Jian	求剑
 饕餮	Taotie
 飞升境	Ascension Tier
 李二	Li Er
+金刚不败	indestructible vajra
+骊珠小洞天	Jewel Small World
+书箱	bookcase
