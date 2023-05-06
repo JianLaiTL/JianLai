@@ -801,7 +801,6 @@
 神火	divine flame
 丹田	Dantian
 中期	middle stage
-山河	Mountain River
 力不从心	strained
 无奈	reluctant
 无奈	exasperation
@@ -4188,7 +4187,6 @@ Qiu Jian	求剑
 提炼	extraction
 金乌	Golden Crow
 神魔	Godfiend
-家族	family clan
 女帝	Great Empress
 随意	nonchalantly, casually, indifferently
 老祖	Patriarch
@@ -4514,7 +4512,6 @@ Qiu Jian	求剑
 百花	Centaurea
 药师	Apothecary
 天帝	Celestial Thearch
-道君	Daolord
 太初	Grand Primordium
 仙人	Immortal
 安林	An Lin
@@ -7149,3 +7146,11 @@ Qiu Jian	求剑
 书箱	bookcase
 清明节	Tomb Sweeping Festival
 骊珠	Jewel Small World
+道君	Dao Lord
+道貌岸然	sanctimonious
+功德坊	merit archway
+功名坊	scholarly honor archway
+学宫书院坊	academy archway
+刘家	Liu Clan
+天君	Heavenly Lord
+河婆	river guardian
