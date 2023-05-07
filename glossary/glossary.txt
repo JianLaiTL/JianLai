@@ -7153,4 +7153,9 @@ Qiu Jian	求剑
 学宫书院坊	academy archway
 刘家	Liu Clan
 天君	Heavenly Lord
-河婆	river guardian
+河婆	river guardian	this is Granny Ma
+阴德	hidden virtue
+谱牒	genealogical records
+老妪	old woman	if referring to river guardian, this is Granny Ma
+天命所归	Mandate of Heaven
+龙王篓	Dragon King Basket
