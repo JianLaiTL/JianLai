@@ -860,8 +860,6 @@
 神境	Immortal level
 终极一箭	Ultimate Arrow
 识海	mind
-神剑	Divine Sword
-剑芒	Sword Ray
 右相	Right Minister
 七大将	the Seven Generals
 灵液	spiritual liquid
@@ -899,7 +897,6 @@
 师兄	Senior Brother
 师姐	Senior Sister
 师弟	Junior Brother
-神兵	God Tool
 初期	early stage
 神骨	Godly bones
 二星天才	two-star genius
@@ -7104,7 +7101,6 @@ Qiu Jian	求剑
 骑龙巷	Dragon Riding Alley
 压衣刀	skirt dagger
 无垢之躯	Untainted Physique
-神兵	Divine Weapon
 斩龙台	Dragon Slaying Platform
 磨剑石	sword whetstone
 磨刀石	saber whetstone
@@ -7166,3 +7162,12 @@ Qiu Jian	求剑
 罡风洞天	Astral Winds Small World
 须弥芥子	all-encompassing seed
 袖有乾坤	world up the sleeve
+神剑	divine sword
+剑芒	sword ray
+神兵	divine weapon
+雷池剑阵	Lightning Field Sword Formation
+苏稼	Su Jia
+许氏	Xu Clan
+颍阴陈氏	Yingyin Chen Clan
+洞天	mystical realm
+洞天	small world	i used these two interchangeably
