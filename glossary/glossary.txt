@@ -7171,3 +7171,6 @@ Qiu Jian	求剑
 洞天	small world	i used these two interchangeably
 剑气	sword qi
 剑仙	sword immortal
+河神	river god
+江神	great river god
+水精	water essence
