@@ -1114,7 +1114,6 @@
 圣	Saint	when referring to cultivators at the Genesis Tier
 小帝	Little Asura	When referring to Asura Demon Emperor. (i think calling him Little Emperor sounds weird)
 准	pseudo	when talking about cultivation levels
-剑气	Sword Qi
 后阳	Hou Yang
 居乐云	Ju Yueyun
 散修	lone cultivator
@@ -4988,7 +4987,6 @@ Qiu Jian	求剑
 战书	letter of challenge
 风波	disturbance, crisis
 班长	class captain
-剑仙	Sword Immortal
 凌霄	Ling Xiao
 清新	pure and fresh
 俊逸	handsome
@@ -7171,3 +7169,5 @@ Qiu Jian	求剑
 颍阴陈氏	Yingyin Chen Clan
 洞天	mystical realm
 洞天	small world	i used these two interchangeably
+剑气	sword qi
+剑仙	sword immortal
