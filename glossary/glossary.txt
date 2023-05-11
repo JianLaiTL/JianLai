@@ -823,7 +823,6 @@
 大人物	powerful figure
 大人物	mighty figure
 妖孽	freakish
-皇都	Imperial Capital
 小子	brat
 小友	young friend
 武道界	martial arts world
@@ -1187,7 +1186,6 @@
 祭坛	sacrificial altar
 宙天皇	Eternity Sky Emperor
 灵魂	soul
-皇兄	Imperial Brother
 怒江	furious river
 飞梭	shuttle
 宝甲	treasured armor
@@ -6237,7 +6235,6 @@ Qiu Jian	求剑
 流氓	hooligan
 破邪符	warding seal
 剑芒	sword projection, sword aura
-法器	Magic Tool
 咳	ahem
 痛苦	pain, suffering, agony
 精神	vigour, vitality, drive, spirited, spirit, consciousness, mind, mental state, essence
@@ -7169,7 +7166,6 @@ Qiu Jian	求剑
 颍阴陈氏	Yingyin Chen Clan
 洞天	mystical realm
 洞天	small world	i used these two interchangeably
-剑气	sword qi
 剑仙	sword immortal
 河神	river god
 江神	great river god
@@ -7180,9 +7176,16 @@ Qiu Jian	求剑
 神庭	Divine Court
 巨阙	Giant Tower
 太渊	Great Void
-散气	qi dispersion
-养气	qi development
 天生火神之体	innate fire god constitution
 火神之体	fire god constitution
 证道契机	Dao attainment catalyst
 五岳	Five Mountains
+皇都	imperial capital
+皇兄	imperial brother
+剑气	sword Qi
+散气	Qi dispersion
+养气	Qi development
+龙头山	Dragon Head Mountain
+止境	end tier	for 10th tier of martial arts
+练气士	Qi refiner
+法器	artifact
