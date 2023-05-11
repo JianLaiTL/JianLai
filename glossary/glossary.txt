@@ -7185,3 +7185,4 @@ Qiu Jian	求剑
 天生火神之体	innate fire god constitution
 火神之体	fire god constitution
 证道契机	Dao attainment catalyst
+五岳	Five Mountains
