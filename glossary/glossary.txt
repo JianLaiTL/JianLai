@@ -7186,6 +7186,6 @@ Qiu Jian	求剑
 散气	Qi dispersion
 养气	Qi development
 龙头山	Dragon Head Mountain
-止境	end tier	for 10th tier of martial arts
 练气士	Qi refiner
 法器	artifact
+止境	End Tier	for 10th tier of martial arts
