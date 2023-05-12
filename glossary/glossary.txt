@@ -7189,3 +7189,7 @@ Qiu Jian	求剑
 练气士	Qi refiner
 法器	artifact
 止境	End Tier	for 10th tier of martial arts
+龙泉县	Dragon Spring County
+龙脊山	Dragonspine Mountain
+风雪庙	Wind Snow Temple
+吴鸢	Wu Yuan
