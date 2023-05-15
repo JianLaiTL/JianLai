@@ -7204,3 +7204,7 @@ Qiu Jian	求剑
 挑灯山	Lamp Bearer Mountain
 横槊峰	Gallant Spear Mountain
 城隍阁	city god pavilion
+仙草山	Immortal Herb Mountain
+宝箓山	Treasured Scripture Mountain
+彩云峰	Rainbow Cloud Mountain
+点灯山	Lamp Bearer Mountain
