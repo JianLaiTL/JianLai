@@ -780,7 +780,6 @@
 唐风	Tang Feng
 仙金	Divine Metal
 神铁	Godly metal
-秘境	Mystery Realm
 银角狂犀	Silver Horned Mad Rhinoceros
 妖兽	Demonic Beast
 赤湖	Crimson Lake
@@ -4226,7 +4225,6 @@ Qiu Jian	求剑
 伯爵	earl
 子爵	viscount
 男爵	baron
-秘境	mystic realm
 离火	Li Fire
 三足	three-legged
 器灵	Item Spirit, Artifact Spirit
@@ -7076,7 +7074,6 @@ Qiu Jian	求剑
 老猿	Bai Yuan
 护山猿	Bai Yuan
 本命	bonded
-土地神	God of the Land
 大骊藩王	Song Changjing
 少女	Ning Yao
 老杨头	Old Man Yang
@@ -7105,7 +7102,6 @@ Qiu Jian	求剑
 天材地宝楼	Treasure Pagoda
 境界	cultivation base
 道士	Daoist priest
-洞天	realm
 书童	scholarly attendant
 亚圣	Second Sage
 本命字	kindred character
@@ -7235,3 +7231,19 @@ Qiu Jian	求剑
 英灵	heroic spirit
 钦天监	ministy of astronomy
 驿站	postal station
+秘境	mystical realm
+竹海洞天	Bamboo Sea Small World
+神水国	Divine Water Nation
+冲澹江	Rushing Tranquil River
+年轻土地	Wei Bo	mountain lord of Go Table Mountain
+竹夫人	Lady Zhu
+小洞天	small world
+大洞天	large world
+岛屿洞天	Island Small World
+吞岛鲸	island-engulfing whale
+青神山	Azure Divine Mountain
+功德簿	merit register
+道德林	forest of morality
+青乌先生	Mr. Qingwu
+礼部	ministry of rites
+江神	river god
