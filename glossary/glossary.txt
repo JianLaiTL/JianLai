@@ -4166,7 +4166,6 @@ Qiu Jian	求剑
 灵丹	Spirit Pills
 修行界	cultivation world
 地火	Earth fire
-葫	Calabash, gourd
 超品	transcendent-grade
 飞剑	flying sword
 道符	Dao talisman
@@ -6807,7 +6806,6 @@ Qiu Jian	求剑
 墙外书	Beyond the Wall
 曹曦	Cao Xi
 县志	Local County Chronicle
-四姓十族	Four Surnames and Ten Clans
 婢女	maidservant
 谢实	Xie Shi
 乡塾	private school
@@ -6938,7 +6936,6 @@ Qiu Jian	求剑
 小溪	creek
 蛇胆石	snake gall pebbles
 簪子	hairpin
-财迷	avaricious
 算命先生	fortune teller
 石子	pebble
 青色石崖	green stone cliff
@@ -7220,3 +7217,21 @@ Qiu Jian	求剑
 林守一	Lin Shouyi
 李槐	Li Huai
 文圣	Scholarly Sage
+葫	gourd
+四姓十族	Four Families and Ten Clans
+阿良	A'Liang
+土地	mountain lord	for the guy at Go Table Mountain because Mountain God is different i think
+棋墩山	Go Table Mountain
+土地	earth lord
+魏檗	Wei Bo
+蛇蟒	python
+朱河	Zhu He
+朱鹿	Zhu Lu
+横宝阁	horizontal treasure pagoda
+红烛镇	Red Candle Town
+朱叔叔	Uncle Zhu
+铁符河	Iron Talisman River
+山神	mountain god
+英灵	heroic spirit
+钦天监	ministy of astronomy
+驿站	postal station
