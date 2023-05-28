@@ -7229,7 +7229,6 @@ Qiu Jian	求剑
 铁符河	Iron Talisman River
 山神	mountain god
 英灵	heroic spirit
-钦天监	ministy of astronomy
 驿站	postal station
 秘境	mystical realm
 竹海洞天	Bamboo Sea Small World
@@ -7245,5 +7244,6 @@ Qiu Jian	求剑
 功德簿	merit register
 道德林	forest of morality
 青乌先生	Mr. Qingwu
-礼部	ministry of rites
 江神	river god
+钦天监	Ministy of Astronomy
+礼部	Ministry of Rites
