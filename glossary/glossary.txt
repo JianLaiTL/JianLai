@@ -2594,7 +2594,6 @@
 剑猪	Blade Hog
 仙王血石	Celestial King Bloodstone
 斑红青竹	Red Spotted Green Bamboo
-仙竹	Celestial Bamboo
 叶林峰	Ye Linfeng
 大道真解	true meaning of the great dao
 灭天九剑	Heaven Destroying Nine Swords
@@ -7015,7 +7014,6 @@ Qiu Jian	求剑
 炼体	Physique Refining Tier
 炼神	Spirit Refining Tier
 炼体三境	three tiers of the Physique Refining Tier
-泥胚境	Mud Molding Tier
 气	Qi
 武道	martial arts
 悟性	comprehension ability
@@ -7251,3 +7249,8 @@ Qiu Jian	求剑
 青童天君	Azure Child Heavenly Lord
 地官	earth official
 散气	qi dispersion
+仙竹	celestial bamboo
+泥胚境	Clay Embryo Tier
+兵家修士	martial arts cultivator
+奋勇竹	courage bamboo
+正神	formal god
