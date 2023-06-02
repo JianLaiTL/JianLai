@@ -7173,7 +7173,6 @@ Qiu Jian	求剑
 五岳	Five Mountains
 皇都	imperial capital
 皇兄	imperial brother
-剑气	sword Qi
 散气	Qi dispersion
 养气	Qi development
 龙头山	Dragon Head Mountain
@@ -7254,3 +7253,6 @@ Qiu Jian	求剑
 兵家修士	martial arts cultivator
 奋勇竹	courage bamboo
 正神	formal god
+剑气	sword qi
+道意	Dao intent
+猛字楼	The Fierce Building
