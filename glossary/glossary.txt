@@ -7285,3 +7285,6 @@ Qiu Jian	求剑
 断水大崖	Severed Water Cliff
 蠹鱼	silverfish
 二公子	Second Young Master
+文昌阁	Wenchang pavilion
+竹叶亭	Bamboo Leaf Pavilion
+神水王朝	Divine Water Nation
