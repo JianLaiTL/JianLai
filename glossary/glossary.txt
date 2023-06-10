@@ -7133,7 +7133,6 @@ Qiu Jian	求剑
 学宫书院坊	academy archway
 刘家	Liu Clan
 天君	Heavenly Lord
-河婆	river guardian	this is Granny Ma
 阴德	hidden virtue
 谱牒	genealogical records
 老妪	old woman	if referring to river guardian, this is Granny Ma
@@ -7288,3 +7287,14 @@ Qiu Jian	求剑
 文昌阁	Wenchang pavilion
 竹叶亭	Bamboo Leaf Pavilion
 神水王朝	Divine Water Nation
+河婆	river guardian	this sometimes refers to Granny Ma
+野夫关	Yefu Pass
+馒头山	Steamed Bun Mountain
+李锦	Li Jin
+郎中	palace minister	actually dont know, cant find shit about it
+员外郎	external official
+吏部	Ministry of Personnel
+祭清吏司	Ritual Office
+龙须河	Dragon Whisker River
+铁符江	Iron Talisman River
+青冥鱼	green darkness fish
