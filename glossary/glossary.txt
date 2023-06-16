@@ -7311,3 +7311,4 @@ Qiu Jian	求剑
 金身	gold statue	i think it's a statue, cmiiw
 武选司	Martial Examination Office
 中五楼	Middle Five Tiers
+。	————
