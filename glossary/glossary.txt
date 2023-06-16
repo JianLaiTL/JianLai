@@ -7045,7 +7045,6 @@ Qiu Jian	求剑
 雷音塔	Thundering Pagoda
 天师印	Heavenly Master Seal
 小剑冢	Small Sword Resting Ground
-兵家	Martial Sect
 山岳玉牌	Mountain Range Jade Plate
 儒家	Confucian Sect
 压胜之物	subjugation treasures
@@ -7082,7 +7081,6 @@ Qiu Jian	求剑
 大道之敌	Dao enemy
 神道	Divine Dao
 礼乐	Ritual and Music System
-兵家修士	martial artist
 骑龙巷	Dragon Riding Alley
 压衣刀	skirt dagger
 无垢之躯	Untainted Physique
@@ -7247,7 +7245,6 @@ Qiu Jian	求剑
 散气	qi dispersion
 仙竹	celestial bamboo
 泥胚境	Clay Embryo Tier
-兵家修士	martial arts cultivator
 奋勇竹	courage bamboo
 正神	formal god
 剑气	sword qi
@@ -7263,7 +7260,6 @@ Qiu Jian	求剑
 英雄胆	Hero's Gall Pill
 紫气书	Purple Qi Guide
 练气士	cultivator
-兵家修士	weapons cultivator	i always get parts were this is explicitly used to contrast with martial artist
 杏花春	apricot blossom wine
 绣花江	Embroidered Flower River
 程昇	Cheng Sheng
@@ -7274,7 +7270,6 @@ Qiu Jian	求剑
 驿丞	Cheng Sheng	dude at Red Candle Town
 桃花春烧	spring peach blossom wine
 敷水湾	Fu Inlet
-船家女	boat women
 玉液江	Fine Wine River
 画舫	decorated boat
 天华元宝	Heavenly Brilliance Ingots
@@ -7312,3 +7307,9 @@ Qiu Jian	求剑
 武选司	Martial Examination Office
 中五楼	Middle Five Tiers
 。	————
+兵家	Military Sect
+兵家修士	military cultivator
+船家女	boat hostess
+上五楼	Upper Five Tiers
+兵家练气士	military cultivator
+阴物	yin entity
