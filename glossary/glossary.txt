@@ -915,7 +915,6 @@
 越级战斗能力	tier surpassing battle prowess
 重力神纹	divine patterns of gravity
 玄妙三千	Mysterious Three Thousand
-规则	Regulations
 身法	movement technique
 大圆满	consummate level
 空间灵器	Spatial Spirit Tool
@@ -2284,7 +2283,6 @@
 本源之力	Source Power
 九大母水	Nine Great Source Waters
 三星丹师	three-star alchemist
-道则	Regulations
 本源	Source Power
 柳怀玉	Liu Huaiyu
 媚功	charm technique
@@ -3176,7 +3174,6 @@
 孔家老祖	ancestor of the Kong Clan
 青青	Qing Qing
 十炼	Tenth Refinement
-宝器	precious tool
 位面坐标	dimension coordinate
 周恒	Zhou Heng
 科技位面	Technology Realm
@@ -7314,3 +7311,9 @@ Qiu Jian	求剑
 兵家练气士	military cultivator
 阴物	yin entity
 金身	godly body
+规则	regulations
+道则	Dao Regulations
+宝器	precious artifact
+大妖	great demon
+剑气长城	Sword Qi Great Wall
+司礼监	eunuch supervisor
