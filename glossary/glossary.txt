@@ -1187,7 +1187,6 @@
 怒江	furious river
 飞梭	shuttle
 宝甲	treasured armor
-兵部	Minsitry of War
 孔成和	Kong Chenghe
 古天初	Gu Tianchu
 南门扬	Nanmen Yang
@@ -1646,7 +1645,6 @@
 无颜族	Faceless Tribe
 顶级王者	supreme king tier
 天雷	divine lightning
-仙气	Celestial Qi
 破金三拳	Gold Crushing Three Punches
 本源神焰	essence divine flames
 手诀	hand seals
@@ -7304,8 +7302,6 @@ Qiu Jian	求剑
 武选司	Martial Examination Office
 中五楼	Middle Five Tiers
 。	————
-兵家	Military Sect
-兵家修士	military cultivator
 船家女	boat hostess
 上五楼	Upper Five Tiers
 兵家练气士	military cultivator
@@ -7317,3 +7313,15 @@ Qiu Jian	求剑
 大妖	great demon
 剑气长城	Sword Qi Great Wall
 司礼监	eunuch supervisor
+兵部	Ministry of War
+仙气	immortal Qi
+兵家	School of Military Thought
+兵家修士	militarian cultivator
+白玉京	White Jade Capital
+宋睦	Song Mu
+宋睦	Song Mu
+陆先生	Mr. Lu
+堪舆	geomancy
+栾巨子	Luan Juzi
+升龙城	Dragon Rising City
+栾长野	Luan Changye
