@@ -7335,3 +7335,6 @@ Qiu Jian	求剑
 墨家	Mohist Sect
 宋正醇	Song Zhengchun
 功德林	Forest of Virtue
+剑客	swordsman
+妖族	demon tribe
+阴阳家	School of Naturalists
