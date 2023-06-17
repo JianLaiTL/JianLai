@@ -7327,3 +7327,5 @@ Qiu Jian	求剑
 栾长野	Luan Changye
 金身境	Vajra Body Tier
 羽化境	Wing Formation Tier
+山巅境	Mountain Summit Tier
+远游境	Far Roaming Tier
