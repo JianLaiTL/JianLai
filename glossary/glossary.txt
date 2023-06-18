@@ -7335,3 +7335,6 @@ Qiu Jian	求剑
 绿波亭	Green Ripple Pavilion
 兵家	Militarian	(cultivator, swordsman, Qi refiner)
 兵家练气士	Militarian Qi refiner
+兵家修士	Militarian cultivator
+小说家	Fictionist
+小说家	School of Fiction
