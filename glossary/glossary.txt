@@ -1535,7 +1535,6 @@
 界灵石	Realm Spirit Stone
 紫月军	Purple Moon Army
 古丹方	ancient pill recipe
-功勋	merit points
 十二天秘境	Twelve Heaven Mystery Realm
 天河王	Heavenly River King
 青焰雕	Azure Flame Vulture
@@ -2156,7 +2155,6 @@
 白茫	White Haze
 八星长老	eight star elder
 四星长老	four star elder
-升龙击	Ascending Dragon Strike
 项文昆	Xiang Wenkun
 葬鬼剑	Buried Ghost Sword
 童金云	Tong Jinyun
@@ -2329,7 +2327,6 @@
 混元石仙胎	Chaos Element Rock Divine Fetus
 空灵战矛	Ethereal Battle Spear
 千赵阳	Qianzhao Yang
-升龙殿	Ascending Dragon Palace
 无尽海域	boundless seas
 火之本源	origin flames
 大白兔	large white rabbit
@@ -3350,7 +3347,6 @@
 死亡竞技场	Tournament of Death
 罗央	Luo Yang
 血战王	Blood Martial King
-升龙丹	Ascending Dragon Pill
 唐少	Young Master Tang
 百胜血战王	Hundred Victory Blood Martial King
 千胜血战王	Thousand Victory Blood Martial King
@@ -5751,8 +5747,6 @@ Qiu Jian	求剑
 快感	pleasure, thrill, delight, joy
 疯	mad, insane, crazy, wild
 循环	cycle, circulate, loop
-战力值	Combat Capability
-功勋	achievement score
 开挂	unbelievably good, cheating
 体质	physique, constitution
 大展神威	display one's invincible might
@@ -7338,3 +7332,6 @@ Qiu Jian	求剑
 剑客	swordsman
 妖族	demon tribe
 阴阳家	School of Naturalists
+功勋	meritorious service
+农家	Agriculturalism
+农家	School of Agrarianism
