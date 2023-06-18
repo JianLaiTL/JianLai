@@ -7093,7 +7093,6 @@ Qiu Jian	求剑
 宝瓶洲	Eastern Treasured Vial Continent
 泥丸穴	Mud Pellet acupoint
 阮师	Master Ruan
-兵家	martial artists
 海潮铁骑	Sea Tide Cavalry
 杨老先生	Mr. Yang
 杨老头	Old Man Yang
@@ -7298,7 +7297,6 @@ Qiu Jian	求剑
 。	————
 船家女	boat hostess
 上五楼	Upper Five Tiers
-兵家练气士	military cultivator
 阴物	yin entity
 金身	godly body
 规则	regulations
@@ -7310,7 +7308,6 @@ Qiu Jian	求剑
 兵部	Ministry of War
 仙气	immortal Qi
 兵家	School of Military Thought
-兵家修士	militarian cultivator
 白玉京	White Jade Capital
 宋睦	Song Mu
 宋睦	Song Mu
@@ -7336,3 +7333,5 @@ Qiu Jian	求剑
 农家	Agriculturalism
 农家	School of Agrarianism
 绿波亭	Green Ripple Pavilion
+兵家	Militarian	(cultivator, swordsman, Qi refiner)
+兵家练气士	Militarian Qi refiner
