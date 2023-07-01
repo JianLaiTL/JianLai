@@ -1,3 +1,4 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
 凌寒	Ling Han
 巅峰	peak
 不灭天经	Undying Heavenly Scripture
