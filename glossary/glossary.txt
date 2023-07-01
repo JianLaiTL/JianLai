@@ -1345,7 +1345,6 @@
 魔主精元	Demonic Power Source
 上古天族	ancient divine tribe
 古天族	ancient divine tribe
-道基	dao foundation
 易容丹	Change Appearance Pill
 五行之躯	Five Element Body
 天人之厄	Immortal's Calamity
@@ -6311,7 +6310,6 @@ Qiu Jian	求剑
 血族	Blood Tribe
 魔族	Demon Tribe
 张天师	Heavenly Teacher Zhang
-道根	dao foundations
 血肉灵碑	Flesh and Blood Spirit Tablet
 黑泽	dark marshlands
 灵根	spirit root
@@ -6363,8 +6361,6 @@ Qiu Jian	求剑
 隽云	Gwen
 瞬发魔法	instant-release spells
 《时空法则》	"Laws of Time and Space"
-鹰隼	Professor Hawk
-费提墨	Professor Hawk
 枕剑会	Pillow Sword Tournament
 紫荆阁	Redbud Pavilion
 魔法盾	magic shield
@@ -6989,7 +6985,6 @@ Qiu Jian	求剑
 符剑	talismanic sword
 陈对	Chen Dui
 楼	Tier	for cultivation tiers, i.e. Sixth Tier
-江湖	cultivation world
 截江真君	River Severing True Lord
 拳谱	fist technique
 十境	10th Tier
@@ -7338,3 +7333,12 @@ Qiu Jian	求剑
 兵家修士	Militarian cultivator
 小说家	Fictionist
 小说家	School of Fiction
+小子	lad
+道基	Dao foundation
+道根	Dao foundations
+栾巨子	Luan Changye	his actual name
+下五境	Lower Five Tiers
+剑元	sword essence
+杨花	Yang Hua
+六部	Six Ministries
+宋和	Song He
