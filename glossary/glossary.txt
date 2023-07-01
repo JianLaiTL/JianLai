@@ -7342,3 +7342,5 @@ Qiu Jian	求剑
 杨花	Yang Hua
 六部	Six Ministries
 宋和	Song He
+烽燧	beacon tower
+金锭	gold ingot
