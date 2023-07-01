@@ -7345,3 +7345,6 @@ Qiu Jian	求剑
 宋和	Song He
 烽燧	beacon tower
 金锭	gold ingot
+香火山	Incense Mountain
+点香山	Incense Mountain
+侍郎	assistant minister
