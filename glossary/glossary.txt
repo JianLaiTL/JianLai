@@ -7349,3 +7349,14 @@ Qiu Jian	求剑
 点香山	Incense Mountain
 侍郎	assistant minister
 下五境	Lower Five Tiers
+铜皮	Copper Skin Tier
+草根	Grass Root
+柳筋	Willow Tendon Tier
+骨气	Bone Qi Tier
+铸炉	Furnace Molding Tier
+洞府境	Abode Tier
+观海境	Sea Observation Tier
+龙门境	Dragon Gate Tier
+金丹境	Golden Core Tier
+元婴境	Nascent Tier
+中五境	Middle Five Tiers
