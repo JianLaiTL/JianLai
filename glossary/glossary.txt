@@ -6845,7 +6845,6 @@ Qiu Jian	求剑
 道家真君	True Lord of Daoism
 少女	young woman
 少女	young girl
-笑道	smiled and replied
 窑工	potter
 杨家铺子	Yang Family's medicine shop
 秘方	secret recipe
@@ -7011,7 +7010,6 @@ Qiu Jian	求剑
 书院	academy
 护经师	Dharmapala
 静心得意	Tranquil Mind Begets Enlightenment
-陈十一	Chen Shiyi
 龙兴之地	origin of a dynasty
 符箓	talisman
 锁龙井	Dragon Locking Well
@@ -7194,7 +7192,6 @@ Qiu Jian	求剑
 阿良	A'Liang
 土地	mountain lord	for the guy at Go Table Mountain because Mountain God is different i think
 棋墩山	Go Table Mountain
-土地	earth lord
 魏檗	Wei Bo
 蛇蟒	python
 朱河	Zhu He
@@ -7365,3 +7362,15 @@ Qiu Jian	求剑
 仙人境	Immortal Tier
 飞升境	Ascension Tier
 失传二境	Two Lost Tiers
+炼体三境	Three Physique Refining Tier
+水银境	Mercury Tier
+炼气三境	Three Qi Refining Tiers
+英魂境	Heroic Spirit Tier
+雄魄境	Gallant Soul Tier
+武胆境	Martial Courage Tier
+炼神三境	Three Mind Refining Tiers
+止境	End Tier
+气盛境	Thriving Qi Tier
+归真境	Simplification Tier
+神到境	Divinity Tier
+武神境	Martial God Tier
