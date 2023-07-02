@@ -7360,3 +7360,8 @@ Qiu Jian	求剑
 金丹境	Golden Core Tier
 元婴境	Nascent Tier
 中五境	Middle Five Tiers
+上五境	Upper Five Tiers
+玉璞境	Unpolished Jade Tier
+仙人境	Immortal Tier
+飞升境	Ascension Tier
+失传二境	Two Lost Tiers
