@@ -7376,3 +7376,4 @@ Qiu Jian	求剑
 江水正神	great river god
 伪	pseudo
 雨师	rain god
+江水神	great river god
