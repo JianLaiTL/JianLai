@@ -7377,3 +7377,4 @@ Qiu Jian	求剑
 伪	pseudo
 雨师	rain god
 江水神	great river god
+李宝箴	Li Baozhen
