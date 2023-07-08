@@ -6985,7 +6985,6 @@ Qiu Jian	求剑
 楼	Tier	for cultivation tiers, i.e. Sixth Tier
 截江真君	River Severing True Lord
 拳谱	fist technique
-十境	10th Tier
 棋待诏	Go official
 绣虎	Embroidered Tiger
 炼体境	Physique Refining Tier
@@ -7383,3 +7382,4 @@ Qiu Jian	求剑
 谢谢	Xie Xie
 宛平县	Wanping County
 神仙台	Divine Platform
+十境	10th tier
