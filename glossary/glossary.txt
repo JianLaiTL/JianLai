@@ -6535,7 +6535,6 @@ Qiu Jian	求剑
 华国地府	Cathayan Underworld
 不扩散	treaty on the non-proliferation of forbidden arts
 神弃之地	forsaken land
-阴符	Yin Talismans
 李贞淑	Lee Jung-sook
 中元节	Hungry Ghost Festival
 权景浩	Kwon Kyung-ho
@@ -7277,7 +7276,6 @@ Qiu Jian	求剑
 绿水潭	Green Water Pond
 魂去来兮	souls, homeward ye go	words on old man's lantern
 玉笏	ritual baton
-金身	gold statue	i think it's a statue, cmiiw
 武选司	Martial Examination Office
 中五楼	Middle Five Tiers
 。	————
@@ -7385,3 +7383,8 @@ Qiu Jian	求剑
 黄纸符箓	yellow paper talisman
 通关文牒	passport
 武道	Martial Dao
+阴符	Yin talismans
+金身	gold statue
+郡城	county town
+文武庙	Confucian temple and martial sage temple
+江神祠	river god shrine
