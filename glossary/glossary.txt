@@ -4430,7 +4430,6 @@ Qiu Jian	求剑
 内力	internal energy
 点脉	striking the acupuncture points
 经	sutra
-吐纳	expiration
 心魔	mental demons
 初期	early-stage
 中期	mid-stage
@@ -4826,7 +4825,6 @@ Qiu Jian	求剑
 诚挚	sincere, cordial
 勉强	with difficulty, reluctant
 纳戒	storage ring
-吐纳	expiration (cultivation)
 灯火通明	ablaze with lights, brightly lit, lit up
 疑问	query, question, doubt
 理论	theory, principle
@@ -7384,3 +7382,6 @@ Qiu Jian	求剑
 十境	10th tier
 符箓一脉	Talisman Branch
 卢氏王朝	Lu Empire
+黄纸符箓	yellow paper talisman
+通关文牒	passport
+武道	Martial Dao
