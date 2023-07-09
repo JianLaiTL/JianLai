@@ -4431,7 +4431,6 @@ Qiu Jian	求剑
 点脉	striking the acupuncture points
 经	sutra
 吐纳	expiration
-走火入魔	Qi Deviation
 心魔	mental demons
 初期	early-stage
 中期	mid-stage
@@ -7383,3 +7382,5 @@ Qiu Jian	求剑
 宛平县	Wanping County
 神仙台	Divine Platform
 十境	10th tier
+符箓一脉	Talisman Branch
+卢氏王朝	Lu Empire
