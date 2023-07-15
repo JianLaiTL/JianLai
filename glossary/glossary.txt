@@ -7281,7 +7281,6 @@ Qiu Jian	求剑
 。	————
 船家女	boat hostess
 上五楼	Upper Five Tiers
-阴物	yin entity
 金身	godly body
 规则	regulations
 道则	Dao Regulations
@@ -7400,3 +7399,13 @@ Qiu Jian	求剑
 三枝山	Three Twigs Mountain
 酒儿	Jiu'er
 功德	virtue
+阴物	Yin entity
+文武两庙	Wenchang pavilion and the martial sage temple
+颠倒盘	Inverting Compass
+山鬼	mountain ghost
+小跛子	little lame lad
+符泉	talisman spring water	literally blood
+油纸伞	oil-paper umbrella
+谱牒	official genealogical records
+山海谱牒	Mountain and Sea Genealogical Record
+道场	temple
