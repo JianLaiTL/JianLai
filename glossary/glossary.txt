@@ -7207,7 +7207,6 @@ Qiu Jian	求剑
 青神山	Azure Divine Mountain
 功德簿	merit register
 道德林	forest of morality
-青乌先生	Mr. Qingwu
 江神	river god
 钦天监	Ministy of Astronomy
 礼部	Ministry of Rites
@@ -7418,3 +7417,10 @@ Qiu Jian	求剑
 跛脚少年	lame young boy
 金枝玉叶	golden branch and jade leaves	literally powerful cultivators with golden spine and jade limbs
 楚夫人	Lady Chu
+刘狱	Liu Yu
+信符	message talisman
+太平无事牌	Peace and Safety Tablet
+山灵	mountain spirit	the black python is mountain spirit of downtrodden mountain
+黑蛇	black python
+青乌先生	geomantic official
+山河谱牒	Mountain and River Genealogical Record
