@@ -7410,3 +7410,9 @@ Qiu Jian	求剑
 山海谱牒	Mountain and Sea Genealogical Record
 道场	temple
 目盲老道	blind old Daoist priest
+女鬼	female ghost
+破障符	Barrier Shattering Talisman
+山水符	Mountain and Water Talisman
+阳气挑灯符	Yang Energy Illumination Talisman
+三清静心符	Three Pure Ones Mind Calming Talisman
+秀水高风	Beautiful Water Noble Wind	characters on plaque
