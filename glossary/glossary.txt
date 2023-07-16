@@ -4307,7 +4307,6 @@ Qiu Jian	求剑
 庵	convent
 庙	temple
 寺	monastery
-点头道	nodded and said
 拉倒吧	forget it
 手机	cell phone
 救人一命胜造七级浮屠	Saving a life is better than building a seven-storied pagoda
@@ -7417,3 +7416,5 @@ Qiu Jian	求剑
 三清静心符	Three Pure Ones Mind Calming Talisman
 秀水高风	Beautiful Water Noble Wind	characters on plaque
 跛脚少年	lame young boy
+金枝玉叶	golden branch and jade leaves	literally powerful cultivators with golden spine and jade limbs
+楚夫人	Lady Chu
