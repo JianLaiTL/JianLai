@@ -7208,7 +7208,6 @@ Qiu Jian	求剑
 功德簿	merit register
 道德林	forest of morality
 江神	river god
-钦天监	Ministy of Astronomy
 礼部	Ministry of Rites
 二郎巷	Erlang Alley
 青童天君	Azure Child Heavenly Lord
@@ -7425,3 +7424,5 @@ Qiu Jian	求剑
 青乌先生	geomantic official
 山河谱牒	Mountain and River Genealogical Record
 韩郎中	Palace Minister Han
+钦天监	Ministry of Astronomy
+陆地剑仙	terrestrial sword immortal
