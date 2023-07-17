@@ -4790,7 +4790,6 @@ Qiu Jian	求剑
 乐呵呵	buoyant, happy, giddy
 愣	stunned
 半晌	a while, a long time
-嗯	m-hm, uh-huh
 拼了命	with all one's might, at all costs, as if one's life depends on it
 拼命	with all one's migwith all one's might, at all costs, as if one's life depends on itht, at all costs, as if one's life depends on it
 呆滞	dull, lifeless, idle
@@ -5519,7 +5518,6 @@ Qiu Jian	求剑
 斗志	will to fight, combative spirit
 抽痛	throb of pain
 小腹	underbelly, lower abdomen
-嗯	huh
 袭击	surprise attack, raid
 翻滚	churn, seethe, roll about, toss about
 卫生	hygiene, health, sanitation
@@ -6112,7 +6110,6 @@ Qiu Jian	求剑
 混沌	chaos
 玉杵	jade pestle
 噩梦	nightmare
-嗯	uh
 精元	energy essence
 生极造化丹	Ultimate Creation Pill
 神魂	conscience
@@ -6164,7 +6161,6 @@ Qiu Jian	求剑
 危局	dangerous situation
 危局	perilous situation
 随便	casual, random, informal, careless, slipshod, remiss, wanton, wilful, do as one pleases
-嗯	eh
 嗯	hmm
 算了	so be it
 缩	withdraw, pull back, contract, shrink, reduce, draw in
