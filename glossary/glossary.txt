@@ -7427,3 +7427,6 @@ Qiu Jian	求剑
 高烛	High Radiance	name of Wei Jin's sword
 国子监	imperial academy
 大礼	Grand Etiquette
+宰相	prime minister
+科举	imperial examination
+李希圣	Li Xisheng	Li Baoping's eldest brother.
