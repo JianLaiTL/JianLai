@@ -7411,7 +7411,6 @@ Qiu Jian	求剑
 秀水高风	Beautiful Water Noble Wind	characters on plaque
 跛脚少年	lame young boy
 金枝玉叶	golden branch and jade leaves	literally powerful cultivators with golden spine and jade limbs
-楚夫人	Lady Chu
 刘狱	Liu Yu
 信符	message talisman
 太平无事牌	Peace and Safety Tablet
@@ -7422,3 +7421,5 @@ Qiu Jian	求剑
 韩郎中	Palace Minister Han
 钦天监	Ministry of Astronomy
 陆地剑仙	terrestrial sword immortal
+楚夫人	Lady Chu	female ghost whom the Great Li Empire is indebted to, husband was a scholar who left and never returned, so she takes joy in killing young scholars who pass her territory
+山根水源	root of the mountains and source of the rivers	the female ghost's plaque
