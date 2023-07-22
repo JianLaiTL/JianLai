@@ -6944,7 +6944,6 @@ Qiu Jian	求剑
 石敢当	shi gandang
 陶紫	Tao Zi
 捕蛇鹰	snake hunting hawk
-李虹	Li Hong
 炼气士	qi refiner
 子孙槐	descendant locust tree
 青牛背	Azure Cow Ridge	Azure Cow Ridge
@@ -7264,7 +7263,6 @@ Qiu Jian	求剑
 王毅甫	Wang Yifu
 长春宫	Palace of Eternal Spring
 五雷正法	Five Lightning Righteous Technique
-魏晋	Wei Jin
 水符王朝	Water Talisman Empire
 绿水潭	Green Water Pond
 魂去来兮	souls, homeward ye go	words on old man's lantern
@@ -7424,3 +7422,8 @@ Qiu Jian	求剑
 楚夫人	Lady Chu	female ghost whom the Great Li Empire is indebted to, husband was a scholar who left and never returned, so she takes joy in killing young scholars who pass her territory
 山根水源	root of the mountains and source of the rivers	the female ghost's plaque
 守门人	guardian
+李虹	Li Hong	Li Baoping's father
+魏晋	Wei Jin	11th tier sword immortal from Wind Snow Temple, Divine Platform
+高烛	High Radiance	name of Wei Jin's sword
+国子监	imperial academy
+大礼	Grand Etiquette
