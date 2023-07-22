@@ -7423,3 +7423,4 @@ Qiu Jian	求剑
 陆地剑仙	terrestrial sword immortal
 楚夫人	Lady Chu	female ghost whom the Great Li Empire is indebted to, husband was a scholar who left and never returned, so she takes joy in killing young scholars who pass her territory
 山根水源	root of the mountains and source of the rivers	the female ghost's plaque
+守门人	guardian
