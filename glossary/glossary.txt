@@ -7436,3 +7436,7 @@ Qiu Jian	求剑
 阴德	hidden virtue	building good karma or fortune by perfoming good deeds without attracting attention
 清潭	Limpid Pond Blessed Land
 求真观	Truth Seeking Temple
+小酒儿	Little Jiu'er
+城隍爷	city god
+君子	noble person
+贤人	virtuous person
