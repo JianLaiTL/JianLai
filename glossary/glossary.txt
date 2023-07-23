@@ -7044,10 +7044,8 @@ Qiu Jian	求剑
 少女	Ning Yao
 老杨头	Old Man Yang
 敕令仪式	Edict Ceremony
-灵官	Enforcer	Daoist position
 玉枕	Jade Pillow
 天柱	Celestial Pillar
-祖庭	Ancestral Temple
 大道之敌	Dao enemy
 神道	Divine Dao
 礼乐	Ritual and Music System
@@ -7387,13 +7385,11 @@ Qiu Jian	求剑
 法家	Legalism
 桃木剑	peach wood sword
 三枝山	Three Twigs Mountain
-酒儿	Jiu'er
 功德	virtue
 阴物	Yin entity
 文武两庙	Wenchang pavilion and the martial sage temple
 颠倒盘	Inverting Compass
 山鬼	mountain ghost
-小跛子	little lame lad
 符泉	talisman spring water	literally blood
 油纸伞	oil-paper umbrella
 谱牒	official genealogical records
@@ -7430,3 +7426,13 @@ Qiu Jian	求剑
 静极思动	Extreme Stillness Begets Movement	state needed to advance to 11th tier
 剑心	sword heart
 阴阳家	Naturalist
+灵官	Daoist enforcer	Daoist position
+祖庭	ancestral temple
+酒儿	Jiu'er	blind old Daoist priest's disciple
+小跛子	little lame lad	blind old Daoist priest's disciple
+国子监	imperial academy
+徐莹震	Xu Yingzhen	name of blind old Daoist priest Chen Ping'an and others encountered during their journey to the Great Sui Nation
+玄谷子	Xuan Guzi	Dao title of blind old Daoist priest
+阴德	hidden virtue	building good karma or fortune by perfoming good deeds without attracting attention
+清潭	Limpid Pond Blessed Land
+求真观	Truth Seeking Temple
