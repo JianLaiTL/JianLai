@@ -7441,3 +7441,5 @@ Qiu Jian	求剑
 君子	noble person
 贤人	virtuous person
 祖师堂	ancestral hall
+厉鬼	malicious ghost
+文人	literati
