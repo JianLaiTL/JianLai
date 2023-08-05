@@ -4348,7 +4348,6 @@ Qiu Jian	求剑
 巡按	Roving Censor
 左都御史	Left Censor-in-Chief
 监察御史	Monitor Censor
-州牧	State Overseer
 御剑飞行	Sword Kinesis Flight
 技近乎道	Expertise Nearing Dao
 元婴	Nascent Soul
@@ -7443,3 +7442,12 @@ Qiu Jian	求剑
 祖师堂	ancestral hall
 厉鬼	malicious ghost
 文人	literati
+阮姑娘	Ruan Xiu
+大水府邸	Great Water Palace
+寒食江	Cold Food River
+绿竹亭	Green Bamboo Pavilion
+唐疆	Tang Jiang	Spy from Great Li Empire who infiltrated the Great Water Palace in the YellowCourt Nation.
+伏龙观	Lurking Dragon Temple
+拦江蛤蟆	river-blocking toad
+魏礼	Wei Li	Prefectural Govener Wei, Lady Liu's lover
+别驾	state attendant
