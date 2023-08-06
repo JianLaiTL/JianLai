@@ -7246,7 +7246,6 @@ Qiu Jian	求剑
 河婆	river guardian	this sometimes refers to Granny Ma
 野夫关	Yefu Pass
 馒头山	Steamed Bun Mountain
-李锦	Li Jin
 郎中	palace minister	actually dont know, cant find shit about it
 员外郎	external official
 吏部	Ministry of Personnel
@@ -7463,3 +7462,4 @@ Yu Lu	于禄
 傅玉	Fu Yu	County Magistrate Wu Yuan's most trusted subordinatete
 崔国师	Imperial Preceptor Cui
 北岳	Northern Mountain
+李锦	Li Jin	Owner of the bookstore in Red Candle Town, carp spirit
