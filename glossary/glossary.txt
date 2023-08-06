@@ -7214,7 +7214,6 @@ Qiu Jian	求剑
 猛字楼	The Fierce Building
 李柳	Li Liu
 藩王	feudal lord
-小师叔	junior uncle
 阴神	Yin god
 龙须溪	Dragon Whisker Creek
 云上琅琅书	Recite Atop Clouds Scripture
@@ -7460,3 +7459,7 @@ Yu Lu	于禄
 于禄	Yu Lu	Previously named Xia Yulu, prince of ... nation
 淫祠	illegal temple
 崔东山	Cui Dongshan	Alias of Cui Chan's young form.
+小师叔	Junior Uncle
+傅玉	Fu Yu	County Magistrate Wu Yuan's most trusted subordinatete
+崔国师	Imperial Preceptor Cui
+北岳	Northern Mountain
