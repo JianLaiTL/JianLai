@@ -6883,7 +6883,6 @@ Qiu Jian	求剑
 野修	vagrant cultivator
 陈松风	Chen Songfeng
 白猿	Bai Yuan
-崔明皇	Cui Minghuang
 管事	steward
 阮邛	Ruan Qiong
 宁姑娘	Ning Yao
@@ -7464,3 +7463,4 @@ Yu Lu	于禄
 北岳	Northern Mountain
 李锦	Li Jin	Owner of the bookstore in Red Candle Town, carp spirit
 户部	Ministry of Revenue
+崔明皇	Cui Minghuang	scholar from Lakeview Academy
