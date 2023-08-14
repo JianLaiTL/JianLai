@@ -865,7 +865,6 @@
 韵容	Yun Rong
 恶兽	evil beast
 九王	Ninth King
-神魂	divine sense
 超级强者	super elite
 神躯	Godly physique
 战意	fighting spirit
@@ -1098,7 +1097,6 @@
 地心洞	Earth's Core Cave
 宁泰	Ning Tai
 杨大人	Captain Yang	for sailor at Star Sea
-神魂	spirit
 乱星	Luan Xing
 乱星女皇	Empress Luan Xing
 裴济	Pei Ji
@@ -1108,7 +1106,6 @@
 经脉	meridian
 魔气	Demonic Qi
 徒弟	disciple
-圣	Saint	when referring to cultivators at the Genesis Tier
 小帝	Little Asura	When referring to Asura Demon Emperor. (i think calling him Little Emperor sounds weird)
 准	pseudo	when talking about cultivation levels
 后阳	Hou Yang
@@ -1357,9 +1354,6 @@
 天风山	Heavenly Wind Mountain
 穿云峰	Cloud Piercing Peak
 白云峰	White Cloud Peak
-小圣	Small Saint
-中圣	Medium Saint
-大圣	Great Saint
 天远酒楼	Heavenly Distant
 武道之心	dao heart
 大统领	Great Commander
@@ -6111,7 +6105,6 @@ Qiu Jian	求剑
 噩梦	nightmare
 精元	energy essence
 生极造化丹	Ultimate Creation Pill
-神魂	conscience
 最后	finally, eventually
 珍稀	exotic
 打死	regardless of what happened
@@ -7064,7 +7057,6 @@ Qiu Jian	求剑
 道士	Daoist priest
 书童	scholarly attendant
 亚圣	Second Sage
-本命字	kindred character
 山主	mountain master
 三学宫	three schools
 宝瓶洲	Eastern Treasured Vial Continent
@@ -7252,7 +7244,6 @@ Qiu Jian	求剑
 龙须河	Dragon Whisker River
 铁符江	Iron Talisman River
 青冥鱼	green darkness fish
-神仙姐姐	Big Sister Immortal
 十八停	Eighteen Stops
 王毅甫	Wang Yifu
 长春宫	Palace of Eternal Spring
@@ -7368,7 +7359,6 @@ Qiu Jian	求剑
 武道	Martial Dao
 阴符	Yin talismans
 金身	gold statue
-郡城	county town
 文武庙	Confucian temple and martial sage temple
 江神祠	river god shrine
 黄庭国	Yellow Court Nation
@@ -7464,3 +7454,24 @@ Yu Lu	于禄
 李锦	Li Jin	Owner of the bookstore in Red Candle Town, carp spirit
 户部	Ministry of Revenue
 崔明皇	Cui Minghuang	scholar from Lakeview Academy
+圣	Sage
+神魂	soul
+本命字	kindred character	tranquil & spring for Mr. Qi
+神仙姐姐	Big Sister Immortal	sword spirit of old sword billet from stone arch bridge
+雷部司印镜	Lightning Division Stamp Mirror
+天下迎春	the world welcomes spring	characters on seal
+紫阳府	Purple Sun Residence
+刘嘉卉	Liu Jiahui	From Autumn Reed Inn
+浩然天下	Majestic World	World that the Eastern Treasured Vial Continent belongs to.
+至圣	Paramount Sage	founder of Confucianism
+礼圣	Etiquette Sage	second generation sect master of Confucian Sect
+金身罗汉	Golden Arhat
+金刚经	Diamond Sutra
+撼山拳	Mountain Shaking Fist
+金衣女童	little girl in gold	girl on the locust wood sword in Chen Ping'an's basket
+莲花洞天	Lotus Flower World
+天外天	heavens beyond heavens
+马瞻	Ma Zhan
+妖丹	demon core
+穗山	Tassel Mountain	one of the Five Mountains (Central Mountain) in the Middle Earth Divine Continent
+登天台	Heaven Ascending Platform
