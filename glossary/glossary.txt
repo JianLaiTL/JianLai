@@ -7479,3 +7479,6 @@ Yu Lu	于禄
 白帝城	White Emperor City
 方寸物	pocket treasure
 儒家圣人	Confucian Sage
+丹室	Pill Room	how Qi refiners refer to the mind's realm
+心境	mind realm	if referring to a world inside their mind such as mind's lake
+心湖	mind's lake	if talking about a world in the mind
