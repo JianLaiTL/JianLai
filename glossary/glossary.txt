@@ -2272,7 +2272,6 @@
 本源之力	Source Power
 九大母水	Nine Great Source Waters
 三星丹师	three-star alchemist
-本源	Source Power
 柳怀玉	Liu Huaiyu
 媚功	charm technique
 海兄	Brother Hai
@@ -4179,7 +4178,6 @@ Qiu Jian	求剑
 关门弟子	final disciple
 亲传弟子	personal disciple
 直传弟子	inherited-teachings disciple
-记名弟子	in-name disciple
 核心弟子	core disciple
 外门弟子	outer sect disciples
 内门弟子	inner sect
@@ -7482,3 +7480,4 @@ Yu Lu	于禄
 心湖	mind's lake	if talking about a world in the mind
 心境	mind's realm	if referring to a world inside their mind such as mind's lake
 老秀才	old scholar
+记名弟子	unofficial disciple
