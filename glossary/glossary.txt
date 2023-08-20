@@ -6019,7 +6019,6 @@ Qiu Jian	求剑
 非同凡响	out of the ordinary
 草率	sloppy, careless
 不可置信	incredulous
-心境	state of mind, mental state, mood, frame of mind
 运	channel
 思索	think deeply, ponder
 近在咫尺	close at hand, well within reach, round the corner
@@ -7480,5 +7479,5 @@ Yu Lu	于禄
 方寸物	pocket treasure
 儒家圣人	Confucian Sage
 丹室	Pill Room	how Qi refiners refer to the mind's realm
-心境	mind realm	if referring to a world inside their mind such as mind's lake
 心湖	mind's lake	if talking about a world in the mind
+心境	mind's realm	if referring to a world inside their mind such as mind's lake
