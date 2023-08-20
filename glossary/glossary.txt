@@ -7481,3 +7481,5 @@ Yu Lu	于禄
 心境	mind's realm	if referring to a world inside their mind such as mind's lake
 老秀才	old scholar
 记名弟子	unofficial disciple
+顺序	sequential order	ideology by Scholarly Sage
+秩序	social order	ideology of Etiquette Sage
