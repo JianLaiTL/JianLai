@@ -7481,3 +7481,4 @@ Yu Lu	于禄
 丹室	Pill Room	how Qi refiners refer to the mind's realm
 心湖	mind's lake	if talking about a world in the mind
 心境	mind's realm	if referring to a world inside their mind such as mind's lake
+老秀才	old scholar
