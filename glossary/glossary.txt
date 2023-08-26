@@ -7345,7 +7345,6 @@ Qiu Jian	求剑
 马兰花	Ma Lanhua	Ma Kuxuan's grandma who was slaaaaapped to death
 香炉	censer
 搜山图	Mountain Scouring Album
-谢谢	Xie Xie
 宛平县	Wanping County
 神仙台	Divine Platform
 十境	10th tier
@@ -7440,8 +7439,6 @@ Qiu Jian	求剑
 河伯	river guardian
 横山	Horizontal Mountain
 青娘娘庙	Azure Maiden Temple
-Yu Lu	于禄
-于禄	Yu Lu	Previously named Xia Yulu, prince of ... nation
 淫祠	illegal temple
 崔东山	Cui Dongshan	Alias of Cui Chan's young form.
 小师叔	Junior Uncle
@@ -7483,3 +7480,6 @@ Yu Lu	于禄
 记名弟子	unofficial disciple
 顺序	sequential order	ideology by Scholarly Sage
 秩序	social order	ideology of Etiquette Sage
+谢谢	Xie Xie	Real name Xie Lingyue, survivor from Lu Empire and the youngest Qi refiner to reach the fifth tier in the empire. From the Wind God Xie Clan.
+于禄	Yu Lu	Previously named Xia Yulu, prince of (destroyed) Lu Empire
+谢灵越	Xie Lingyue	Xie Xie's real name
