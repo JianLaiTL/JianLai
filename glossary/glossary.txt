@@ -7487,3 +7487,4 @@ Qiu Jian	求剑
 真气	True Qi
 行云流水巷	Flowing Cloud Water Alley
 醇儒陈氏	Pure Confucian Chen Clan
+虫银	bug silver
