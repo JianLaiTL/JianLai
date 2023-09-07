@@ -7493,3 +7493,4 @@ Qiu Jian	求剑
 尚书	head minister	the 左右侍郎 are already tled as left and right hand ministers, so 尚书 will have to be head minister to indicate superior rank
 茅小冬	Mao Xiaodong
 文正堂	wenzheng hall	no clue what this is, google search yielded nothing, so just gonna use pinyin
+藏书楼	scripture library
