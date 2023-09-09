@@ -7499,3 +7499,4 @@ Qiu Jian	求剑
 青衣小童	little boy in azure	water snake from the imperial river
 粉裙女童	little girl in pink	fire python from the imperial river
 程水东	Cheng Shuidong	old flood dragon from the Yellow Court Nation
+火蟒	fire python
