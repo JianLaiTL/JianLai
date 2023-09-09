@@ -1190,7 +1190,6 @@
 姐姐大人	Big Sister
 碧落皇	Jade Drop Emperor
 瞿秋雪	Qu Qiuxue
-武将	military officer
 残夜	Can Ye
 雨皇	Rain Emperor
 慕容青	Murong Qing
@@ -7494,3 +7493,8 @@ Qiu Jian	求剑
 茅小冬	Mao Xiaodong
 文正堂	wenzheng hall	no clue what this is, google search yielded nothing, so just gonna use pinyin
 藏书楼	scripture library
+武将	general
+青衣小童	little boy in azure
+御江	Imperial River
+粉裙女童	little girl in pink
+芝兰曹氏	Zhilan Cao Clan
