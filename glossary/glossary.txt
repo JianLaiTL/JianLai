@@ -7500,3 +7500,5 @@ Qiu Jian	求剑
 粉裙女童	little girl in pink	fire python from the imperial river
 程水东	Cheng Shuidong	old flood dragon from the Yellow Court Nation
 火蟒	fire python
+工部	Ministry of Works
+供奉	guest elder
