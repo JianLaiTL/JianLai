@@ -7494,7 +7494,7 @@ Qiu Jian	求剑
 文正堂	wenzheng hall	no clue what this is, google search yielded nothing, so just gonna use pinyin
 藏书楼	scripture library
 武将	general
-青衣小童	little boy in azure
 御江	Imperial River
-粉裙女童	little girl in pink
 芝兰曹氏	Zhilan Cao Clan
+青衣小童	little boy in azure	water snake from the imperial river
+粉裙女童	little girl in pink	fire python from the imperial river
