@@ -7506,3 +7506,4 @@ Qiu Jian	求剑
 天官	heavenly official	appears to be some type of very important official rank in the imperial court
 副山主	Deputy Mountain Master
 夫子院	teacher's office
+竹简	bamboo slip
