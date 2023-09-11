@@ -1092,19 +1092,12 @@
 阵法师	Formation Master
 占卜师	diviner
 星象师	astrologer
-地心洞	Earth's Core Cave
-宁泰	Ning Tai
-杨大人	Captain Yang	for sailor at Star Sea
-乱星	Luan Xing
-乱星女皇	Empress Luan Xing
-裴济	Pei Ji
 神雾	Divine Mist
 傀儡虎	puppet tiger
 丹师	alchemist
 经脉	meridian
 魔气	Demonic Qi
 徒弟	disciple
-小帝	Little Asura	When referring to Asura Demon Emperor. (i think calling him Little Emperor sounds weird)
 准	pseudo	when talking about cultivation levels
 后阳	Hou Yang
 居乐云	Ju Yueyun
@@ -7507,3 +7500,4 @@ Qiu Jian	求剑
 副山主	Deputy Mountain Master
 夫子院	teacher's office
 竹简	bamboo slip
+过山鲫	mountain crossing carp
