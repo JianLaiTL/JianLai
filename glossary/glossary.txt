@@ -7462,7 +7462,6 @@ Qiu Jian	求剑
 黄河洞天	Yellow River Small World
 白帝城	White Emperor City
 方寸物	pocket treasure
-儒家圣人	Confucian Sage
 丹室	Pill Room	how Qi refiners refer to the mind's realm
 心湖	mind's lake	if talking about a world in the mind
 心境	mind's realm	if referring to a world inside their mind such as mind's lake
@@ -7515,3 +7514,5 @@ Qiu Jian	求剑
 剑胚	sword billet
 云霞瓶	iridescent cloud vase
 月华瓶	magnificent moon vase
+儒家圣人	Confucian sage
+曹峻	Cao Jun	descendant of Sword Immortal Cao Xi
