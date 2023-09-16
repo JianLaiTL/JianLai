@@ -2422,23 +2422,7 @@
 秦古玉	Qin Guyu
 丹师殿	Alchemist Pavilion
 初阶学徒	beginner trainee
-紫城丹师	Alchemist Zi Cheng
-三星丹师	Three Star Alchemist
-小莫	Little Mo
-四星丹师	Four-Star Alchemist
-炼灵	Spirit Refinement
-一炼	First Refinement
-二炼	Second Refinement
-三炼	Third Refinement
-四炼	Fourth Refinement
-七炼	Seventh Refinement
-五星丹师	Five-Star Alchemist
 天心	Heavenly Heart
-天心丹师	Alchemist Heavenly Heart
-初叶	Chu Ye
-初叶大师	Alchemist Chu Ye
-五星势力	five-star force
-天意铡刀	Heaven's Will Guillotine
 心魔	internal demon
 炼灵术	Spirit Refinement Technique
 六炼	Sixth Refinement
@@ -4334,36 +4318,16 @@ Qiu Jian	求剑
 技近乎道	Expertise Nearing Dao
 元婴	Nascent Soul
 凝气	Qi Condensation
-炼气	Qi Refinement
 炼虚	Void Refinement
 合体	Fusion
 大乘	Mahayana
-渡劫	Tribulation Transcendence, surviving the tribulation, transcending the tribulation
-筑基	Foundation Establishment
-结丹	Core Formation
-化神	Soul Formation
-婴变	Soul Transformation
-问鼎	Ascendant
-阴虚	Void Yin
-阳实	Materialize Yang
-窥涅	Nirvana Scryer
-净涅	Nirvana Cleanser
-碎涅	Nirvana Shatterer
-空涅	Ethereal Nirvana
-空灵	Ethereal Spirit
-空玄	Ethereal Profound
-空劫	Ethereal Tribulation
 天尊	Heavenly Venerate
-踏天	Heaven Trampling
 上仙	Exalted Immortal
 仙王	Immortal King
 仙君	Immortal Monarch
 仙帝	Immortal Emperor
 成仙	Immortal Ascension
 天劫	Heavenly Tribulation
-斩灵	Spirit Severing
-古境	Ancient Realm
-准道境	Quasi-Dao Realm
 道境	Dao Realm
 超脱境	Transcendence
 道源境	Dao Source
@@ -7516,3 +7480,8 @@ Qiu Jian	求剑
 月华瓶	magnificent moon vase
 儒家圣人	Confucian sage
 曹峻	Cao Jun	descendant of Sword Immortal Cao Xi
+炼气	Qi refinement
+准道境	Pseudo-Dao Realm
+七境	seventh tier
+六境	sixth tier
+白鱼	White Fish	name of Cao Jun's short flying sword
