@@ -6799,8 +6799,6 @@ Qiu Jian	求剑
 心虚	guilty
 心虚	diffident
 阮师傅	Master Ruan
-御风	Windsoar Tier
-远游	Windsoar Tier
 领养钱	adoption money
 南海	South Sea
 心誓	cardinal vow
@@ -7485,3 +7483,6 @@ Qiu Jian	求剑
 七境	seventh tier
 六境	sixth tier
 白鱼	White Fish	name of Cao Jun's short flying sword
+卜卦	divination
+墨螭	Ink Chi	name of Cao Jun's longer sword
+南婆娑洲	Southern Whirl Continent
