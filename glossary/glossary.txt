@@ -7515,3 +7515,4 @@ Qiu Jian	求剑
 镇仙	Immortal Suppressing Pagoda
 初一	First	Chen Ping'an's flying sword
 十五	Fifteenth	Chen Ping'an's other flying sword
+香火小人	incense entity
