@@ -7516,3 +7516,5 @@ Qiu Jian	求剑
 初一	First	Chen Ping'an's flying sword
 十五	Fifteenth	Chen Ping'an's other flying sword
 香火小人	incense entity
+文房四宝	four treasures of the study
+李长英	Li Changying
