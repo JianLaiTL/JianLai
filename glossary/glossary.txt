@@ -7493,3 +7493,22 @@ Qiu Jian	求剑
 槐木剑	locust wood sword
 藻井	caisson ceiling
 崔瀺巉	Cui Chanchan
+香火小人	incense person
+香火小人	incense girl
+香火小人	incense boy
+大仙	Great Immortal
+老谢	Old Man Xie
+镇海楼	Sea Suppressing Pagoda
+五湖四海	Five Lakes and Four Seas
+东海	East Sea
+雄镇楼	Mighty Suppressing Pagoda	there are nine of em
+镇山	Mountain Supressing Pagoda
+镇海	Sea Suppressing Pagoda
+镇国	Nation Suppressing Pagoda
+镇魔	Demon Suppressing Pagoda
+镇妖	Spirit Supressing Pagoda
+镇仙	Immortal Supressing Pagoda
+镇剑	Sword Suppressing Pagoda
+镇龙	Dragon Suppressing Pagoda
+俱芦洲	Complete Reed Continent
+大侠	chivalrous
