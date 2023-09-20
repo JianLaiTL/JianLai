@@ -4194,7 +4194,6 @@ Qiu Jian	求剑
 按照	according to the
 合乎情理	well within reason
 撒娇	wheedle
-除了	Apart from
 自幼	at a very young age
 一脸无辜	gave a perfectly guileless look
 游山玩水	jaunt
@@ -4226,7 +4225,6 @@ Qiu Jian	求剑
 空间法则	spatial dimension laws
 小丫鬟	maidservant
 斜眼	looked askance
-眉心	glabella, area between the brows
 火系法则	fire-elemental laws
 体魄	physique
 吐血	vomiting blood
@@ -7307,7 +7305,6 @@ Qiu Jian	求剑
 武道	Martial Dao
 阴符	Yin talismans
 金身	gold statue
-文武庙	Confucian temple and martial sage temple
 江神祠	river god shrine
 黄庭国	Yellow Court Nation
 秋芦客栈	Autumn Reed Inn
@@ -7521,3 +7518,5 @@ Qiu Jian	求剑
 仙师	esteemed immortal	not a title, just how ppl refer to immortals respectfully
 翻书风	book flipping wind
 瘸腿少年	lame young boy	blind old daoist priest's disciple
+眉心	glabella
+文武庙	Wenchang pavilion and martial sage temple
