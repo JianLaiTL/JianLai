@@ -4299,7 +4299,6 @@ Qiu Jian	求剑
 巫女	Magus Maiden
 水族	Water race
 天地之力	Heaven and Earth powers
-郡守	Prefectural Governor
 郡	prefecture
 郡城	prefectural city
 县城	county city
