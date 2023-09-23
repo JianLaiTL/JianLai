@@ -7533,3 +7533,6 @@ Qiu Jian	求剑
 金甲力士	golden-armored warrior
 梧桐山	Parasol Tree Mountain
 渡口	ferry station
+牛角山	Ox Horn Mountain
+包袱斋	Cloth Wrapper Shop
+农家	Agrarian cultivator
