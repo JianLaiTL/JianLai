@@ -6805,7 +6805,6 @@ Qiu Jian	求剑
 入室弟子	in-house disciple
 藩王	monarch
 宋长镜	Song Changjing
-搬山老猿	Mountain-moving Ape
 风雷园	Wind Lightning Field
 文庙	Confucian temple
 陪祭	accompanying officiant
@@ -7528,3 +7527,9 @@ Qiu Jian	求剑
 龙尾溪陈氏	Dragon Tail Creek Chen Clan
 林鹿书	Forest Deer Academy	academy located in Cloud Drape Mountain
 南岳	Southern Mountain
+搬山老猿	mountain-moving ape
+黄花峰	Yellow Flower Peak
+黄巾力士	golden-armored warrior
+金甲力士	golden-armored warrior
+梧桐山	Parasol Tree Mountain
+渡口	ferry station
