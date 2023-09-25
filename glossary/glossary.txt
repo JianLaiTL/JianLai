@@ -1753,8 +1753,6 @@
 天字灭杀令	Heaven Execution Order
 九劫剑	Nine Demons Sword
 鲁有精	Lu Youjing
-大药	Great Herb
-狗爷	Grandpa Dog
 仙胎	Divine Fetus
 鲁成风	Lu Chengfeng
 白玉天煞掌	White Jade Murderous Heaven Palm
@@ -1762,7 +1760,6 @@
 九幽冰棺	Nine Hells Ice Coffin
 丁芝芝	Ding Zhizhi
 法相天地	Dao Manifestation
-嗡	Weng
 星沙大圣	Star Sand Saint
 木图星	Wood Figure Planet
 柳世原	Liu Shiyuan
@@ -1773,9 +1770,6 @@
 燃灯圣人	Dīpankara Saint
 闻东	Wen Dong
 原少	Young Master Yuan
-二阶王者	rank two king tier
-一阶王者	rank one king tier
-三阶王者	rank three king tier
 上官横	Shangguan Heng
 东明星域	Eastern Light Galaxy
 超大星域	super-large galaxy
@@ -6637,8 +6631,6 @@ Qiu Jian	求剑
 廊桥	covered bridge
 根骨	aptitude for cultivation
 肉眼可见	at a rate disciernible to the naked eye
-玄术	profound arts
-道法	dao powers
 披云山	Cloud Drape Mountain
 赵繇	Zhao Yao
 紫金	violet gold
@@ -7545,3 +7537,8 @@ Qiu Jian	求剑
 镇白泽	Bai Ze Suppressing Pagoda
 白泽	Bai Ze
 白泽	Bai Ze Album
+玄术	mystical arts
+道法	Dao power
+山字印	mountain seal
+蛮荒天下	Savage World
+剑修	sword cultivator
