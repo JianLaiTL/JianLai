@@ -7543,3 +7543,4 @@ Qiu Jian	求剑
 蛮荒天下	Savage World
 剑修	sword cultivator
 养心斋	resting quarters	for the emperor
+武英殿	Hall of Martial Valor	in imperial palace
