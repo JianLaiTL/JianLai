@@ -7545,3 +7545,7 @@ Qiu Jian	求剑
 养心斋	resting quarters	for the emperor
 武英殿	Hall of Martial Valor	in imperial palace
 龙壁	Dragon Wall
+桃符	peach wood talisman
+槐黄县	Locust Yellow County
+郡府	prefectural office
+县衙	county office
