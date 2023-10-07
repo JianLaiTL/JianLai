@@ -536,12 +536,7 @@
 龙血霸王参	Dragon's Blood Tyrant Ginseng
 尸大	Corpse Boss
 千尸宗	Thousand Corpse Sect
-战力	battle prowess
-元力	Origin Power
-天人境	Heaven Tier
 化神境	Deity Transformation Tier
-不灭天经	Indestructible Heaven's Scroll
-黄泉池	Netherland Spring
 紫月皇朝	Purple Moon Empire
 国势	power of the nation
 太阴王	Lunar King
@@ -3164,30 +3159,11 @@
 困虎峡	Tiger Caging Canyon
 紫金仙棍	Violet Divine Staff
 圣城	Holy City
-赵雪龙	Zhao Xuelong
-杨罡	Yang Gang
-降紫果	Subduing Purple Fruit
-钱享	Qian Xiang
-九落	Ninth Descent
-陆明	Lu Ming
-安冥	Peaceful Underworld
-红雪	Crimson Snow
-朱子喜	Zhu Zixi
-付圆	Fu Yuan
-成涛	Cheng Tao
-幽霜仙王	Dark Frost Celestial King
-荀东	Xun Dong
 异光	peculiar light
 异香	peculiar fragrance
 佛云	Buddhist Cloud
-刘锡	Liu Xi
-马当	Ma Dang
-红雪仙王	Red Snow Celestial King
-紫光	purple light
 凌盟	Ling Alliance
 宝塔	precious tower
-仙兵	Celestial Weapon
-天生	Heavenborn
 本质力量	fundamental power
 赵薪	Zhao Xin
 武堂	Martial Hall
@@ -6375,7 +6351,6 @@ Qiu Jian	求剑
 西都	West Capital
 董卓	Dong Zhuo
 机关兽	Mechanical Beasts
-畜生道主	Daolord of the Beast
 青溪县	Clear Creek County
 宝安	City of Salvation
 阴刺军	Assassins of the Underworld
@@ -7540,3 +7515,12 @@ Qiu Jian	求剑
 蜈蚣岭山脉	Centipede Mountain Range
 蜀国	Shu Nation
 刺史	governor
+战力	combat power
+元力	origin power
+仙兵	immortla weapon
+道主	Dao Master
+祁真	Qi Zhen
+神诰宗	Divine Edict Sect
+道统	Daoist orthodoxy
+龙泉	Dragon Spring Prefecture
+避暑山	Summer Resort Mountain
