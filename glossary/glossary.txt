@@ -1820,12 +1820,6 @@
 太阳石	Sun Stone
 真子	True Son
 真女	True Daughter
-四斩	fourth severance
-一斩	first severance
-二斩	second severance
-三斩	third severance
-一斩老祖	first severance grand elder
-四斩老祖	fourth severance grand elders
 大衍功	Great Evolution Technique
 极夜之暗	Darkness of the Paramount Night
 苍雨洗尘剑	Sword of Mundane Washing Rain
@@ -2159,16 +2153,6 @@
 少宫主	Young Imperial Empress
 龙鹰	Dragonhawk
 北荒	Desolate North
-宋吉	Song Ji
-托天城	Heaven Holding City
-马颖	Ma Ying
-傅晓芸	Fu Xiaoyun
-北玄明	Bei Xuanming
-最弱斩尘	weakest severance
-普通斩尘	normal severance
-完美斩尘	flawless severance
-太阴教	Lunar Sect
-四星势力	four-star force
 归元殿	Return to Origin Palace
 路霸	highway robbers
 斩尘果	Severing Mundane Fruit
@@ -2314,13 +2298,6 @@
 纸人	paper human
 南宫停	Nangong Ting
 半步	Pseudo
-五斩	fifth severance
-三重	Third Heaven
-四重	Fourth Heaven
-五重	Fifth Heaven
-六重	Sixth Heaven
-七重	Seventh Heaven
-八重	Eighth Heaven
 天尊	Heavenly Venerate	someone at the Heavenly Venerable Tier
 灵妙	Ling Miao
 偷袭	sneak attack
