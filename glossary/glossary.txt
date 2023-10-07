@@ -7538,3 +7538,5 @@ Qiu Jian	求剑
 李氏	Li Clan
 水图	Water Artwork
 蜈蚣岭山脉	Centipede Mountain Range
+蜀国	Shu Nation
+刺史	governor
