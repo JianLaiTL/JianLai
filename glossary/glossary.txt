@@ -6262,27 +6262,6 @@ Qiu Jian	求剑
 四方	Four Winds mercenary legion
 狼月	Wolf Moon mercenary legion
 庭霄	Skycourt Kingdom
-大魔导师	grand magic mentor
-咒术邪焰黑龙	Arcane Inferno Black Dragon spell
-约芬	Joffen
-特瓦德丹	Tewadedan
-落晶	Fall Crystals
-葵倾	Christine
-疯猪	Deranged Pig
-聂一一	Nie Yiyi
-元	Adam
-机械军	Mechguard
-红蜘蛛	Red Spider
-梅	May
-胡克	Hook
-精神教会	Psychic Church
-雷顿	Layton Academy
-金莎	Shae
-金牙齿	Golden Teeth Incorporated
-疯猪	Deranged Pig
-本.加西亚	Ben Garcia
-金.加西亚	Kim Garcia
-金	Kim
 精神世界	psychic world
 当铺	pawn shop
 沙腾市	Sandrise City
@@ -7525,3 +7504,6 @@ Qiu Jian	求剑
 龙泉	Dragon Spring Prefecture
 避暑山	Summer Resort Mountain
 茅厕	lavatory
+金色鲤鱼	golden carp
+风雪小锥	Wind and Snow Awl
+楷树	model tree
