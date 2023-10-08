@@ -1689,10 +1689,7 @@
 银龙战甲	Silver Dragon Armor
 地龙	Earth Dragon
 竞技场	tournament ground
-九妖	Jiuyao
-司徒林	Situ Lin
 十亿	billion
-司徒见远	Situ Jianyuan
 仙器	Celestial Tool
 安远	Anyuan Branch
 圣药	Saint Pill
@@ -4149,7 +4146,6 @@ Qiu Jian	求剑
 孤阴不长，独阳不生	Lone Yin did not lead to birth and solitary Yang did not allow growth
 太乙	Primordial Unity
 乾坤袋	Cosmic Bag, Cosmos Bag, Bag of the Cosmos
-魔	fiend, demon
 闭关	seclusion
 魔仆	demonic servant
 宁静	placid
@@ -4502,8 +4498,6 @@ Qiu Jian	求剑
 什么鬼	what the hell
 意义	sense, meaning, importance, significance
 不已	endlessly, incessantly
-任何	any, whatever, whichever, whatsoever
-屈辱	humiliation, mortification
 低声	under one's breath, softly
 载入	record
 神仙	daoist immortal
@@ -4730,7 +4724,6 @@ Qiu Jian	求剑
 不管	in any case
 收获	harvest, reap, gain, profit, reward, bonus
 打坐	meditate
-总归	anyhow, after all, eventually
 坎坷	bumpy, rugged, rough, full of frustrations
 感叹	sigh, lament
 专门	specially
@@ -7509,3 +7502,8 @@ Qiu Jian	求剑
 楷树	model tree
 陈真容	Cheng Zhenrong
 大剑仙	great sword immortal
+魔	fiend
+屈辱	humiliation
+总归	anyhow
+降妖	Subduing Demons	name of Chen Ping'an's sword
+除魔	Eliminating Fiends	name of Ning Yao's sword (forged by Ruan Qiong delivered by Ping'an)
