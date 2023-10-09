@@ -7509,3 +7509,4 @@ Qiu Jian	求剑
 除魔	Eliminating Fiends	name of Ning Yao's sword (forged by Ruan Qiong delivered by Ping'an)
 老曹	Old Man Cao
 茅屋	thatched cottage
+咫尺物	minimization treasure
