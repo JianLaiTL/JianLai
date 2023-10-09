@@ -7508,3 +7508,4 @@ Qiu Jian	求剑
 降妖	Subduing Demons	name of Chen Ping'an's sword
 除魔	Eliminating Fiends	name of Ning Yao's sword (forged by Ruan Qiong delivered by Ping'an)
 老曹	Old Man Cao
+茅屋	thatched cottage
