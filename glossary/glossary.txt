@@ -7510,3 +7510,6 @@ Qiu Jian	求剑
 老曹	Old Man Cao
 茅屋	thatched cottage
 咫尺物	minimization treasure
+小酆都	Little Capital	name of sword billet from Scholarly Sage, aka First
+气海	sea of Qi
+儒衫	Confucian robes
