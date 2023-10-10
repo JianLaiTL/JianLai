@@ -7491,7 +7491,6 @@ Qiu Jian	求剑
 元力	origin power
 仙兵	immortla weapon
 道主	Dao Master
-祁真	Qi Zhen
 神诰宗	Divine Edict Sect
 道统	Daoist orthodoxy
 龙泉	Dragon Spring Prefecture
@@ -7507,10 +7506,15 @@ Qiu Jian	求剑
 总归	anyhow
 降妖	Subduing Demons	name of Chen Ping'an's sword
 除魔	Eliminating Fiends	name of Ning Yao's sword (forged by Ruan Qiong delivered by Ping'an)
-老曹	Old Man Cao
 茅屋	thatched cottage
 咫尺物	minimization treasure
 小酆都	Little Capital	name of sword billet from Scholarly Sage, aka First
 气海	sea of Qi
 儒衫	Confucian robes
 剑条	sword blade	not billet
+祁真	Qi Zhen	Dao Master of his continent, sect master of Divine Edict Sect
+老曹	Old Man Cao	Cao Xi
+青婴	Qing Ying	maybe the fiery red fox's younger sister
+白老爷	Master Bai	i think its referring to Bai Ze
+看门人	guardian
+曹氏	Cao Clan
