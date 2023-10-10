@@ -7513,3 +7513,4 @@ Qiu Jian	求剑
 小酆都	Little Capital	name of sword billet from Scholarly Sage, aka First
 气海	sea of Qi
 儒衫	Confucian robes
+剑条	sword blade	not billet
