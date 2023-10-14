@@ -7504,8 +7504,6 @@ Qiu Jian	求剑
 魔	fiend
 屈辱	humiliation
 总归	anyhow
-降妖	Subduing Demons	name of Chen Ping'an's sword
-除魔	Eliminating Fiends	name of Ning Yao's sword (forged by Ruan Qiong delivered by Ping'an)
 茅屋	thatched cottage
 咫尺物	minimization treasure
 小酆都	Little Capital	name of sword billet from Scholarly Sage, aka First
@@ -7519,3 +7517,5 @@ Qiu Jian	求剑
 看门人	guardian
 曹氏	Cao Clan
 赤练蛇	banded red snake
+降妖	Subduing Demons	name of Ning Yao's sword (forged by Ruan Qiong delivered by Ping'an)
+除魔	Eliminating Fiends	name of Chen Ping'an's sword
