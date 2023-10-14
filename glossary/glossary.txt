@@ -7424,7 +7424,6 @@ Qiu Jian	求剑
 镇妖	Spirit Suppressing Pagoda
 镇仙	Immortal Suppressing Pagoda
 初一	First	Chen Ping'an's flying sword
-十五	Fifteenth	Chen Ping'an's other flying sword
 香火小人	incense entity
 文房四宝	four treasures of the study
 李长英	Li Changying
@@ -7519,3 +7518,5 @@ Qiu Jian	求剑
 赤练蛇	banded red snake
 降妖	Subduing Demons	name of Ning Yao's sword (forged by Ruan Qiong delivered by Ping'an)
 除魔	Eliminating Fiends	name of Chen Ping'an's sword
+十五	Fifteenth	Chen Ping'an's other flying sword, also a pocket treasure, from Old Man Yang
+金甲洲	Golden Armor Continent
