@@ -4454,7 +4454,6 @@ Qiu Jian	求剑
 失态	let emotions get the better of oneself, lose control, misbehave
 不堪回首	cannot bear to look back on
 往事	past events
-加油	make an extra effort
 语重心长	meaningful and heartfelt, sincere and earnest
 举荐函	letter of recommendation
 欣慰	gratified, relieved
@@ -7520,3 +7519,4 @@ Qiu Jian	求剑
 云蒸大泽式	Rain Evaporation Technique
 铁骑凿阵式	Heavy Cavalry Formation Shattering Technique
 御江小郎君	Chivalrous Young Man from the Imperial River
+加油	you can do it
