@@ -7046,7 +7046,6 @@ Qiu Jian	求剑
 二郎巷	Erlang Alley
 青童天君	Azure Child Heavenly Lord
 地官	earth official
-散气	qi dispersion
 仙竹	celestial bamboo
 泥胚境	Clay Embryo Tier
 奋勇竹	courage bamboo
@@ -7515,3 +7514,4 @@ Qiu Jian	求剑
 隐身术	invisibility technique
 天籁	beautiful and heavenly
 卧槽	holy fuck
+开山境	Mountain Carving Tier	another name for Wooden Fetus Tier
