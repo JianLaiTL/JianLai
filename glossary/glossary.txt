@@ -4357,7 +4357,6 @@ Qiu Jian	求剑
 老怪	Curmudgeon
 摩诃	Mahākāśyapa
 幽水	Nether Water
-炷香	five minutes
 盏茶	ten minutes
 传讯印记	transmission mark
 道祖	Dao Ancestor
@@ -4369,7 +4368,6 @@ Qiu Jian	求剑
 鲲鹏	Kun Peng
 肉身成圣	Physical Establishing Sage
 神隐术	Divine Concealment Spell
-隐身术	Invisibility Spell
 仙府	immortal abode
 百花	Centaurea
 药师	Apothecary
@@ -4383,7 +4381,6 @@ Qiu Jian	求剑
 懵逼	stupefied
 目瞪口呆	dumbstruck, stunned, stupefied
 圣洁无暇	holy and flawless
-天籁	beautiful and heavenly, sounds of nature
 天旋地转	rush of dizziness,(feel as is) the sky and earth are spinning
 窝囊	vexed, annoyed, irritated, hopelessly stupid
 仙风道骨	demeanour of a transcendent being
@@ -4406,7 +4403,6 @@ Qiu Jian	求剑
 铁棒	staff, iron club
 忍不住	couldn't help but, uncontrollably
 颤抖	shake, shiver, tremble
-卧槽	holy f*ck
 目瞪口呆	dumbstruck
 咆哮	roar, scream, howl
 恐惧	fear
@@ -4419,7 +4415,6 @@ Qiu Jian	求剑
 光团	ball of light
 光球	ball of light
 包裹	enveloped, shrouded
-无比	unparalleled, extremely, insanely
 生死交替	wavering between life and death
 晕眩	dizziness
 不争气	meekly, disappointing, fall short of expectations
@@ -4428,7 +4423,6 @@ Qiu Jian	求剑
 涌上心头	rushed into their mind
 浮现	appeared in
 磕头	kowtow
-施法	spell casting, perform sorcery
 愣	startled, dumbfounded
 失误	blunder, mistake, accident
 锅	misfortune, calamity
@@ -4502,7 +4496,6 @@ Qiu Jian	求剑
 载入	record
 神仙	daoist immortal
 奇怪	strange, odd, baffled
-眼神	expression or emotion in one's eyes, meaningful glance, wink
 渐渐	gradually
 神经病	crazy, mental
 受不了	unbearable, unable to endure, can't stand
@@ -4646,12 +4639,9 @@ Qiu Jian	求剑
 任务	task, mission, assignment, duty, role
 将信将疑	half believing, half doubting, skeptical
 紧接着	immediately afterwards
-剧痛	acute pain, severe pain, sharp pain
-气	Qi, vital energy
 感受	sense, perceive, feel, experience, impression
 游荡	loiter, wander, roam
 飘荡	drift, float, wave, flutter
-气	spiritual energy
 天地间	between heaven and earth
 美妙	splendid, wonderful, beautiful, mesmerising
 按捺	restrain, control, suppress, contain
@@ -7522,3 +7512,6 @@ Qiu Jian	求剑
 金甲洲	Golden Armor Continent
 瀺巉	Cui Chan
 玄符真人	Enlightened Saint Profound Talisman
+隐身术	invisibility technique
+天籁	beautiful and heavenly
+卧槽	holy fuck
