@@ -4115,7 +4115,6 @@ Qiu Jian	求剑
 功法	cultivation technique
 便宜你	you lucked out
 白活	lived in vain
-中土	heartlands
 化形	manifestation
 祖器	ancestral artifact, ancestral armament
 王	prince, king, monarch
@@ -7523,3 +7522,4 @@ Qiu Jian	求剑
 撼山拳谱	Mountain Shaking Guide
 掌教	Master Daoist
 秀秀	Xiuxiu	Ruan Xiu
+武秘书郎	martial secretary
