@@ -7502,3 +7502,4 @@ Qiu Jian	求剑
 风云人物	active figure, influential figure, focal point
 真人	Spiritual Master	Daoist title for one who had attained enlightenment or immortality
 机关师	mechanist	from Mohist Sect
+洪氏	Hong Clan
