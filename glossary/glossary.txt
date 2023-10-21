@@ -4885,7 +4885,6 @@ Qiu Jian	求剑
 回过神来	recover from panic, fright, shock, or absent-mindedness, suddenly realize
 后悔	regret, repent
 后悔不已	overcome with regret
-不由	involuntarily, can't help, can't refrain
 喃喃	mutter, murmer, mumble
 激烈	intense, fierce
 陷入	fall into, sink into, get caught in, be lost in, land in
@@ -5490,7 +5489,6 @@ Qiu Jian	求剑
 单调	monotonous, dull, drab
 轰鸣	roar, boom, rumble
 赶	hurry, rush, catch up, overtake, make a dash for, drive away, expel
-此时	this moment, right now
 硬着头皮	brace oneself, force oneself to, against one's will, summon up courage
 硬着头皮	muster courage
 大笑	laugh heartily, roar with laughter
@@ -7503,3 +7501,4 @@ Qiu Jian	求剑
 真人	Spiritual Master	Daoist title for one who had attained enlightenment or immortality
 机关师	mechanist	from Mohist Sect
 洪氏	Hong Clan
+孙叔坚	Sun Shujian	Sui Clan's lowest-ranked guest elder
