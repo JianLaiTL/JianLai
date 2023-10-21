@@ -2627,7 +2627,6 @@
 波罗	Bo Luo
 司空浩	Sikong Hao
 部族	tribe
-神庙	Divine Temple
 青铜部族	Bronze Tribe
 日扬丹师	Alchemist Riyang
 药道石	Stone of Herbology
@@ -4327,7 +4326,6 @@ Qiu Jian	求剑
 鸳鸯飞剑	Lovers' Swords
 黑洞	black hole
 如来	Gautama
-真人	Perfected
 灵宝道祖	Numinous Treasure Dao Ancestor
 元始道祖	Primordial Beginning Dao Ancestor
 太上道祖	Grand Supreme Dao Ancestor
@@ -4498,16 +4496,12 @@ Qiu Jian	求剑
 神经病	crazy, mental
 受不了	unbearable, unable to endure, can't stand
 豁	give up, sacrifice, stake all
-实在	really, actually, indeed, truly, honestly
 惊疑	surprised, bewildered
 吓了一跳	startled
 果然	as expected, sure enough
 苦笑	force a smile, smile wryly, bitter laugh
 反应	react, respond
 本能	instinct
-奇特	peculiar, unusual, strange
-惊讶	surprised, astonished, amazed, astounded
-高人	superior, supreme person
 领地	territory, domain, estate
 哇塞	wow
 广阔	vast, wide, broad
@@ -4783,8 +4777,6 @@ Qiu Jian	求剑
 仙法	magical spell
 津津有味	with relish, with keen interest, eager
 获益匪浅	benefit
-天书	illegible, incomprehensible, heavenly book
-风云人物	active figure, influential figure, focal point	风云人物
 华清大学	Hua Qing University
 眉飞色舞	radiant with delight, smiles of exultation
 阳炎	dazzling sunlight
@@ -4798,7 +4790,6 @@ Qiu Jian	求剑
 配合	work harmoniuosly
 悠悠	unhurried, lasting for ages, long and drawn out
 恍然大悟	suddenly see the light, realisation
-惊人	astonishing, amazing, alarming
 碾压	roll over, grind, crush
 翻盘	turn the tables, make a comeback
 深入浅出	explain the profound in simple terms, simple and easy to understand
@@ -4850,7 +4841,6 @@ Qiu Jian	求剑
 努力	make great efforts, try hard, exert oneself, try one's best
 鼓励	encourage, urge, console
 回神	recover from panic, fright, shock, daze or absent-mindedness, suddenly realize
-原来	originally, formerly, at first, as a matter of face, as it turns out, actually
 修行	cultivate
 参照物	reference point
 唉	Ah...
@@ -5271,7 +5261,6 @@ Qiu Jian	求剑
 膏药	ointment
 清凉	cool and refreshing
 火辣	searing, burning
-消	disappear, vanish, gone down, cool down, dispel
 郁闷	gloomy, depressed
 源	essence
 重	stage
@@ -5325,18 +5314,13 @@ Qiu Jian	求剑
 灵药	Spirit Medicine
 天药	Heavenly Medicine
 神药	Godly Medicine
-珍稀	treasure, value, cherish
 天丹	Heavenly Pills
-珍贵	valuable, precious
 攥	hold, grip, grasp, clench, clasp
 嶙峋	steep, jagged, rugged, craggy
 地脉	veins of the earth
 清脆	clear, crisp
 嘹亮	loud and clear, resonant
-组成	composed, formed, make up
-强劲	powerful, forceful
 低沉	deep
-赐予	bestow, grant
 毕恭毕敬	reverent and respectful
 期待	anticipte
 天材地宝	extremely rare treasures
@@ -5368,11 +5352,9 @@ Qiu Jian	求剑
 毫不费力	effortless, not expending the slightest effort
 情绪	morale, feeling, mood, sentiment, spirits
 随手	casual
-普通	run-of-the-mill, normal, ordinary, average
 动用	put to use, employ, draw on, utilize
 天凰	Heavenly Phoenix
 脉	bloodline
-异常	unusual, abnormal, especially, extremely, exceedingly, particularly
 自满	complacent, self-satisfied, smug
 用心良苦露	pondered earnestly, give a lot of thought to
 暗自	inwardly, to oneself, secretly
@@ -5608,7 +5590,6 @@ Qiu Jian	求剑
 料到	forsee, anticipate, expect, predict
 抵抗	resist, stand up
 快感	pleasure, thrill, delight, joy
-疯	mad, insane, crazy, wild
 循环	cycle, circulate, loop
 开挂	unbelievably good, cheating
 体质	physique, constitution
@@ -6101,8 +6082,6 @@ Qiu Jian	求剑
 智慧魔王	Demon King of Wisdom
 全世界修士联合起来一起保护地球	all cultivators of the world unite together to protect earth
 木牛道人	Daoist Wooden Ox
-真人	Enlightened	Daoist title for one who had attained enlightenment or immortality. (true man, real person, daoist spiritual master)
-琉璃真人	Enlightened Lazurite
 假道士小安	Fake Daoist Priest Little An
 安道友	Daoist An
 诱惑	entice, tempt, seduce, lure, attract, allure
@@ -6119,7 +6098,6 @@ Qiu Jian	求剑
 叮咚	Ding Dong
 保护地球	protect earth
 妖王	Evil Spirit King
-尹喜真人	Yi Xi the Enlightened
 666	cheer on
 密集恐惧症	trypophobia
 恐怖	fearsome
@@ -6561,7 +6539,6 @@ Qiu Jian	求剑
 齐先生	Mr. Qi
 福禄街	Fortune Street
 齐静春	Qi Jingchun
-大真人	enlightened saints
 诸子百家	Hundred Schools of Thought
 陆地神仙	terrestrial gods	could be subject to change depending on future context revealed
 印章	seal
@@ -6670,7 +6647,6 @@ Qiu Jian	求剑
 迎春钱	Greeting Spring Coins
 压胜钱	Good Fortune Coins
 药方	prescription
-真人	Spiritual Master
 柱国	pillar general
 开门	precursor
 登堂	beginning
@@ -7523,3 +7499,6 @@ Qiu Jian	求剑
 掌教	Master Daoist
 秀秀	Xiuxiu	Ruan Xiu
 武秘书郎	martial secretary
+风云人物	active figure, influential figure, focal point
+真人	Spiritual Master	Daoist title for one who had attained enlightenment or immortality
+机关师	mechanist	from Mohist Sect
