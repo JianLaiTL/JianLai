@@ -6525,7 +6525,6 @@ Qiu Jian	求剑
 福禄街	Fortune Street
 齐静春	Qi Jingchun
 诸子百家	Hundred Schools of Thought
-陆地神仙	terrestrial gods	could be subject to change depending on future context revealed
 印章	seal
 小千世界	small thousandfold worlds
 受教	I humbly accept your teachings
@@ -7489,3 +7488,4 @@ Qiu Jian	求剑
 洪氏	Hong Clan
 孙叔坚	Sun Shujian	Sui Clan's lowest-ranked guest elder
 仙气	immortal qi
+陆地神仙	terrestrial immortal
