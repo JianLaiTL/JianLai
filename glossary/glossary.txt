@@ -7489,3 +7489,5 @@ Qiu Jian	求剑
 孙叔坚	Sun Shujian	Sui Clan's lowest-ranked guest elder
 仙气	immortal qi
 陆地神仙	terrestrial immortal
+州	province
+天井	skywell
