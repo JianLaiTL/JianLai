@@ -4548,7 +4548,6 @@ Qiu Jian	求剑
 淡然	tranquil and calm, indifferent
 法力	magical powers
 淡淡	faint, dim, dull, insipid, unenthusiastic, indifferent
-竟然	unexpectedly, actually, to one's surprise, in spite of everything, to go as far as to
 沸腾	seethe with excitment, to flare up
 族	clan
 议论纷纷	discuss spiritedly, all sorts of comment, widespread comment
@@ -7491,3 +7490,5 @@ Qiu Jian	求剑
 陆地神仙	terrestrial immortal
 州	province
 天井	skywell
+山长	mountain master
+老蛟	Cheng Shuidong	former assisstant minister of the Yellow Court Nation, now assisstant mountain master of Forest Deer Academy
