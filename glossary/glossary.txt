@@ -7074,7 +7074,6 @@ Qiu Jian	求剑
 剑气长城	Sword Qi Great Wall
 司礼监	eunuch supervisor
 兵部	Ministry of War
-仙气	immortal Qi
 兵家	School of Military Thought
 白玉京	White Jade Capital
 宋睦	Song Mu
@@ -7489,3 +7488,4 @@ Qiu Jian	求剑
 机关师	mechanist	from Mohist Sect
 洪氏	Hong Clan
 孙叔坚	Sun Shujian	Sui Clan's lowest-ranked guest elder
+仙气	immortal qi
