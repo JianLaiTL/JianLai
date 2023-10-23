@@ -1029,7 +1029,6 @@
 妖	bewitching
 杨家	Yang Clan
 客栈	inn
-杨铁成	Yang Tiecheng
 气天丹	Heavenly Qi Pill
 天玑丹	Heavenly Pearl Pill
 黑迷雾	Black Fog
@@ -7492,3 +7491,4 @@ Qiu Jian	求剑
 天井	skywell
 山长	mountain master
 老蛟	Cheng Shuidong	former assisstant minister of the Yellow Court Nation, now assisstant mountain master of Forest Deer Academy
+胥吏	petty official
