@@ -5575,7 +5575,6 @@ Qiu Jian	求剑
 快感	pleasure, thrill, delight, joy
 循环	cycle, circulate, loop
 开挂	unbelievably good, cheating
-体质	physique, constitution
 大展神威	display one's invincible might
 对决	confrontation, contest, showdown
 对决	clash
@@ -7493,3 +7492,8 @@ Qiu Jian	求剑
 老蛟	Cheng Shuidong	former assisstant minister of the Yellow Court Nation, now assisstant mountain master of Forest Deer Academy
 胥吏	petty official
 压胜法宝	subjugation treasure
+修炼	cultivation
+修炼	cultivation
+修行	cultivation
+体质	physical constitution
+竹楼	bamboo building	Badass Building
