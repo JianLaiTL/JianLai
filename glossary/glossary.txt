@@ -2398,11 +2398,6 @@
 路进	Lu Jin
 青云丹	Azure Cloud Pill
 紫月镇魂丹	Purple Moon Spirit Suppression Pill
-极品	Peak Grade
-上品	High Grade
-中品	Medium Grade
-下品	Low Grade
-高级学徒	HIgh Level Apprentice
 焦邦	Jiao Bang
 传音石	Sound Transmission Stone
 中阶学徒	middle grade trainee
@@ -4327,10 +4322,6 @@ Qiu Jian	求剑
 虚空挪移	Void Transference
 真龙	True Dragon
 祖龙	Ancestral Dragon
-极品	supreme-grade
-上品	superior-grade
-下品	inferior-grade
-中品	medial-grade
 大能	mighty figure
 老太君	matriarch
 天榜	Heaven roll
@@ -7497,3 +7488,8 @@ Qiu Jian	求剑
 修行	cultivation
 体质	physical constitution
 竹楼	bamboo building	Badass Building
+极品	peak-grade
+上品	high-grade
+中品	medium-grade
+下品	low-grade
+姜壶	Jiang Hu	name for Chen Ping'an's sword nurturing gourd
