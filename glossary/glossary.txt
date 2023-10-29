@@ -4984,7 +4984,6 @@ Qiu Jian	求剑
 冰面水镜石	Ice Water Mirror Stone
 贮存	store
 妙	wonderful, excellent, fine, ingenious, clever
-姑娘	girl
 警戒	warn, admonish, precaution, guard
 放心	be at ease, feel relieved, rest assured
 赞叹	gasp in admiration, highly praise
@@ -7492,3 +7491,4 @@ Qiu Jian	求剑
 下品	low-grade
 姜壶	Jiang Hu	name for Chen Ping'an's sword nurturing gourd
 高深	profound
+长眉儿	Long Eyebrows	Xie Shi's descendant, Ruan Qiong's unofficial disciple
