@@ -4467,7 +4467,6 @@ Qiu Jian	求剑
 不已	endlessly, incessantly
 低声	under one's breath, softly
 载入	record
-神仙	daoist immortal
 奇怪	strange, odd, baffled
 渐渐	gradually
 神经病	crazy, mental
@@ -4749,7 +4748,6 @@ Qiu Jian	求剑
 神采飞扬	in high spirits, glowing with health and vigour, glowing with pride and happiness
 神采飞扬	exuberant
 精妙	exquisite, fine and delicate
-高深	profound, advanced
 仙法	magical spell
 津津有味	with relish, with keen interest, eager
 获益匪浅	benefit
@@ -7493,3 +7491,4 @@ Qiu Jian	求剑
 中品	medium-grade
 下品	low-grade
 姜壶	Jiang Hu	name for Chen Ping'an's sword nurturing gourd
+高深	profound
