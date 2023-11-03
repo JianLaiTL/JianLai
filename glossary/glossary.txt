@@ -6465,7 +6465,6 @@ Qiu Jian	求剑
 言官	imperial censors
 丫鬟	maidservant
 贴身丫鬟	personal maidservant
-锦衣	brocade robe, brocade-robed
 宋集薪	Song Jixin
 钱	qian	when referring to silver, one qian is 1/16 of a tael (两)
 蛇类	ophidian
@@ -7495,3 +7494,7 @@ Qiu Jian	求剑
 真无敌	True Invincible	title of the Dao Ancestor's second disciple (i think)
 鲲	Kun
 鲲船	Kun ship
+锦衣	brocade robe
+山岳龟	Mountain Turtle	form of ship/ferry
+吞宝鲸	Treasure Swallowing Whale	type of ship/ferry
+静字印	tranquil seal	seal from Mr. Qi
