@@ -7498,3 +7498,7 @@ Qiu Jian	求剑
 山岳龟	Mountain Turtle	form of ship/ferry
 吞宝鲸	Treasure Swallowing Whale	type of ship/ferry
 静字印	tranquil seal	seal from Mr. Qi
+道观	Daoist temple
+掌教	Branch Master	for the leaders of the three branches of Daosim
+陆掌教	Branch Master Lu	Lu Chen
+白玉楼	White Jade Capital
