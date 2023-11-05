@@ -6576,7 +6576,6 @@ Qiu Jian	求剑
 真君	True Lord
 仙长	Immortal Elder
 顾氏	Mrs. Gu
-书简湖	Lake Shujian
 止境	Halted Realm
 神通	mystical power
 青峡岛	Cyan Gorge Island
@@ -7264,7 +7263,6 @@ Qiu Jian	求剑
 黄河洞天	Yellow River Small World
 白帝城	White Emperor City
 方寸物	pocket treasure
-丹室	Pill Room	how Qi refiners refer to the mind's realm
 心湖	mind's lake	if talking about a world in the mind
 心境	mind's realm	if referring to a world inside their mind such as mind's lake
 老秀才	old scholar
@@ -7502,3 +7500,6 @@ Qiu Jian	求剑
 掌教	Branch Master	for the leaders of the three branches of Daosim
 陆掌教	Branch Master Lu	Lu Chen
 白玉楼	White Jade Capital
+书简湖	Bamboo Scroll Lake
+丹室	core abode
+洪老	Elder Hong
