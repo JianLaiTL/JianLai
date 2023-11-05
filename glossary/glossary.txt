@@ -4154,7 +4154,6 @@ Qiu Jian	求剑
 中年人	middle-aged man
 血脉	bloodline
 顿悟	epiphany
-胖子	Fatty, Fatso
 战斗技巧	combat skill
 防术	defensive skill
 身法	movement technique
@@ -7506,3 +7505,10 @@ Qiu Jian	求剑
 打鬼鞭	ghost striking whip
 吃墨鱼	ink devouring fish
 陈淳安	Chen Chun'an	Patriarch of the Yingyin (Pure Confucian) Chen Clan
+紫电	Purple Lightning	sword of chubby young boy (Ning Yao's friend)
+小蛐蛐	Little Ququ	Ning Yao's friend (deceased)
+经书	Scripture	sword name
+镇嶽	Mountain Suppressing	sword name
+浩然气	Righteous Aura	sword name
+红妆	Elaborate Makeu	sword name
+云纹	Cloud Pattern	sword name
