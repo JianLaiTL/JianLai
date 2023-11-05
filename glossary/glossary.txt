@@ -4843,7 +4843,6 @@ Qiu Jian	求剑
 甚至	even
 看热闹	join the fun
 风度翩翩	graceful, elegant
-议论	comment, remark, discuss
 气质	temperament, disposition, qualities, makings
 风范	demeanour, poise, bearing, style, manner, air
 肃穆	solemn
@@ -4854,10 +4853,8 @@ Qiu Jian	求剑
 噗	puff
 气喘吁吁	pant heavily
 气喘	pant, gasp for breath, huff and puff
-于是	accordingly, so, then, thereupon, hence, as a result
 天才	prodigy
 回过神来	recover from panic, fright, shock, or absent-mindedness, suddenly realize
-后悔	regret, repent
 后悔不已	overcome with regret
 喃喃	mutter, murmer, mumble
 激烈	intense, fierce
@@ -7275,7 +7272,6 @@ Qiu Jian	求剑
 困龙钉	Dragon Restricting Nails
 真气	True Qi
 行云流水巷	Flowing Cloud Water Alley
-醇儒陈氏	Pure Confucian Chen Clan
 虫银	bug silver
 医家	Medicinism	couldn't find good tl for this
 东华山	Eastern Splendor Mountain
@@ -7503,3 +7499,9 @@ Qiu Jian	求剑
 书简湖	Bamboo Scroll Lake
 丹室	core abode
 洪老	Elder Hong
+后悔	regret
+颍阴陈氏	Yingyin Chen Clan	aka Pure Confucian Chen Clan
+醇儒陈氏	Pure Confucian Chen Clan	aka Yingyin Chen Clan
+神霄竹	divine cloud bamboo
+打鬼鞭	ghost striking whip
+吃墨鱼	ink devouring fish
