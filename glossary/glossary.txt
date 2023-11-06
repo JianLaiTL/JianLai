@@ -7512,3 +7512,6 @@ Qiu Jian	求剑
 浩然气	Righteous Aura	sword name
 红妆	Elaborate Makeu	sword name
 云纹	Cloud Pattern	sword name
+打醮山	Ceremony Mountain
+执事	attendant
+天字	premium	for rooms, in which case 天字房 or 天字号房 are premium rooms
