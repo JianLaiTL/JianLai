@@ -7515,3 +7515,5 @@ Qiu Jian	求剑
 打醮山	Ceremony Mountain
 执事	attendant
 天字	premium	for rooms, in which case 天字房 or 天字号房 are premium rooms
+春水	Chun Shui
+秋实	Qiu Shi
