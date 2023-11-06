@@ -7517,3 +7517,4 @@ Qiu Jian	求剑
 天字	premium	for rooms, in which case 天字房 or 天字号房 are premium rooms
 春水	Chun Shui
 秋实	Qiu Shi
+观景台	observation deck
