@@ -7520,9 +7520,9 @@ Qiu Jian	求剑
 观景台	observation deck
 春水	Chun Shui
 秋实	Qiu Shi
-打醮山	Dajiao Mountain
 天字房	heaven-grade residence
 黄粱阁	Yellow Millet Pavilion
 长春橘	everspring mandarin
 火梨	fire pear
 秋水宗	Autumn Water Sect
+天字号房	heaven-grade residence
