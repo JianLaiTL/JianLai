@@ -7518,3 +7518,8 @@ Qiu Jian	求剑
 春水	Chun Shui
 秋实	Qiu Shi
 观景台	observation deck
+春水	Chun Shui
+秋实	Qiu Shi
+打醮山	Dajiao Mountain
+天字房	heaven-grade residence
+黄粱阁	Yellow Millet Pavilion
