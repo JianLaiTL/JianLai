@@ -2953,9 +2953,7 @@
 百战学院	Hundred Battles Academy
 十莲	Tenth Lotus
 天使区	Angel Quarters
-霸	Ba
 学院	academy
-霸兄	Brother Ba
 云河仙子	Celestial Maiden Yunhe
 寒枫	Han Feng
 五叶	Five Leaf
@@ -4609,26 +4607,17 @@ Qiu Jian	求剑
 游荡	loiter, wander, roam
 飘荡	drift, float, wave, flutter
 天地间	between heaven and earth
-美妙	splendid, wonderful, beautiful, mesmerising
 按捺	restrain, control, suppress, contain
 悸动	pound, throb, palpitate from nervousness
-查看	look over, examine, check up
-麻蛋	shit, damn
 趋势	trend, tendency
-修仙联合学院	The United University of Cultivation
-霸气	domineering, arrogant, intimidating, rude, unreasonable, agressive
 猥琐	uncouth, wretched, vulgar
 大汗淋漓	sweating profusely, drenched in sweat, dripping with sweat
 猛地	suddenly, abruptly
-无敌	invincible, unequalled, without rival
 查看	examine, look over, check up
-发现	discovered, find, detect, identify
 外挂	cheat software, hack
-气死	infuriate, drive crazy
 巅峰	peak, pinnacle, summit, apex
 乐呵呵	buoyant, happy, giddy
 愣	stunned
-半晌	a while, a long time
 拼了命	with all one's might, at all costs, as if one's life depends on it
 拼命	with all one's migwith all one's might, at all costs, as if one's life depends on itht, at all costs, as if one's life depends on it
 呆滞	dull, lifeless, idle
@@ -7526,3 +7515,4 @@ Qiu Jian	求剑
 火梨	fire pear
 秋水宗	Autumn Water Sect
 天字号房	heaven-grade residence
+美妙	splendid, wonderful, beautiful, mesmerizing
