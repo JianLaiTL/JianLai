@@ -1960,11 +1960,9 @@
 大动乱	great turmoil
 魔兵	Demonic Tool
 三祖	Third Elder
-地魔	Earth Demon
 谈云	Tan Yun
 东昌	Dongchang
 道心	Dao Heart
-天魔	Heaven Demon
 谈老鬼	Old Geezer Tan
 凌污王	Filth King Ling
 老天魔	old Heaven Demon
@@ -4117,9 +4115,6 @@ Qiu Jian	求剑
 撒娇	wheedle
 自幼	at a very young age
 一脸无辜	gave a perfectly guileless look
-游山玩水	jaunt
-和睦	rapprochement
-剑道	Sword Dao, path of the sword, way of the sword
 孤阴不长，独阳不生	Lone Yin did not lead to birth and solitary Yang did not allow growth
 太乙	Primordial Unity
 乾坤袋	Cosmic Bag, Cosmos Bag, Bag of the Cosmos
@@ -7516,5 +7511,8 @@ Qiu Jian	求剑
 秋水宗	Autumn Water Sect
 天字号房	heaven-grade residence
 美妙	splendid, wonderful, beautiful, mesmerizing
-青冥天下	Immortal Heavens
 马管事	Supervisor Ma
+地魔	earth demon
+天魔	heavenly demon
+青冥天下	Heavenly World
+道老二	Daoist second disciple	second disciple of the Dao Ancestor, "True Invincible"
