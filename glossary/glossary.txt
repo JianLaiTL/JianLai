@@ -575,7 +575,6 @@
 鬼龙窟	Ghost Dragon Cave
 八荒阿鼻剑法	Desolate Hell Sword Technique
 山河斧	Mountain and River Axe
-灵器	Spirit Tool
 魔生剑	Demon Birth Sword
 死灵之花	Flower of Dead Souls
 血槐树	Blood Locust Tree
@@ -600,7 +599,6 @@
 鬼龙窟	Ghost Dragon Cave
 八荒阿鼻剑法	Desolate Hell Sword Technique
 山河斧	Mountain and River Axe
-灵器	Spirit Tool
 魔生剑	Demon Birth Sword
 死灵之花	Flower of Dead Souls
 血槐树	Blood Locust Tree
@@ -4071,16 +4069,12 @@ Qiu Jian	求剑
 蛊	Gu
 关门弟子	final disciple
 亲传弟子	personal disciple
-直传弟子	inherited-teachings disciple
 核心弟子	core disciple
-外门弟子	outer sect disciples
-内门弟子	inner sect
 长老	Elder
 太上长老	Grand Elder
 门主	sect master
 教主	sect master
 弟子	disciple
-公子	Young Master, Young Sir
 阵盘	formation disk, array disk
 洗精伐髓	Marrow Cleansing
 经脉	meridians
@@ -4486,7 +4480,6 @@ Qiu Jian	求剑
 仙家	divine abode
 拉风	trendy, eye-catching, flashy
 驾驭	to drive, steer, handle, manage, master, tame
-灵器	Spirit Tool
 飞剑	flying sword
 空间戒指	interspatial ring
 储物法宝	storage treasure
@@ -4777,7 +4770,6 @@ Qiu Jian	求剑
 猜测	suspect
 精彩	brilliant, splendid, wonderful
 惨	miserable, tragic, pitiful, cruel, brutal, merciless, disastrous, terrible, crushing, wretched
-算	let alone, let it be, forget about it, settled
 关键	critical, decisive
 丢脸	shame, embarass, disgrace
 拒绝	refuse, reject, turn down, decline
@@ -5575,7 +5567,6 @@ Qiu Jian	求剑
 曼妙	lithe and graceful
 尽快	as soon as possible
 自知之明	self-knowledge
-何况	let alone, besides, what's more, to say nothing of
 气息	aura
 收敛	restrain, hold back, weaken, curb, dwindle, contain, control, restrict
 打气	pump up, inflate, encourage, boost morale
@@ -6097,7 +6088,6 @@ Qiu Jian	求剑
 娇声	seductive
 血族	Blood Tribe
 魔族	Demon Tribe
-张天师	Heavenly Teacher Zhang
 血肉灵碑	Flesh and Blood Spirit Tablet
 黑泽	dark marshlands
 灵根	spirit root
@@ -7517,3 +7507,8 @@ Qiu Jian	求剑
 青冥天下	Heavenly World
 道老二	Daoist second disciple	second disciple of the Dao Ancestor, "True Invincible"
 掌律	disciplinary elder
+灵器	spirit tool
+直传弟子	direct disciple
+鲜草山	Fresh Grass Mountain
+龙虎山	Dragon Tiger Mountain
+张家	Zhang Clan
