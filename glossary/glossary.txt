@@ -7512,3 +7512,8 @@ Qiu Jian	求剑
 鲜草山	Fresh Grass Mountain
 龙虎山	Dragon Tiger Mountain
 张家	Zhang Clan
+雪花玉	snowflake jade
+雪花钱	snowflake coins
+皑皑洲	Pure White Continent
+杏花坊	Peach Blossom Tavern
+雀舌茶	sparrow's tongue tea
