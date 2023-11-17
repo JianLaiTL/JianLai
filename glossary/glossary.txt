@@ -1844,13 +1844,9 @@
 刺头	troublemaker
 阵眼	formation eye
 切磋	spar
-入道	succeed Dao
 阵纹	formation patterns
 刻	inscribe
 小黑	Little Black
-大黑狗	large black dog	note: i've used he for the dog, since he was gendered when introduced
-先祖文心	Ancestor Wenxin
-银发金角	silver-haired and golden-horned senior disciple
 任非云	Ren Feiyun
 八分院	eighth campus
 巨头	big shot
@@ -7528,3 +7524,14 @@ Qiu Jian	求剑
 小雪钱	minor snow coins
 古榆国	Ancient Elm Nation
 杏花坊	Apricot Blossom Tavern
+胭脂郡	Blusher Prefecture
+太守	prefectural overseer
+刘高华	Liu Gaohua	Son of Blusher Prefecture's prefectural overseer
+徐远霞	Xu Yuanxia	the saber wielding dude
+大髯刀客	Xu Yuanxia
+张天师	Heavenly Master	seems to be an honorary title kinda thing
+刘郡守	Prefectural Overseer Liu
+彩衣国	Colorful Garment Nation
+大髯	big-bearded
+张山峰	Zhang Shanfeng	Chen Ping'an's friend, the poor Daoist priest from the Middle Earth Divine Continents Mount Longhu
+神行符	divine movement talisman
