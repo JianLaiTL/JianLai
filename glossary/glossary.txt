@@ -7084,13 +7084,10 @@ Qiu Jian	求剑
 仙人境	Immortal Tier
 飞升境	Ascension Tier
 失传二境	Two Lost Tiers
-炼体三境	Three Physique Refining Tier
 水银境	Mercury Tier
-炼气三境	Three Qi Refining Tiers
 英魂境	Heroic Spirit Tier
 雄魄境	Gallant Soul Tier
 武胆境	Martial Courage Tier
-炼神三境	Three Mind Refining Tiers
 止境	End Tier
 气盛境	Thriving Qi Tier
 归真境	Simplification Tier
@@ -7535,3 +7532,12 @@ Qiu Jian	求剑
 大髯	big-bearded
 张山峰	Zhang Shanfeng	Chen Ping'an's friend, the poor Daoist priest from the Middle Earth Divine Continents Mount Longhu
 神行符	divine movement talisman
+炼体三境	Three Physique Tempering Tiers
+炼气三境	Three Qi Tempering Tiers
+炼神三境	Three Mind Tempering Tiers
+登山五境	Mountain Ascending Five Tiers
+草根境	Grass Root Tier
+筑庐境	Furnace Molding Tier
+杨晃	Yang Huang	the ghost from the ancient residence during Chen Ping'an's trip to the Sword Qi Great Wall; from the Divine Edict Sect
+留人境	Cultivator Trapping Tier	referring to the Willow Tendon Tier
+大髯汉子	big-bearded martial artist	Xu Yuanxia
