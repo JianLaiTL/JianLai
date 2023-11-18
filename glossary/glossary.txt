@@ -1081,7 +1081,6 @@
 郭修文	Guo Xiuwen
 崔德	Cui De
 步正云	Bu Zhengyun
-阵法师	Formation Master
 占卜师	diviner
 星象师	astrologer
 神雾	Divine Mist
@@ -4124,7 +4123,6 @@ Qiu Jian	求剑
 剑灵	sword spirit
 剑魂	sword soul
 悟道	enlightenment
-阵法	array formation
 陛下	Your Majesty
 娘娘	Her Majesty
 空间法则	spatial dimension laws
@@ -4652,7 +4650,6 @@ Qiu Jian	求剑
 上品	highest grade, top grade
 浓郁	rich, strong, heavy, dense, full-bodied, intense
 潜移默化	imperceptible, subtle influence
-阵法	formation, spell formation, battle formation
 禁止	restrictions, seals, restrictive spell, spell restriction
 强行	forcefully
 吸收	absorbing, assimilating, ingest, recruit
@@ -5159,13 +5156,9 @@ Qiu Jian	求剑
 猛	fierce, violent, energetic, vigorous, powerful, savage, cruel
 狂暴	violent, wild, furious, raging
 气流	air current, airstream
-震	shake, shock, vibrate, greatly excited, deeply astonished, shocked, beat, surpass
 纹丝不动	motionless
 狼狈	in a difficult position, in a tight corner, be embarrassed, in sore straits, cut a sorry figure, in confusion, in panic
 惟妙惟肖	remarkbly true to life, absolutely lifelike, vivid
-差距	gap, disparity, difference, gulf
-扑	pounce, throw, rush, attack, swoop
-瞬间	in a flash, in a split second, instant
 贱人	slut, bitch
 毫不留情	ruthless, relentless
 躲	hide, dodge, avoid
@@ -7533,3 +7526,6 @@ Qiu Jian	求剑
 陆沉	Lu Chen	third disciple of the Dao Ancestor
 紫金莲花	golden-purple lotus flower
 买椟楼	Case Purchasing Pagoda	assassin organisation in the Ancient Elm Nation
+差距	gap, disparity, difference, gul
+朱荧王朝	Luminous Vermilion Empire
+藩属	vassal
