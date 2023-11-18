@@ -7529,3 +7529,4 @@ Qiu Jian	求剑
 差距	gap, disparity, difference, gul
 朱荧王朝	Luminous Vermilion Empire
 藩属	vassal
+徐大哥	Big Borther Xu	Xu Yuanxia
