@@ -4432,16 +4432,10 @@ Qiu Jian	求剑
 翱翔	soar, hover
 仙家气象	divine atmosphere
 灵兽	Spirit Beast
-震惊	shock, amaze, astonish
 仙境	Immortal realm
-初来乍到	have just come, newcomer
-彻底	completely, utterly, thorougly
-猜想	guess, suspicion, speculation
 掉眼泪	shed tears
 关系户	Backdoor entrant
 见状	seeing this
-神色	expression, look
-片刻	a short while, an instant, a moment
 宿主	host
 分贝	decibel
 什么鬼	what the hell
@@ -4449,7 +4443,6 @@ Qiu Jian	求剑
 不已	endlessly, incessantly
 低声	under one's breath, softly
 载入	record
-奇怪	strange, odd, baffled
 渐渐	gradually
 神经病	crazy, mental
 受不了	unbearable, unable to endure, can't stand
@@ -4462,8 +4455,6 @@ Qiu Jian	求剑
 本能	instinct
 领地	territory, domain, estate
 哇塞	wow
-广阔	vast, wide, broad
-话说	anyhow, speaking of which, that said, it is said
 真神	True God
 迷人	enchanting, bewitching, fascinating, charming, tempting
 许小兰	Xu Xiaolan
@@ -4472,7 +4463,6 @@ Qiu Jian	求剑
 承办	organised, sponsored
 九州界	Kingdom of the Nine States
 向往	yearning, look forward to
-惊奇	surprised, amazed, wonder
 仙家	divine abode
 拉风	trendy, eye-catching, flashy
 驾驭	to drive, steer, handle, manage, master, tame
@@ -6527,7 +6517,6 @@ Qiu Jian	求剑
 三教	three teachings
 教义	doctrine
 道行	Dao foundation
-陆沉	Lu Chen
 陆道人	Daoist Lu
 桃芽	Tao Ya
 赶紧	hurriedly
@@ -7541,3 +7530,6 @@ Qiu Jian	求剑
 杨晃	Yang Huang	the ghost from the ancient residence during Chen Ping'an's trip to the Sword Qi Great Wall; from the Divine Edict Sect
 留人境	Cultivator Trapping Tier	referring to the Willow Tendon Tier
 大髯汉子	big-bearded martial artist	Xu Yuanxia
+陆沉	Lu Chen	third disciple of the Dao Ancestor
+紫金莲花	golden-purple lotus flower
+买椟楼	Case Purchasing Pagoda	assassin organisation in the Ancient Elm Nation
