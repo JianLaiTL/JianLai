@@ -5286,7 +5286,6 @@ Qiu Jian	求剑
 效果	effect, result, quality
 目的	purpose, aim, goal, objective, end, target
 运转	practicing
-淬体	temper body
 天真	innocent, naive
 靠山	backer, backing, support
 挫折	frustrate, foil, defeat, thwart, setback, failure
@@ -7146,7 +7145,6 @@ Qiu Jian	求剑
 剑心	sword heart
 阴阳家	Naturalist
 灵官	Daoist enforcer	Daoist position
-祖庭	ancestral temple
 酒儿	Jiu'er	blind old Daoist priest's disciple
 小跛子	little lame lad	blind old Daoist priest's disciple
 国子监	imperial academy
@@ -7530,3 +7528,6 @@ Qiu Jian	求剑
 朱荧王朝	Luminous Vermilion Empire
 藩属	vassal
 徐大哥	Big Borther Xu	Xu Yuanxia
+祖庭	ancestral force
+听妖铃铛	demon detecting bell
+徐大侠	Chivalrous Xu
