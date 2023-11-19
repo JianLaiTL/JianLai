@@ -7534,3 +7534,5 @@ Qiu Jian	求剑
 方寸符	inch movement talisman
 马将军	General Ma
 护道人	Dao guardian
+木芯	wood core
+雌榆	female elm
