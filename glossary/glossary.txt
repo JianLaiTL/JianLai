@@ -7532,3 +7532,4 @@ Qiu Jian	求剑
 听妖铃铛	demon detecting bell
 徐大侠	Chivalrous Xu
 方寸符	inch movement talisman
+马将军	General Ma
