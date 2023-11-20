@@ -1622,7 +1622,6 @@
 本源神焰	essence divine flames
 手诀	hand seals
 木灵	Wood Spirit
-仙兵	Celestial Tool
 柔妖女	Bewitching Maiden Rou
 打量	survey
 银河	silver river	for Eternal River Tier
@@ -7358,7 +7357,6 @@ Qiu Jian	求剑
 刺史	governor
 战力	combat power
 元力	origin power
-仙兵	immortla weapon
 道主	Dao Master
 神诰宗	Divine Edict Sect
 道统	Daoist orthodoxy
@@ -7449,7 +7447,6 @@ Qiu Jian	求剑
 颍阴陈氏	Yingyin Chen Clan	aka Pure Confucian Chen Clan
 醇儒陈氏	Pure Confucian Chen Clan	aka Yingyin Chen Clan
 神霄竹	divine cloud bamboo
-打鬼鞭	ghost striking whip
 吃墨鱼	ink devouring fish
 陈淳安	Chen Chun'an	Patriarch of the Yingyin (Pure Confucian) Chen Clan
 紫电	Purple Lightning	sword of chubby young boy (Ning Yao's friend)
@@ -7536,3 +7533,12 @@ Qiu Jian	求剑
 护道人	Dao guardian
 木芯	wood core
 雌榆	female elm
+仙兵	immortal weapon
+打鬼鞭	ghost-striking whip
+匠器	craft tool	some shitty rank system he came up with for immortal treasures; dont think he sticks to it
+天师府	Heavenly Master Residence
+重器	valuable tool	some shitty rank system he came up with for immortal treasures; dont think he sticks to it
+山魈壶	mandrill teapot
+缚妖索	demon-binding chain
+镇妖木	demon-suppressing wood
+仙兵	celestial tool	above the level of immortal tool (法器)
