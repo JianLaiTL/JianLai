@@ -7542,3 +7542,4 @@ Qiu Jian	求剑
 缚妖索	demon-binding chain
 镇妖木	demon-suppressing wood
 仙兵	celestial tool	above the level of immortal tool (法器)
+树妖	tree spirit
