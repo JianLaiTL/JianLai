@@ -7114,10 +7114,6 @@ Qiu Jian	求剑
 道场	temple
 目盲老道	blind old Daoist priest
 女鬼	female ghost
-破障符	Barrier Shattering Talisman
-山水符	Mountain and Water Talisman
-阳气挑灯符	Yang Energy Illumination Talisman
-三清静心符	Three Pure Ones Mind Calming Talisman
 秀水高风	Beautiful Water Noble Wind	characters on plaque
 跛脚少年	lame young boy
 金枝玉叶	golden branch and jade leaves	literally powerful cultivators with golden spine and jade limbs
@@ -7552,3 +7548,9 @@ Qiu Jian	求剑
 邪风点火符	evil-detecting talisman
 烛阳	Illuminating Sun	sword of Colorful Garment Nation's sword god
 邪气点火符	evil-detecting talisman
+破障符	barrier-shattering talisman
+山水符	mountain and water talisman
+阳气挑灯符	Yang energy illumination talisman
+三清静心符	Three Pure Ones mind-calming talisman
+沈温	Shen Wen	city god in Blusher Prefecture's prefectutal city
+挑灯符	illumination talisman
