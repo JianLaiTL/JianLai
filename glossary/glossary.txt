@@ -7549,3 +7549,6 @@ Qiu Jian	求剑
 柳赤诚	Liu Chicheng	From the White Mountain Nation, the dude (Blusher Prefecture's) Liu Gaohua's sister likes
 白山国	White Mountain Nation
 青鸾国	Azure Phoenix Nation
+邪风点火符	evil-detecting talisman
+烛阳	Illuminating Sun	sword of Colorful Garment Nation's sword god
+邪气点火符	evil-detecting talisman
