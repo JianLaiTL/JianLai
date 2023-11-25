@@ -7543,3 +7543,9 @@ Qiu Jian	求剑
 镇妖木	demon-suppressing wood
 仙兵	celestial tool	above the level of immortal tool (法器)
 树妖	tree spirit
+乌木	ebony
+光明铠	radiant armor	for armor pellets
+甲丸	armor pellet	item from Militarians, can transform into suit of armor
+柳赤诚	Liu Chicheng	From the White Mountain Nation, the dude (Blusher Prefecture's) Liu Gaohua's sister likes
+白山国	White Mountain Nation
+青鸾国	Azure Phoenix Nation
