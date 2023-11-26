@@ -1636,8 +1636,6 @@
 岁月千秋	Tide of the Ages
 老祖	ancestor
 丁伶	Ding Ling
-仙术	celestial technique
-仙人	Celestial	because we used "immortal" for 神灵
 星沙武院	Star Sand Martial Arts Academy
 四方星域	Myriad Directions Galaxy
 星沙圣人	Star Sand Saint
@@ -5943,7 +5941,6 @@ Qiu Jian	求剑
 哆嗦	tremble, shiver
 哆嗦	quiver
 诚哥	Big Brother Cheng
-仙术	immortal spell
 有关部门	department concerned
 黄溪村	Huang Xi Village
 离奇	strange, odd, fantastic, bizarre
@@ -7563,3 +7560,6 @@ Qiu Jian	求剑
 陈真容	Chen Zhenrong
 镇妖符	demon-suppressing talisman
 回阳丹	Yang Restoration Pill
+仙术	immortal technique
+精铁官印	iron essence official seal
+青色木盒	azure wooden box	from city god pavilion in blusher prefecture
