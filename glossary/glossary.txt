@@ -753,7 +753,6 @@
 山河石	Mountain River Stone
 重元石	Heavy Origin Stone
 火焰石	Flame Stone
-皇家练武场	Imperial Training Fiel
 孔雀明王	Peacock Flame King
 大龟王	Big Turtle King
 玄武	Black Tortoise
@@ -771,8 +770,6 @@
 大极位	high extreme
 玉阳丹	Jade Sun Pill
 唐风	Tang Feng
-仙金	Divine Metal
-神铁	Godly metal
 银角狂犀	Silver Horned Mad Rhinoceros
 妖兽	Demonic Beast
 赤湖	Crimson Lake
@@ -3128,7 +3125,6 @@
 异香	peculiar fragrance
 佛云	Buddhist Cloud
 凌盟	Ling Alliance
-宝塔	precious tower
 本质力量	fundamental power
 赵薪	Zhao Xin
 武堂	Martial Hall
@@ -6188,7 +6184,6 @@ Qiu Jian	求剑
 龙胆亮银枪	Courage of Dragons Silver Spear
 平西军	West Vanquishing Army
 陕西	West Shan Province
-威！！	Chaaaaarge!!
 八大门阀	Eight Great Clans
 吕方	Lü Fang
 生死簿	Book of Life and Death
@@ -6566,7 +6561,6 @@ Qiu Jian	求剑
 入室	journey
 精气神	energy, essence, and spirit
 道家真君	True Lord of Daoism
-少女	young woman
 少女	young girl
 窑工	potter
 杨家铺子	Yang Family's medicine shop
@@ -7561,3 +7555,9 @@ Qiu Jian	求剑
 太岁殿	Tai Sui hall
 彩衣国胭脂郡城隍显佑伯印	Colorful Garment Nation Blusher Prefecture City God Protection Seal
 黄紫贵人	Esteemed Daoist Huangzi
+皇家练武场	Imperial Training Field
+宝塔	treasure pagoda
+君子	noble scholar	title for Confucian scholars, above virtuous scholar
+贤人	virtuous scholar	title for Confucian scholars, below noble scholar
+拳罡	fist aura
+铁锏	steel truncheon
