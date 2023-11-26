@@ -7565,3 +7565,6 @@ Qiu Jian	求剑
 青色木盒	azure wooden box	from city god pavilion in blusher prefecture
 起火烧煞符	evil incinerating talisman
 烧煞符	evil incinerating talisman
+三上品	Upper Three Grades
+中三品	Middle Three Grades
+下三品	Lower Three Grades
