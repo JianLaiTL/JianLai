@@ -7355,7 +7355,6 @@ Qiu Jian	求剑
 金色鲤鱼	golden carp
 风雪小锥	Wind and Snow Awl
 楷树	model tree
-陈真容	Cheng Zhenrong
 大剑仙	great sword immortal
 魔	fiend
 屈辱	humiliation
@@ -7561,3 +7560,4 @@ Qiu Jian	求剑
 法宝	immortal treasure	divided into: craft tool, valuable tool, spirit tool (connate, postnatal), immortal tool
 匠器	craft tool	some shitty rank system he came up with for immortal treasures
 重器	valuable tool	some shitty rank system he came up with for immortal treasures
+陈真容	Chen Zhenrong
