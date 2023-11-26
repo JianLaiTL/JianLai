@@ -7564,3 +7564,4 @@ Qiu Jian	求剑
 精铁官印	iron essence official seal
 青色木盒	azure wooden box	from city god pavilion in blusher prefecture
 起火烧煞符	evil incinerating talisman
+烧煞符	evil incinerating talisman
