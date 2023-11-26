@@ -6675,7 +6675,6 @@ Qiu Jian	求剑
 卢氏	Lu Clan
 道姑	Daoist nun
 法器	immortal tool
-法宝	immortal treasure
 法术	spell technique
 法力	immortal powers
 法门	immortal formulation
@@ -7525,9 +7524,7 @@ Qiu Jian	求剑
 雌榆	female elm
 仙兵	immortal weapon
 打鬼鞭	ghost-striking whip
-匠器	craft tool	some shitty rank system he came up with for immortal treasures; dont think he sticks to it
 天师府	Heavenly Master Residence
-重器	valuable tool	some shitty rank system he came up with for immortal treasures; dont think he sticks to it
 山魈壶	mandrill teapot
 缚妖索	demon-binding chain
 镇妖木	demon-suppressing wood
@@ -7561,3 +7558,6 @@ Qiu Jian	求剑
 贤人	virtuous scholar	title for Confucian scholars, below noble scholar
 拳罡	fist aura
 铁锏	steel truncheon
+法宝	immortal treasure	divided into: craft tool, valuable tool, spirit tool (connate, postnatal), immortal tool
+匠器	craft tool	some shitty rank system he came up with for immortal treasures
+重器	valuable tool	some shitty rank system he came up with for immortal treasures
