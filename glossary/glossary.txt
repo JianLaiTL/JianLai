@@ -7569,3 +7569,4 @@ Qiu Jian	求剑
 中三品	Middle Three Grades
 下三品	Lower Three Grades
 地脉	ley lines
+青词	inscription talismans	I know it's probably not correct, but it's basically what it is from my understanding, ie. a talisman created using written runes
