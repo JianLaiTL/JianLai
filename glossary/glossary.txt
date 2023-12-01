@@ -7572,3 +7572,9 @@ Qiu Jian	求剑
 青词	inscription talismans	I know it's probably not correct, but it's basically what it is from my understanding, ie. a talisman created using written runes
 招魂符	soul calling talisman
 鱼尾冠	fish tail hat
+崇妙道人	Daoist Chong Miao
+符箓派	talismanic branch
+刘太守	Prefectural Overseer Liu
+垂铜塔	Dangling Copper Tower
+灵犀派	Spiritual Horn Force	from Blusher Prefecture
+彩鸾	colored luan
