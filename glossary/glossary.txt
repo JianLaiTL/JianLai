@@ -4448,7 +4448,6 @@ Qiu Jian	求剑
 飞剑	flying sword
 空间戒指	interspatial ring
 储物法宝	storage treasure
-符	talisman, seal
 玉简	jade slip
 刀	saber
 阵	formations
@@ -7573,3 +7572,5 @@ Qiu Jian	求剑
 罗天大醮	heavenly worship ceremony	some ceremony that's supposed to bring peace and safety to the ppl of a nation
 淫祠山神	illegitimate mountain god
 鸾鸾	Luanluan	little girl who almost fell to demonic ways in Zhao Clan residence in Blusher Prefecture
+符	talisman
+符	seal
