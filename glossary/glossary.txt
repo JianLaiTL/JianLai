@@ -1295,7 +1295,6 @@
 关荣	Guan Rong
 师兄弟	Sect Brothers
 师姐	Sect Sisters
-器灵	Tool Spirit
 食影族	Shadow-eating Tribe
 两界通道	Two Realm Passageway
 全力轩	Quan Lixuan
@@ -4083,7 +4082,6 @@ Qiu Jian	求剑
 男爵	baron
 离火	Li Fire
 三足	three-legged
-器灵	Item Spirit, Artifact Spirit
 天道	Heavenly Dao
 纯阴	pure Yin
 纯阳	pure Yang
@@ -4430,7 +4428,6 @@ Qiu Jian	求剑
 宿主	host
 分贝	decibel
 什么鬼	what the hell
-意义	sense, meaning, importance, significance
 不已	endlessly, incessantly
 低声	under one's breath, softly
 载入	record
@@ -4568,7 +4565,6 @@ Qiu Jian	求剑
 任务	task, mission, assignment, duty, role
 将信将疑	half believing, half doubting, skeptical
 紧接着	immediately afterwards
-感受	sense, perceive, feel, experience, impression
 游荡	loiter, wander, roam
 飘荡	drift, float, wave, flutter
 天地间	between heaven and earth
@@ -4589,7 +4585,6 @@ Qiu Jian	求剑
 傻	dumfounded, stunned, foolish, silly, stupid, imbecile
 信仰	faith, conviction, belief
 万念俱灰	completely disheartened, abandon oneself in despair, become totally disillusioned, despondent
-察觉	sense, become aware, to perceive, to detect
 吓懵	scared sh*tless
 靠	rely, trust, depend on
 说不定	can't say for sure, maybe
@@ -4646,8 +4641,6 @@ Qiu Jian	求剑
 禁止	restrictions, seals, restrictive spell, spell restriction
 强行	forcefully
 吸收	absorbing, assimilating, ingest, recruit
-恐怕	fear, dread, afraid that, perhaps, maybe
-鄙视	despise, disdain, look down upon
 打量	size up, look up and down
 名声	reputation, repute, renown
 所幸	fortunately
@@ -5638,20 +5631,15 @@ Qiu Jian	求剑
 疲惫	beat, exhausted, tired
 麻木	numb, insensitive, apathetic, empty, lifeless, paralysed
 秒杀	insta-kill
-承认	admit, concede, recognize, acknowledge
 哉悠	free and unconstrained, leisurely and carefree
 纹路	veined patterns
 玄妙	mystical
-顿悟	flash of realization, moment of enlightment
 脱线	bizarre
 暗合	in accordance with
 无奈	exasperated
 无奈	frustrated
-不假思索	readily, without hesitation
 浮现	emerge, float
-具体	concrete, definite, specific
 修炼	practice
-必然	inevitably, certainly, necessity
 意外	surprised, astounded
 看不起	look down on, scorn, disdain, despise
 看不起	condescending, contemptuous
@@ -6843,7 +6831,6 @@ Qiu Jian	求剑
 水精	water essence
 李宝瓶	Li Baoping
 石春嘉	Shi Chunjia
-山水印	Mountain and Water Seals
 神庭	Divine Court
 巨阙	Giant Tower
 太渊	Great Void
@@ -7589,3 +7576,6 @@ Qiu Jian	求剑
 陈老儿	Old Man Chen	For the dude in Blusher Prefecture: Immortal Colored Glaze, Elder Huang
 张山	Zhang Shan	young Daoist priest, Chen Ping'an's friend (real name is Zhang Shanfeng)
 大天师	Great Heavenly Master
+器灵	tool spirit
+山水印	mountain and water seals
+文胆	scholarly core
