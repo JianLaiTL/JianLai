@@ -3059,20 +3059,11 @@
 宝库	treasure chamber
 孔家老祖	ancestor of the Kong Clan
 青青	Qing Qing
-十炼	Tenth Refinement
 位面坐标	dimension coordinate
-周恒	Zhou Heng
-科技位面	Technology Realm
-青火	Green Flames
-青火天尊	Green Flames Heavenly Venerate
 超等位面	transcendent dimension
-六步	Sixth Tier
-六步天尊	Sixth Tier Heavenly Venerate
-七步	Seventh Tier
 位面卷轴	Dimension Scroll
 超高等位面	transcendent dimension
 道场	place of enlightenment
-一步	First Tier
 林洛	Lin Luo
 仙种	Celestial Seed
 乱天军	Luan Tianjun
@@ -7581,3 +7572,4 @@ Qiu Jian	求剑
 文胆	scholarly core
 罗天大醮	heavenly worship ceremony	some ceremony that's supposed to bring peace and safety to the ppl of a nation
 淫祠山神	illegitimate mountain god
+鸾鸾	Luanluan	little girl who almost fell to demonic ways in Zhao Clan residence in Blusher Prefecture
