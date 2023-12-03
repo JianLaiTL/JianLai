@@ -7471,7 +7471,6 @@ Qiu Jian	求剑
 皑皑洲	Pure White Continent
 杏花坊	Peach Blossom Tavern
 雀舌茶	sparrow's tongue tea
-张山	Zhang Shan	young Daoist priest, Chen Ping'an's friend
 李抟景	Li Tuanjing
 黄河	Huang He
 斛律公子	Young Master Hulü
@@ -7588,3 +7587,4 @@ Qiu Jian	求剑
 刘高馨	Liu Gaoxin	youngest daughter of Prefectural Overseer Liu from Blusher Prefecture
 城隍殿	city god hall
 陈老儿	Old Man Chen	For the dude in Blusher Prefecture: Immortal Colored Glaze, Elder Huang
+张山	Zhang Shan	young Daoist priest, Chen Ping'an's friend (real name is Zhang Shanfeng)
