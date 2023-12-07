@@ -6948,7 +6948,6 @@ Qiu Jian	求剑
 龙须河	Dragon Whisker River
 铁符江	Iron Talisman River
 青冥鱼	green darkness fish
-十八停	Eighteen Stops
 王毅甫	Wang Yifu
 长春宫	Palace of Eternal Spring
 五雷正法	Five Lightning Righteous Technique
@@ -7564,7 +7563,6 @@ Qiu Jian	求剑
 刘高馨	Liu Gaoxin	youngest daughter of Prefectural Overseer Liu from Blusher Prefecture
 城隍殿	city god hall
 陈老儿	Old Man Chen	For the dude in Blusher Prefecture: Immortal Colored Glaze, Elder Huang
-张山	Zhang Shan	young Daoist priest, Chen Ping'an's friend (real name is Zhang Shanfeng)
 大天师	Great Heavenly Master
 器灵	tool spirit
 山水印	mountain and water seals
@@ -7575,3 +7573,5 @@ Qiu Jian	求剑
 符	talisman
 符	seal
 蛇蝎夫人	scorpion lady	assassin from the Ancient Elm Nation
+十八停	Eighteen Stops Technique
+张山	Zhang Shanfeng	young Daoist priest, Chen Ping'an's friend (real name is Zhang Shanfeng)
