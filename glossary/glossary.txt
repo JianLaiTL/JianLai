@@ -1482,7 +1482,6 @@
 四云四起丹	Four Clouds Four Rising Pill
 老头	old man
 大长老	senior elder
-天威	heaven's might
 灵海境	Spiritual Ocean Tier
 丹道等级	alchemy level
 林雨绮	Lin Yuqi
@@ -4508,13 +4507,8 @@ Qiu Jian	求剑
 踉跄	stagger, stumble
 不可思议	inconceivable, unimaginable, unfathomable, disbelief
 莫名	indescribable
-反驳	refute, rebut, retort
-知道	aware, know, realize
-嘴角一抽	wince, grimace
-安慰	comfort, console
 忧郁	melancholy, heavyhearted, dejected, sullen, depressed
 待见	like, be fond of
-住所	dwelling, residence
 真心	wholeheartedly, heartfelt, sincere
 惊叹	exclaim in admiration, marvel at, wonder at, a gasp of surprise
 不愧	be worth of, deserve to be called, to prove oneself to be
@@ -4653,16 +4647,12 @@ Qiu Jian	求剑
 苏浅云	Su Qianyun
 青木皇族	Green Wood imperial family
 紫星州	Purple Star State
-据说	it is said, alleged, rumoured
-突破	breakthrough, surmount, overfulfil
 仙班	amongst the rank of Immortals
 小仙	Young Immortal
 仙班	Immortal Ranks
 轰动	caused a sensation, create a stir, commotion, controvesy
 惭愧	ashamed
 嘲讽	sneer at, taunt, ridicule
-轻松	light, gentle, relaxed, effortless, uncomplicated, take things less seriously
-默默	quietly, silently, unknown to the public, without attracting attention, obsure
 惊呼	cry of surprise
 果不其然	sure enough, just as expected
 倾国倾城	exceedingly beautiful, devastatingly beautiful
@@ -4697,9 +4687,6 @@ Qiu Jian	求剑
 九转凝气阵	Nine Revolution Qi Condensation Spell
 幽环	Tranquil Ring Technique
 配合	work harmoniuosly
-悠悠	unhurried, lasting for ages, long and drawn out
-恍然大悟	suddenly see the light, realisation
-碾压	roll over, grind, crush
 翻盘	turn the tables, make a comeback
 深入浅出	explain the profound in simple terms, simple and easy to understand
 生动	lively and vivid
@@ -4894,7 +4881,6 @@ Qiu Jian	求剑
 育神	cultivating the mind, cultivating the spirit
 坏笑	snicker, snigger, grin
 难道	don't tell me
-缓缓	slowly, gradually, unhurriedly
 画面	appearance, frame, scenery
 美不胜收	so beautiful that one can't take them all in, more beauty than one can take in
 打闹	quarrel and fight noisily, play boisterously
@@ -4985,8 +4971,6 @@ Qiu Jian	求剑
 美好	fine, happy, glorious, bright, magnificent
 桃花运	a man's luck in love, good luck
 关注	attention, interest
-接连	one after another, in a row, in succession, on end
-别说	to say nothing of, not to mention, let alone
 吐槽	roast, ridicule
 场面	scene, spectacle, occasion
 大杂烩	hodgepodge
@@ -5059,7 +5043,6 @@ Qiu Jian	求剑
 主谓宾	subject-verb-object
 全神贯注	concentrate one's attention on, be absorbed or engrossed in, preoccupied with
 气血翻涌	blood seething, blood surging, blood churning
-意识	aware, realise, conscious
 没头没脑	unthinking, without rhyme or reason, abrupt, lack coherence or logic, regardless of consequence
 撩妹	flirt, hit on girls
 吹弹可破	delicate
@@ -5307,7 +5290,6 @@ Qiu Jian	求剑
 勉强	inadequate, unconvincing, strained, far-fetched, grudging, manage with an effort, barely enough
 松了一口气	heave a sigh of relief, breath a sigh of relief
 状态	state, condition
-心知肚明	to be well aware
 追究	look into, find out, investigate
 特意	specially, intentionally
 决心	make up one's mind, resolute, determined, make a firm resolution
@@ -5332,9 +5314,6 @@ Qiu Jian	求剑
 评定	evaluate, assess
 仙榜	Immortal Rankings Board
 干劲十足	full of vigour
-干劲	drive, enthusiasm, vigour
-基本	generally, mainly, by and large, basically
-奢望	wild wishes, extravagant hopes, high hopes, excessive expectations
 牛逼	badass, freaky, awesome, capable
 担任	assume the office of
 担任	hold the post of
@@ -5354,14 +5333,7 @@ Qiu Jian	求剑
 悦耳	sweet-sounding, beautiful, pleasant to the ear
 副校长	Vice-Principal
 玉华	Yu Hua
-瞻仰	gaze at with reverence, to revere, admire
-伟大	great, mighty, grand, huge
 负手	hands clasped behind back
-仿佛	seemingly, as if, alike, similar
-穿透	pierce through, penetrate, run through
-心灵	heart, soul, spirit
-能力	ability, capacity, capability
-如雷贯耳	reverberate like thunder, resounded in one's ears
 感叹	exclaim
 如痴如醉	as if intoxicated and stupefied, obsessed with, mad about
 总结	summary, sum up, review
@@ -5384,7 +5356,6 @@ Qiu Jian	求剑
 任务成功	Mission Success
 任务失败	Mission Failure
 注	Note
-深知	know very well, fully aware, keenly aware
 单调	monotonous, dull, drab
 轰鸣	roar, boom, rumble
 赶	hurry, rush, catch up, overtake, make a dash for, drive away, expel
@@ -5608,10 +5579,8 @@ Qiu Jian	求剑
 倒霉	lousy luck, be out of luck
 话说	say
 别的不说	Not taking into account other matters
-一流	first-rate, first-class, top-notch
 事件	incident, event
 体力	stamina, strength, physical power
-悠然	carefree and leisurely, unhurried
 淬炼	temper
 专属	exclusive
 惨遭	to suffer
@@ -5741,10 +5710,7 @@ Qiu Jian	求剑
 卓越	unsurpassed, extreme, of the highest degree
 千奇百怪	all kinds of strange things, an infinite variety of fantastic phenomena, fantastic oddities of every description
 断绝	break off, cut off, sever, discontinue
-缓	ease, relaxed, slow, unhurried, sluggish, gradual, defer, revive, recuperate
 烦躁	fidgety, agitated, irritated, jittery, twitchy
-怒火	fury, rage, anger, wrath
-阻碍	hinder, block, impede, obstruct
 憋屈	distressed
 这可是	indeed
 东海龙庭	Dragon Court of the Eastern Seas
@@ -7576,3 +7542,8 @@ Qiu Jian	求剑
 十八停	Eighteen Stops Technique
 张山	Zhang Shanfeng	young Daoist priest, Chen Ping'an's friend (real name is Zhang Shanfeng)
 元田地	Yuan Tiandi	disciple of demonic cultivator who possessed liu chicheng, previously disciple of old demon mi
+天威	heavenly might
+白水国	White Mountain Nation	author fked up
+雷击木	lightning strike wood
+赵树下	Zhao Shuxia	lttle boy from Blusher Prefecture
+渔翁先生	Mr. Fisherman
