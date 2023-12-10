@@ -518,7 +518,6 @@
 凌寒	Ling Han
 黑塔	Black Tower
 破虚境	Shattering Void Tier
-小塔	Small Tower
 吸血元金	Blood Sucking Origin Gold
 兔爷	Uncle Rabbit
 惜生剑	Revere Life Sword
@@ -7356,8 +7355,6 @@ Qiu Jian	求剑
 高深	profound
 长眉儿	Long Eyebrows	Xie Shi's descendant, Ruan Qiong's unofficial disciple
 真无敌	True Invincible	title of the Dao Ancestor's second disciple (i think)
-鲲	Kun
-鲲船	Kun ship
 锦衣	brocade robe
 山岳龟	Mountain Turtle	form of ship/ferry
 吞宝鲸	Treasure Swallowing Whale	type of ship/ferry
@@ -7549,3 +7546,6 @@ Qiu Jian	求剑
 梳水国	Water Combing Nation
 炼气境	Qi Refining Tier
 听妖铃	demon-detecting bell
+鲲	kun
+鲲船	kun ship
+风凉山	Cool Wind Mountain
