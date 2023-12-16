@@ -4667,7 +4667,6 @@ Qiu Jian	求剑
 稍逊一筹	slightly inferior
 哀伤	grief, woe, heartbroken, distress, dejected
 苍青	Cang Qing
-地仙	Earth Immortal
 天仙	Celestial Immortal
 神采飞扬	in high spirits, glowing with health and vigour, glowing with pride and happiness
 神采飞扬	exuberant
@@ -7446,7 +7445,6 @@ Qiu Jian	求剑
 差距	gap, disparity, difference, gul
 朱荧王朝	Luminous Vermilion Empire
 藩属	vassal
-徐大哥	Big Borther Xu	Xu Yuanxia
 祖庭	ancestral force
 徐大侠	Chivalrous Xu
 方寸符	inch movement talisman
@@ -7572,3 +7570,8 @@ Qiu Jian	求剑
 胎光	embryo light
 爽灵	refreshing spirit
 幽精	serene essence
+地仙	earth immortal
+徐大哥	Big Brother Xu	Xu Yuanxia
+谷雨钱	grain rain coin
+法剑	Dao sword
+庄主	villa master
