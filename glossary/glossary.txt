@@ -7563,3 +7563,5 @@ Qiu Jian	求剑
 剑圣	sword saint
 剑匣	sword case
 狐仙	fox spirit
+阁	pagoda
+法印	Daoist seal
