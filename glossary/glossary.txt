@@ -7448,7 +7448,6 @@ Qiu Jian	求剑
 藩属	vassal
 徐大哥	Big Borther Xu	Xu Yuanxia
 祖庭	ancestral force
-听妖铃铛	demon detecting bell
 徐大侠	Chivalrous Xu
 方寸符	inch movement talisman
 马将军	General Ma
@@ -7552,3 +7551,15 @@ Qiu Jian	求剑
 赊刀人	saber-lending cultivator
 宋雨烧	Song Yushao	sword saint from the Water Combing Nation
 四煞	four evil spirits	in Water Combing Nation
+听妖铃铛	demon-detecting bell
+小暑	lesser heat
+小暑钱	lesser heat coin
+剑水山庄	Sword Water Villa
+宋剑圣	Sword Saint Song
+剑尊	sword paragon
+绿珠	Green Jewel	sword of the Ancient Elm Nations sword paragon
+松溪国	Pine Stream Nation
+青竹剑仙	Green Bamboo Sword Immortal	one of four sword grandmasters in central region of Eastern Treasured
+剑圣	sword saint
+剑匣	sword case
+狐仙	fox spirit
