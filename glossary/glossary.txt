@@ -6213,10 +6213,7 @@ Qiu Jian	求剑
 韩国	Daehan
 华国	Cathay
 灵体	spiritual body
-楚人美	Chu Renmei
-黄宝坤	Huang Baokun
 拆迁	demolition and relocation
-黄建森	Huang Jiansen
 十恶不赦	irredeemably heinous
 太岁	Taisui fungus
 护国神卫	Divine Protectors of the country
@@ -7587,3 +7584,4 @@ Qiu Jian	求剑
 小重山	Mount Xiaochong
 韩元善	Han Yuanshan
 韩元学	Han Yuanxue
+山水亭	Mountain and Water Pavilion
