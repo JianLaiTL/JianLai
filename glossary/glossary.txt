@@ -7583,3 +7583,7 @@ Qiu Jian	求剑
 珊瑚	Shanhu
 王珊瑚	Wang Shanfu
 沧水	Vast Water	Song Fengshan's sword
+江湖	cultivation world
+小重山	Mount Xiaochong
+韩元善	Han Yuanshan
+韩元学	Han Yuanxue
