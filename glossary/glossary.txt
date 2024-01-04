@@ -7587,3 +7587,4 @@ Qiu Jian	求剑
 武林大会	all-encompassing martial gathering
 后天	acquired
 法宝	immortal treasure	divided into: craft tool, valuable tool, spirit tool (connate, acquired), immortal tool
+屹然	Immovable	Name of Song Yushao's sword
