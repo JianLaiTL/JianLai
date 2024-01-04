@@ -4140,7 +4140,6 @@ Qiu Jian	求剑
 菩萨	Bodhisattva
 禅师	Zen Master
 法眼	Dharma Eyes
-后天	Postnatal
 先天	Connate
 实丹	True Core
 虚丹	False Core
@@ -7484,7 +7483,6 @@ Qiu Jian	求剑
 贤人	virtuous scholar	title for Confucian scholars, below noble scholar
 拳罡	fist aura
 铁锏	steel truncheon
-法宝	immortal treasure	divided into: craft tool, valuable tool, spirit tool (connate, postnatal), immortal tool
 匠器	craft tool	some shitty rank system he came up with for immortal treasures
 重器	valuable tool	some shitty rank system he came up with for immortal treasures
 陈真容	Chen Zhenrong
@@ -7587,3 +7585,5 @@ Qiu Jian	求剑
 山水亭	Mountain and Water Pavilion
 地衣	ground gowns
 武林大会	all-encompassing martial gathering
+后天	acquired
+法宝	immortal treasure	divided into: craft tool, valuable tool, spirit tool (connate, acquired), immortal tool
