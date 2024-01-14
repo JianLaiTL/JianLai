@@ -7588,3 +7588,5 @@ Qiu Jian	求剑
 后天	acquired
 法宝	immortal treasure	divided into: craft tool, valuable tool, spirit tool (connate, acquired), immortal tool
 屹然	Immovable	Name of Song Yushao's sword
+神人承露甲	Divine Dewbearing Armor
+甘露甲	Dew Armor
