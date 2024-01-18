@@ -7592,3 +7592,5 @@ Qiu Jian	求剑
 甘露甲	Dew Armor
 苏琅	name of the Green Bamboo Sword Immortal
 林孤山	Lin Gushan	name of old swordsman from Ancient Elm Nation
+刺史	regional supervisor
+刺史府	regional supervisor's manor
