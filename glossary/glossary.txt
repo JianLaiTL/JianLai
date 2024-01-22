@@ -7595,3 +7595,4 @@ Qiu Jian	求剑
 刺史	regional supervisor
 刺史府	regional supervisor's manor
 周矩	Zhou Ju
+礼器	ceremonial artifact
