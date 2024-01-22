@@ -7596,3 +7596,4 @@ Qiu Jian	求剑
 刺史府	regional supervisor's manor
 周矩	Zhou Ju
 礼器	ceremonial artifact
+正人	Righteous Figure
