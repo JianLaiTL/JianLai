@@ -6365,7 +6365,6 @@ Qiu Jian	求剑
 正阳山	Sun Scorch Mountain
 廊桥	covered bridge
 根骨	aptitude for cultivation
-肉眼可见	at a rate disciernible to the naked eye
 披云山	Cloud Drape Mountain
 赵繇	Zhao Yao
 紫金	violet gold
@@ -7447,7 +7446,6 @@ Qiu Jian	求剑
 护道人	Dao guardian
 木芯	wood core
 雌榆	female elm
-仙兵	immortal weapon
 打鬼鞭	ghost-striking whip
 天师府	Heavenly Master Residence
 山魈壶	mandrill teapot
@@ -7610,3 +7608,24 @@ Qiu Jian	求剑
 五色社稷土	five-colored state soil
 五色土	five-colored soil
 五岳碗	Five Mountain Bowl
+肉眼可见	at a rate discernible to the naked eye
+圭脉	Guimai	the courtyard on Osmanthus Island
+姜北海	Jiang Beihai	from the Jade Tablet Sect
+墨竹林	Ink Bamboo Forest
+桐叶宗	Parasol Leaf Sect
+范家	Fan Clan
+姜氏	Jiang Clan
+苻家	Fu Clan
+桂夫人	Lady Gui
+苻畦	Fu Qi	clan leader of the fu clan, city lord of old dragon city
+云窟姜氏	Cloud Cave Jiang Clan
+金粟	Jin Su	from Osmanthus Island
+凉荫	Shade	Ma Zhi's bonded flying sword
+剑术正经	Proper Sword Scripture
+桂花小娘	osmanthus girl
+范氏	Fan Clan
+桂花小酿	osmanthus wine
+雪崩式	Avalanche Technique
+镇神头	Deity Suppression Technique
+山岳式	Mountain Technique
+披甲式	Armor-wearing Technique
