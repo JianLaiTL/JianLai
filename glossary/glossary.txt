@@ -7607,3 +7607,5 @@ Qiu Jian	求剑
 玉圭宗	Jade Tablet Sect
 云窟福地	Cloud Cave Blessed Land
 洞天	grotto-heaven
+五色社稷土	five-colored state soil
+五色土	five-colored soil
