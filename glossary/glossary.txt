@@ -7636,3 +7636,5 @@ Qiu Jian	求剑
 斩锁符	Lock Slashing Talisman
 打龙篙	Dragon Beating Pole
 桂宫	Osmanthus Palace
+楼船	louchuan
+斗鸡杯	cockfighting cups
