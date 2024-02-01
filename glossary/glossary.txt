@@ -7650,3 +7650,7 @@ Qiu Jian	求剑
 范二	Fan Er
 太液池	Ancient Pond
 羊脂堂	Mutton Fat Hall
+水虬	small water dragon
+蛇鲤	snake carp
+虬	small dragon
+青虬	small azure dragons	another name for small water dragons
