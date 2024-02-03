@@ -7655,3 +7655,5 @@ Qiu Jian	求剑
 虬	small dragon
 青虬	small azure dragons	another name for small water dragons
 彩鸾	Rainbow Phoenix Fish
+北海	North Sea
+水印	water seal
