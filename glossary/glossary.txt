@@ -7662,3 +7662,7 @@ Qiu Jian	求剑
 先天剑胚	innate sword talent
 刘幽州	Liu Youzhou
 老龙袍	Old Dragon Robe
+分先后	Understanding Order	first chap of Sequential Order book by Scholarly Sage
+审大小	Reviewing Magnitude	second chap of Sequential Order book by Scholarly Sage
+定善恶	Determining Good and Evil	third chap of Sequential Order book by Scholarly Sage
+知行合一	Unity of Knowledge and Action	fourth chap of Sequential Order book by Scholarly Sage
