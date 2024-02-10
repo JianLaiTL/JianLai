@@ -7677,3 +7677,15 @@ Qiu Jian	求剑
 传道人	Dao mentor
 针尖	Needle Tip	flying sword of crossdressing dude
 麦芒	Wheat Awn	other flying sword of crossdressing dude
+捉放渡	Catch and Release Dock
+捉放亭	Catch and Release Pavilion
+敬剑阁	Sword Reverence Pagoda
+上香楼	Incense Offering Tower
+雷泽台	Lightning Lake Platform
+灵芝斋	Ganoderma Inn
+法印堂	Daoist Seal Hall
+师刀房	Daoist Saber Room	师刀房
+麋鹿崖	Milu Cliff
+孤峰	Lone Peak
+鹳雀客栈	Stork Inn
+猿蹂府	Ape Havoc Estate
