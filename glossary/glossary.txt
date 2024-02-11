@@ -7597,7 +7597,6 @@ Qiu Jian	求剑
 正人	Righteous Figure
 火龙真人	Spiritual Master Fire Dragon	Zhang Shanfeng's master
 青蚨坊	Green Beetle Shop
-桂花岛	Osmanthus Island	桂花岛
 马致	Ma Zhi	范家清客之一，我是一名金丹境的剑修
 荫凉	Shade	Ma Zhi's bonded flying sword
 桂姨	Aunt Gui
@@ -7684,9 +7683,11 @@ Qiu Jian	求剑
 雷泽台	Lightning Lake Platform
 灵芝斋	Ganoderma Inn
 法印堂	Daoist Seal Hall
-师刀房	Daoist Saber Room	师刀房
 麋鹿崖	Milu Cliff
 孤峰	Lone Peak
 鹳雀客栈	Stork Inn
 猿蹂府	Ape Havoc Estate
 缺一堂	Missing One Hall	aka Daoist Seal Hall
+桂花岛	Osmanthus Island
+师刀房	Daoist Saber Room
+灵芝如意	ganoderma ruyi
