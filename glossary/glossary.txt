@@ -7691,3 +7691,5 @@ Qiu Jian	求剑
 桂花岛	Osmanthus Island
 师刀房	Daoist Saber Room
 灵芝如意	ganoderma ruyi
+师刀道人	Daoist saber priest
+贵人	Esteemed Daoist
