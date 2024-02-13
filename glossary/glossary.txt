@@ -7703,3 +7703,5 @@ Qiu Jian	求剑
 大祝	grand priest
 半仙兵	pseudo-celestial tool
 董黑炭	Charcoal Dong	Nickname for Dong Huafu
+茱萸	Cornus Officinalis
+幽篁	Restful Bamboo Grove
