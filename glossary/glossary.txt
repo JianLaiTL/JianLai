@@ -7712,3 +7712,4 @@ Qiu Jian	求剑
 叩心关	Test of the Heart
 撞天门	Ramming the Heavenly Gate
 精诚篇	Chapter of Sincerity
+千百十	magnitudes of 10	a rule for currency, grain rain coin = 10 lesser heat coin, lesser heat coin = 100 light snow coin, light snow coin = 1000 taels of silver
