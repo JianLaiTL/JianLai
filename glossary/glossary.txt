@@ -7370,7 +7370,6 @@ Qiu Jian	求剑
 经书	Scripture	sword name
 镇嶽	Mountain Suppressing	sword name
 浩然气	Righteous Aura	sword name
-红妆	Elaborate Makeu	sword name
 云纹	Cloud Pattern	sword name
 打醮山	Ceremony Mountain
 执事	attendant
@@ -7713,3 +7712,6 @@ Qiu Jian	求剑
 撞天门	Ramming the Heavenly Gate
 精诚篇	Chapter of Sincerity
 千百十	magnitudes of 10	a rule for currency, grain rain coin = 10 lesser heat coin, lesser heat coin = 100 light snow coin, light snow coin = 1000 taels of silver
+红妆	Elaborate Makeup	sword name
+法刀	Dao saber
+师刀道姑	Daoist saber nun	daoist nun who's a daoist saber priest
