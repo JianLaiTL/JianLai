@@ -7717,3 +7717,6 @@ Qiu Jian	求剑
 师刀道姑	Daoist saber nun	daoist nun who's a daoist saber priest
 三尸	Three Corpses	sword name
 忘忧酒	Forgetting Sorrow Wine
+道童	young Daoist priest
+蛟龙真君	Flood Dragon True Lord	third in command in Stalactite Mountain, first disciple of heavenly lord on lone peak
+许甲	Xu Jia
