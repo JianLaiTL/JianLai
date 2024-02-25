@@ -5024,13 +5024,8 @@ Qiu Jian	求剑
 随口	casually
 戒备	guard, precaution, alert
 娓娓	talk tirelessly
-不凡	out of the ordinary, out of the common
-资质	natural endowment, intelligence
-不得了	no end of trouble, desperately serious, extremely, exceedingly
 避免	avoid, refrain, avert, prevent
 无妄之灾	unexpected calamity, undeserved bad luck
-连忙	hastily, hurriedly, promptly
-汗颜	blush with shame
 莫非	could it be
 呆	airhead
 恼怒	indignant, furious, annoyed, irritated, vexed
@@ -7731,3 +7726,5 @@ Qiu Jian	求剑
 柳姨	Aunt Liu
 扶摇洲	Circling Ascension Continent
 大端王朝	Great Duan Empire
+大端	Great Duan Empire
+太玄王朝	Supreme Mystery Empire
