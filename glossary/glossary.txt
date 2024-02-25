@@ -7723,3 +7723,7 @@ Qiu Jian	求剑
 圣人本名字符	Sage Name Talisman
 黄粱酒	golden millet wine	formally called Forgetting Sorrow Wine, refers to 黄粱一梦
 黄粱福地	Golden Millet Blessed Land	in Stalactite Mountain
+杂家	Syncretism	one of the hundred schools of thought
+杂家	Syncretist
+文运	scholarly fortune
+武运	martial fortune
