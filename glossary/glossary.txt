@@ -7720,3 +7720,4 @@ Qiu Jian	求剑
 道童	young Daoist priest
 蛟龙真君	Flood Dragon True Lord	third in command in Stalactite Mountain, first disciple of heavenly lord on lone peak
 许甲	Xu Jia
+圣人本名字符	Sage Name Talisman
