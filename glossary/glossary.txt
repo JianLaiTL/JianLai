@@ -7392,7 +7392,6 @@ Qiu Jian	求剑
 鲜草山	Fresh Grass Mountain
 张家	Zhang Clan
 雪花玉	snowflake jade
-雪花钱	snowflake coins
 皑皑洲	Pure White Continent
 杏花坊	Peach Blossom Tavern
 雀舌茶	sparrow's tongue tea
@@ -7537,7 +7536,6 @@ Qiu Jian	求剑
 四煞	four evil spirits	in Water Combing Nation
 听妖铃铛	demon-detecting bell
 小暑	lesser heat
-小暑钱	lesser heat coin
 剑水山庄	Sword Water Villa
 宋剑圣	Sword Saint Song
 剑尊	sword paragon
@@ -7558,7 +7556,6 @@ Qiu Jian	求剑
 幽精	serene essence
 地仙	earth immortal
 徐大哥	Big Brother Xu	Xu Yuanxia
-谷雨钱	grain rain coin
 法剑	Dao sword
 庄主	villa master
 武神	martial god
@@ -7744,3 +7741,9 @@ Qiu Jian	求剑
 龙驹	Dragon Horse
 裴杯	Pei Bei	martial goddess, female  imperial preceptor of the Great Duan Empire, Cao Ci's master
 三清铃	Bells of the Three Pure Ones
+雪花钱	snowflake coins	snowflake coin=1000 taels of silver; lesser heat coin=100 snowflake coins; grain rain coin=10lesser heat coins
+小暑钱	lesser heat coin	snowflake coin=1000 taels of silver; lesser heat coin=100 snowflake coins; grain rain coin=10lesser heat coins
+谷雨钱	grain rain coin	snowflake coin=1000 taels of silver; lesser heat coin=100 snowflake coins; grain rain coin=10lesser heat coins
+法袍	Dao robe
+笔洗	brush washer
+水字印	water seal
