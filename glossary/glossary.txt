@@ -7748,3 +7748,5 @@ Qiu Jian	求剑
 笔洗	brush washer
 水字印	water seal
 城头	parapet	wall along edge of wall, especially for Sword Qi Great Wall to differentiate between where tf theyre standing
+走马道	carriageway
+城墙	parapet	wall along edge of wall, especially for Sword Qi Great Wall to differentiate between where tf theyre standing
