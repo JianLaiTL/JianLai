@@ -7754,3 +7754,5 @@ Qiu Jian	求剑
 隐官	Hidden Official
 隐官大人	Lord Hidden Official
 范峻茂	Fan Junmao
+炼化	Refinement	sword technique in the Proper Sword Scripture
+入神	Focus	sword technique in the Proper Sword Scripture
