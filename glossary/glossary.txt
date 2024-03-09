@@ -7757,3 +7757,6 @@ Qiu Jian	求剑
 炼化	Refinement	sword technique in the Proper Sword Scripture
 入神	Focus	sword technique in the Proper Sword Scripture
 陈清都	Chen Qingdu	old great sword immortal from sword qi great wall
+董观瀑	Dong Guanpu
+董三更	Dong Sangeng
+董家	Dong Clan
