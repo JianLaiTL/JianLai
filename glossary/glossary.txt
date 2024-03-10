@@ -7771,3 +7771,5 @@ Qiu Jian	求剑
 宁丫头	Little Ning	Ning Yao
 金醴	Golden Sweet Wine	name of Dao robe
 孤悬海	Lone Hanging Sea
+剑客	sword practitioner	i think this is for martial artists. as opposed to sword cultivators (剑修) and sword immortals (剑仙) which is specifically Qi refiners
+观道观	Observing Daoist Temple
