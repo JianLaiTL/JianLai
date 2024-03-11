@@ -6683,7 +6683,6 @@ Qiu Jian	求剑
 护法	Dharmapala
 大德	Bhadanta
 水观心境	Observing Water Mental State
-剑修	swordsman
 拳意	fist intent
 搬山猿	Mountain-moving Ape
 。	Chen Ping'an	author is retarded
@@ -7775,3 +7774,9 @@ Qiu Jian	求剑
 观道观	Observing Daoist Temple
 龙泉剑宗	Dragon Spring Sword Sect	Ruan Qiong's sect
 老瓷山	mountain of porcelain	shattered bonded porcelain
+东山	East Mountain
+渡船	intercontinental ship
+狮子峰	Lion Peak	immortal force owned by Li Liu (think she was the ancestor there before reincarnating or whatever)
+花翎王朝	Tail Feather Empire
+北俱芦洲	Northern Complete Reed Continent
+鱼凫书院	Great Cormorant Academy
