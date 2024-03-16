@@ -7451,18 +7451,9 @@ Qiu Jian	求剑
 柳赤诚	Liu Chicheng	From the White Mountain Nation, the dude (Blusher Prefecture's) Liu Gaohua's sister likes
 白山国	White Mountain Nation
 青鸾国	Azure Phoenix Nation
-邪风点火符	evil-detecting talisman
 烛阳	Illuminating Sun	sword of Colorful Garment Nation's sword god
-邪气点火符	evil-detecting talisman
-破障符	barrier-shattering talisman
-山水符	mountain and water talisman
-阳气挑灯符	Yang energy illumination talisman
-三清静心符	Three Pure Ones mind-calming talisman
 沈温	Shen Wen	city god in Blusher Prefecture's prefectutal city
-挑灯符	illumination talisman
 丹书真迹	Authentic Death-Avoiding Book	pretty sure hes referencing 丹书铁券 instead of alchemy since this is for talismans
-宝塔镇妖符	treasure pagoda demon-suppressing talisman
-缩地符	land-shortening talisman
 财神殿	god of wealth hall
 太岁殿	Tai Sui hall
 彩衣国胭脂郡城隍显佑伯印	Colorful Garment Nation Blusher Prefecture City God Protection Seal
@@ -7476,19 +7467,15 @@ Qiu Jian	求剑
 匠器	craft tool	some shitty rank system he came up with for immortal treasures
 重器	valuable tool	some shitty rank system he came up with for immortal treasures
 陈真容	Chen Zhenrong
-镇妖符	demon-suppressing talisman
 回阳丹	Yang Restoration Pill
 仙术	immortal technique
 精铁官印	iron essence official seal
 青色木盒	azure wooden box	from city god pavilion in blusher prefecture
-起火烧煞符	evil incinerating talisman
-烧煞符	evil incinerating talisman
 三上品	Upper Three Grades
 中三品	Middle Three Grades
 下三品	Lower Three Grades
 地脉	ley lines
 青词	inscription talismans	I know it's probably not correct, but it's basically what it is from my understanding, ie. a talisman created using written runes
-招魂符	soul calling talisman
 鱼尾冠	fish tail hat
 崇妙道人	Daoist Chong Miao
 符箓派	talismanic branch
@@ -7790,3 +7777,21 @@ Qiu Jian	求剑
 余荫山楼	Lingering Shade Mountain Pagoda
 垂花小洞天	Hanging Flower Blessed Land
 上阳台	Ascending Sun Platform
+F凌寒	Ling Han
+邪风点火符	Evil-detecting Talisman
+邪气点火符	Evil-detecting Talisman
+破障符	Barrier-shattering Talisman
+山水符	Mountain and Water Talisman
+阳气挑灯符	Yang Energy Illumination Talisman
+三清静心符	Three Pure Ones Mind-calming Talisman
+挑灯符	Illumination Talisman
+宝塔镇妖符	Treasure Pagoda Demon-suppressing Talisman
+缩地符	Land-shortening Talisman
+镇妖符	Demon-suppressing Talisman
+起火烧煞符	Evil Incinerating Talisman
+烧煞符	Evil Incinerating Talisman
+招魂符	Soul Calling Talisman
+山河剑敕符	Mountain and River Sword Edict Talisman
+剑敕符	Sword Edict Talisman
+求雨符	Rain-Praying Talisman
+祛秽涤尘符	Cleansing Talisman
