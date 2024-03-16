@@ -7795,3 +7795,4 @@ F凌寒	Ling Han
 剑敕符	Sword Edict Talisman
 求雨符	Rain-Praying Talisman
 祛秽涤尘符	Cleansing Talisman
+回春符	Returning to Spring	talisman paper
