@@ -7796,3 +7796,5 @@ F凌寒	Ling Han
 求雨符	Rain-Praying Talisman
 祛秽涤尘符	Cleansing Talisman
 回春符	Returning to Spring	talisman paper
+五兵宗	Five Weapon Sect
+登真仙境	Ascending True Immortal Mystical Realm
