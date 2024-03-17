@@ -2182,7 +2182,6 @@
 阴魂	yin soul
 地魂	earth soul
 天魂	heaven soul
-道侣	dao partner
 海少	Young Master Hai
 家主	clan leader
 规则锁链	Chains of Regulations
