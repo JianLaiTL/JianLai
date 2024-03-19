@@ -7646,7 +7646,6 @@ Qiu Jian	求剑
 老龙翻云佩	Old Dragon Cloud-flipping Pendant
 孙嘉树	Sun Jiashu
 顾璨	Gu Can
-术家	Fortellers
 大天君	Great Heavenly Lord
 商家	Commercialism	Yet another asspull from the author, supposedly one of the hundred schools of thought, but doesn't actually exist
 传道人	Dao mentor
@@ -7806,3 +7805,4 @@ F凌寒	Ling Han
 酒虫	Wine Insect
 龙须鲤	Dragon Whisker Carp
 行止亭	Cease Walking Pavilion
+术家	Foretellers
