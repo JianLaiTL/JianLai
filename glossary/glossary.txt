@@ -7809,3 +7809,4 @@ F凌寒	Ling Han
 元婴	Nascent Tier
 阵师	formation cultivator
 邪道	demonic cultivator
+剑师	sword practitioner
