@@ -7564,7 +7564,6 @@ Qiu Jian	求剑
 屹然	Immovable	Name of Song Yushao's sword
 神人承露甲	Divine Dewbearing Armor
 甘露甲	Dew Armor
-苏琅	name of the Green Bamboo Sword Immortal
 林孤山	Lin Gushan	name of old swordsman from Ancient Elm Nation
 刺史	regional supervisor
 刺史府	regional supervisor's manor
@@ -7806,3 +7805,5 @@ F凌寒	Ling Han
 龙须鲤	Dragon Whisker Carp
 行止亭	Cease Walking Pavilion
 术家	Foretellers
+苏琅	Su Lang	name of the Green Bamboo Sword Immortal
+元婴	Nascent Tier
