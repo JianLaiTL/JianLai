@@ -7807,3 +7807,5 @@ F凌寒	Ling Han
 术家	Foretellers
 苏琅	Su Lang	name of the Green Bamboo Sword Immortal
 元婴	Nascent Tier
+阵师	formation cultivator
+邪道	demonic cultivator
