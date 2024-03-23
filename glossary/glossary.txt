@@ -7813,3 +7813,5 @@ F凌寒	Ling Han
 枯井符	Dry Well Talisman
 剑鞘符	Sword Scabbard Talisman
 封山	Mountain Sealing Talisman
+云麓国	Cloud Foothill Nation
+马万法	Ma Wanfa
