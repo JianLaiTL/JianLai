@@ -7809,4 +7809,7 @@ F凌寒	Ling Han
 元婴	Nascent Tier
 阵师	formation cultivator
 邪道	demonic cultivator
-剑师	sword practitioner
+剑师	sword expert	as opposed to sword cultivator/immortal (from the mountains) and sword practitioners (from the cultivation world); these ppl are inbetween
+枯井符	Dry Well Talisman
+剑鞘符	Sword Scabbard Talisman
+封山	Mountain Sealing Talisman
