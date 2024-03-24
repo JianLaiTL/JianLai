@@ -7432,7 +7432,6 @@ Qiu Jian	求剑
 藩属	vassal
 祖庭	ancestral force
 徐大侠	Chivalrous Xu
-方寸符	inch movement talisman
 马将军	General Ma
 护道人	Dao guardian
 木芯	wood core
@@ -7815,3 +7814,6 @@ F凌寒	Ling Han
 封山	Mountain Sealing Talisman
 云麓国	Cloud Foothill Nation
 马万法	Ma Wanfa
+方寸符	Inch Movement Talisman
+窦紫芝	Dou Zizhi	sixth tier sword practitioner killed by Chen Ping'an, previous owner of 痴心
+痴心	Deep Infatuation	sword name
