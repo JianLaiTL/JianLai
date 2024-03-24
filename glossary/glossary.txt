@@ -4170,7 +4170,6 @@ Qiu Jian	求剑
 魔神	fiendcelestial
 甘霖符	Drought Rainfall Charm
 护甲术	Protective Armor Spell
-妖魔	fiendish demon
 城主	City Lord
 大巫	Grand Magus
 巫派	Magus Sect
@@ -7819,3 +7818,8 @@ F凌寒	Ling Han
 痴心	Deep Infatuation	sword name
 养蚕人	silkworm farmers	in terms of extracting bonded/refined items from corpses
 帛鱼符箓	Silk Fish Talismans
+何崖	He Ya	administrator of Flying Eagle Fortress
+飞鹰堡	Flying Eagle Fortress
+管事	administrator
+沉香国	Agarwood Nation
+堡主	lord
