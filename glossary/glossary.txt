@@ -7823,3 +7823,5 @@ F凌寒	Ling Han
 管事	administrator
 沉香国	Agarwood Nation
 堡主	lord
+桓淑	Huan Shu	daughter of Flying Eagle Fortress' lord
+桓常	Huan Chang	son of Flying Eagle Fortress' lord
