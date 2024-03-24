@@ -7817,3 +7817,5 @@ F凌寒	Ling Han
 方寸符	Inch Movement Talisman
 窦紫芝	Dou Zizhi	sixth tier sword practitioner killed by Chen Ping'an, previous owner of 痴心
 痴心	Deep Infatuation	sword name
+养蚕人	silkworm farmers	in terms of extracting bonded/refined items from corpses
+帛鱼符箓	Silk Fish Talismans
