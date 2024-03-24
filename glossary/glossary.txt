@@ -4219,7 +4219,6 @@ Qiu Jian	求剑
 丹药	elixirs
 药草	herbs
 灵草	spirit herbs
-灵宝	numinous treasure
 袍	robe
 联姻	marriage alliance
 叩头	kowtow
@@ -4257,14 +4256,12 @@ Qiu Jian	求剑
 巅峰	peak
 圆满	perfected
 半步	half-step
-灵宝山	Numinous Treasure Mountain
 护法	Guardians
 尊者	Supremacy
 碧游宫	Green Touring Palace
 鸳鸯飞剑	Lovers' Swords
 黑洞	black hole
 如来	Gautama
-灵宝道祖	Numinous Treasure Dao Ancestor
 元始道祖	Primordial Beginning Dao Ancestor
 太上道祖	Grand Supreme Dao Ancestor
 灵宝天尊	Heavenly Lord of Numinous Treasure
@@ -7825,3 +7822,5 @@ F凌寒	Ling Han
 堡主	lord
 桓淑	Huan Shu	daughter of Flying Eagle Fortress' lord
 桓常	Huan Chang	son of Flying Eagle Fortress' lord
+灵宝派	Spirit Treasure Faction	one of three branches of 符箓正宗
+桓阳	Huan Yang	fortress lord of the Flying Eagle Fortress
