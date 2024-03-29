@@ -4253,7 +4253,6 @@ Qiu Jian	求剑
 后期	late-stage
 巅峰	peak
 圆满	perfected
-半步	half-step
 护法	Guardians
 尊者	Supremacy
 碧游宫	Green Touring Palace
@@ -5817,7 +5816,6 @@ Qiu Jian	求剑
 剿	suppress, put down, destroy, exterminate, annihilate
 怪物	monstrosity
 渠道	channel, medium of communication, means
-半步	Half-Step
 动荡	commotion, unrest, turmoil, upheaval
 执行	carry out, execute, implement
 大腿	coattail
@@ -7824,3 +7822,7 @@ F凌寒	Ling Han
 桓阳	Huan Yang	fortress lord of the Flying Eagle Fortress
 八卦	Eight Triagrams
 风水	feng shui
+不近恶，不知善	One can't understand good if one doesn't interact with evil	thing that Lu Tai said and referenced later
+堡主	fortress lord
+陶斜阳	Tao Xieyang	from Fying Eagle Fortress
+黄尚	Huang Shang	young Daoist priest, tao xieyang's friend
