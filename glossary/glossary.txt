@@ -4210,8 +4210,6 @@ Qiu Jian	求剑
 至尊	Paragon
 问道	Dao Seeking
 祖境	Ancestor Realm
-八卦	Eight Trigrams
-风水	Feng Shui
 阵旗	array flags
 丹道	alchemy
 鼎	tripod
@@ -7824,3 +7822,5 @@ F凌寒	Ling Han
 桓常	Huan Chang	son of Flying Eagle Fortress' lord
 灵宝派	Spirit Treasure Faction	one of three branches of 符箓正宗
 桓阳	Huan Yang	fortress lord of the Flying Eagle Fortress
+八卦	Eight Triagrams
+风水	feng shui
