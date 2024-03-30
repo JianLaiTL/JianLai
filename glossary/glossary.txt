@@ -6097,7 +6097,6 @@ Qiu Jian	求剑
 判官	Infernal Judge
 鬼差	Netherworld Operative
 母衣众	Umamawari
-阴气	Yin energy
 阴差拿人，闲杂退避	By Hell’s Dictum, all rabble shall disperse
 阿落刹娑	Arakshasa
 徽省	Insignia Province
@@ -7011,7 +7010,6 @@ Qiu Jian	求剑
 桃木剑	peach wood sword
 三枝山	Three Twigs Mountain
 功德	virtue
-阴物	Yin entity
 文武两庙	Wenchang pavilion and the martial sage temple
 颠倒盘	Inverting Compass
 山鬼	mountain ghost
@@ -7831,3 +7829,6 @@ F凌寒	Ling Han
 庭燎	Courtyard Illumination
 太平山	Peace and Tranquility Mountain	sect in the Parasol Leaf Continent
 三山九侯先生	Master of Three Mountains and Nine Lords
+阴气	yin energy
+阴物	yin entity
+冥府摆渡符	Netherworld Ferry Talisman
