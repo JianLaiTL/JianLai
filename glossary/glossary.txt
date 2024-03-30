@@ -7828,3 +7828,5 @@ F凌寒	Ling Han
 斜阳	Xieyang	Tao Xieyang
 太平山	Peace and Tranquility Mountain
 停雪	Halting Snow	sword name, obtained from the Flying Eagle Fortress
+陆抬	Lu Tai	the same Lu Tai, but female name. seems like this person's actually female? idek
+庭燎	Courtyard Illumination
