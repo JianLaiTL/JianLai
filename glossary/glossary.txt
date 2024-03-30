@@ -1086,7 +1086,6 @@
 魔气	Demonic Qi
 徒弟	disciple
 准	pseudo	when talking about cultivation levels
-后阳	Hou Yang
 居乐云	Ju Yueyun
 散修	lone cultivator
 灰云章	Grey Cloud Octopus
@@ -7826,3 +7825,6 @@ F凌寒	Ling Han
 堡主	fortress lord
 陶斜阳	Tao Xieyang	from Fying Eagle Fortress
 黄尚	Huang Shang	young Daoist priest, tao xieyang's friend
+斜阳	Xieyang	Tao Xieyang
+太平山	Peace and Tranquility Mountain
+停雪	Halting Snow	sword name, obtained from the Flying Eagle Fortress
