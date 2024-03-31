@@ -7757,7 +7757,6 @@ Qiu Jian	求剑
 周巨然	Zhou Juran	Zhou Ju
 剑仙图	Sword Immortal Picture Scrolls
 真意	true intent
-陆台	Lu Tai	feminine dude, Lu Chen's descendant
 碧水湖	Emerald Lake	class of residence on Treasure Swallowing Whale
 余荫山楼	Lingering Shade Mountain Pagoda
 垂花小洞天	Hanging Flower Blessed Land
@@ -7835,3 +7834,4 @@ F凌寒	Ling Han
 鬼婴	ghost infant
 气指引符	Yin Energy Guidance Talisman
 符纸	talisman paper
+陆台	Lu Tai	feminine dude, Lu Chen's descendant (in reality a female i think?)
