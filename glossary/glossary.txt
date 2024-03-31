@@ -7832,3 +7832,6 @@ F凌寒	Ling Han
 阴气	yin energy
 阴物	yin entity
 冥府摆渡符	Netherworld Ferry Talisman
+鬼婴	ghost infant
+气指引符	Yin Energy Guidance Talisman
+符纸	talisman paper
