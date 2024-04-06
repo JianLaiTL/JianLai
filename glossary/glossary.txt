@@ -4399,7 +4399,6 @@ Qiu Jian	求剑
 看不到尽头	no end in sight
 翱翔	soar, hover
 仙家气象	divine atmosphere
-灵兽	Spirit Beast
 仙境	Immortal realm
 掉眼泪	shed tears
 关系户	Backdoor entrant
@@ -7835,3 +7834,4 @@ F凌寒	Ling Han
 气指引符	Yin Energy Guidance Talisman
 符纸	talisman paper
 陆台	Lu Tai	feminine dude, Lu Chen's descendant (in reality a female i think?)
+灵兽	spirit beast
