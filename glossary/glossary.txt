@@ -7841,3 +7841,7 @@ F凌寒	Ling Han
 中岳	Central Mountain
 陆氏	Lu Clan
 拂尘	horsetail whisk
+藕花福地	Lotus Flower Blessed Land
+丁老魔	Old Demon Ding	antagonist from Lotus Flower Blessed Land
+太上教主	Paramount Leader	for Old Demon Ding
+丁婴	Ding Ying	Actual name of Old Demon Ding
