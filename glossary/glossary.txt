@@ -7837,3 +7837,6 @@ F凌寒	Ling Han
 灵兽	spirit beast
 校武场	martial arts training ground
 祖宅	ancestral residence
+五岳冠	Five Mountains Hat
+中岳	Central Mountain
+陆氏	Lu Clan
