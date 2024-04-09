@@ -7851,10 +7851,20 @@ F凌寒	Ling Han
 南苑国	Southern Garden Nation
 寺	temple
 金刚寺	Vajra Temple
-谪仙人	transcendent immortal	how cultivators from the outside world are referred to in the Lotus Flower Blessed Land
 十人	Upper Ten Elites	上十人 from Lotus Flower Blessed Land
 十人	Lower Ten Elites	下十人
 周仕	Zhou Shi
 陆舫	Lu Fang
 周肥	Zhou Fei
 科甲桥	Imperial Examination Bridge
+谪仙人	otherworldly immortal	how cultivators from the outside world are referred to in the Lotus Flower Blessed Land
+敬仰楼	Reverence Pagoda	in the Lotus Flower Blessed Land, responsible for coming with the ranking lists (Upper Ten Elites, Lower Ten Elites)
+冯青白	Feng Qingbai	sword cultivator from Lotus Flower Blessed Land
+鸦儿	Ya'er	Old Demon Ding's grand-disciple
+牯牛山	Bull Mountain
+种秋	Zhong Qiu	imperial preceptor of the Southern Garden Nation
+外家拳	external martial arts
+程元山	Cheng Yuanshan	Arm Sage
+臂圣	Arm Sage	Cheng Yuanshan
+刘宗	Liu Zong	Saber Sharpener from the Lotus Flower Blessed Land
+磨刀人	Saber Sharpener	Liu Zong
