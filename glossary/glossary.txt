@@ -7868,3 +7868,8 @@ F凌寒	Ling Han
 臂圣	Arm Sage	Cheng Yuanshan
 刘宗	Liu Zong	Saber Sharpener from the Lotus Flower Blessed Land
 磨刀人	Saber Sharpener	Liu Zong
+炼师	Refiner	saber name
+镜心亭	Mirror Heart Pavilion	force in the Lotus Flower Blessed Land
+镜心斋	Mirror Heart Pavilion	author is retarded, this is same as 镜心亭
+童青青	Tong Qingqing	from the Mirror Heart Pavilion
+周施主	Benefactor Zhou
