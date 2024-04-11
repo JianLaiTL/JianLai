@@ -6378,7 +6378,6 @@ Qiu Jian	求剑
 暗器	hidden weapon
 弋阳郡	Yiyang County
 大隋	Great Sui Nation
-大宗师	Superior Grandmaster
 小宗师	Lesser Grandmaster
 高稹	Gao Zhen
 大貂寺	chief eunuchs
@@ -7873,3 +7872,7 @@ F凌寒	Ling Han
 镜心斋	Mirror Heart Pavilion	author is retarded, this is same as 镜心亭
 童青青	Tong Qingqing	from the Mirror Heart Pavilion
 周施主	Benefactor Zhou
+大宗师	superior grandmaster
+春潮宫	Spring Tide Palace	force founded by Zhou Fei
+飞升	ascend
+白河寺	White River Temple	one of the four largest temples in the Southern Garden Nation
