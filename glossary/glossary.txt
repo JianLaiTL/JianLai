@@ -7876,3 +7876,6 @@ F凌寒	Ling Han
 春潮宫	Spring Tide Palace	force founded by Zhou Fei
 飞升	ascend
 白河寺	White River Temple	one of the four largest temples in the Southern Garden Nation
+罗汉金身	Golden Arhat Body	treasure in the Southern Garden Nation
+飞天衣裳	Sky Soaring Garment	treasure in the Southern Garden Nation
+状元巷	Champion Scholar Alley
