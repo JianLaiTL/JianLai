@@ -7887,8 +7887,8 @@ F凌寒	Ling Han
 丁魔头	Old Demon Ding
 粉金刚	Pink Vajra	Ma Xuan's title
 马宣	Ma Xuan
-琵琶女子	woman who played pipa
 钱塘	Qian Tang
 笑脸儿	Smiley Face	Qiang Tang's nickname
 鸟瞰峰	Bird's Eye View Peak
 大椿	Dachun	sword name
+琵琶女子	pipa woman
