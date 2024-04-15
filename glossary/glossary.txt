@@ -2938,32 +2938,18 @@
 寒枫	Han Feng
 五叶	Five Leaf
 十符宝器	Ten Symbol Treasured Tool
-星	Xing	for the empress
 幽源	You Yuan
 千域争霸	Battle of One Thousand Territories
-巽风	Xun Feng
-无涯	Wu Ya
-季洛	Jiluo
-剑虎	Jian Hu
-暴雨	Baoyu
 九昂学院	Nine Soaring Academy
 雍钦	Yong Qin
 护腕	wrist guard
-十七莲	Seventeenth Lotus
-里奇那	Richina
 圣山	Holy Mountain
 中等位面	medium-level dimension
-暴雨剑雄	Baoyu Jianhu	author accidently changed his name
-独角恶魔族	single-horned demon
 暗河	underground river
-十三莲	Thirteenth Lotus
-战兵	War Soldier
 暴雨剑英	Baoyu Jianying
 瓦里	Wally
-战甲	precious armor
 虚子能量	Void Particle Energy
 进化指数	Evolution Index
-战斗力	battle prowess
 生命层次	level of being
 记忆晶体	memory crystal
 超弦	superstring
