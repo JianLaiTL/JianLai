@@ -7727,7 +7727,6 @@ Qiu Jian	求剑
 金醴	Golden Sweet Wine	name of Dao robe
 孤悬海	Lone Hanging Sea
 剑客	sword practitioner	i think this is for martial artists. as opposed to sword cultivators (剑修) and sword immortals (剑仙) which is specifically Qi refiners
-观道观	Observing Daoist Temple
 龙泉剑宗	Dragon Spring Sword Sect	Ruan Qiong's sect
 老瓷山	mountain of porcelain	shattered bonded porcelain
 东山	East Mountain
@@ -7907,3 +7906,7 @@ F凌寒	Ling Han
 朝元	Chaoyuan	sword name
 薛渊	Xue Yuan	薛渊
 八臂神灵	Eight-Armed Deity	Xue Yuan's title
+观道观	Observing Dao Temple
+拳架	fist stance
+内家拳	internal martial artist
+校大龙	Examining the Dragon	process of straightening the spine or something
