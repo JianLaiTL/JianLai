@@ -7873,7 +7873,6 @@ F凌寒	Ling Han
 丁魔头	Old Demon Ding
 粉金刚	Pink Vajra	Ma Xuan's title
 马宣	Ma Xuan
-钱塘	Qian Tang
 笑脸儿	Smiley Face	Qiang Tang's nickname
 鸟瞰峰	Bird's Eye View Peak
 大椿	Dachun	sword name
@@ -7902,3 +7901,9 @@ F凌寒	Ling Han
 长气	Long Qi	sword lent to cpa by old man from sword qi great wall
 簪花郎	Zhou Shi
 马飞斧	Ma Feifu
+钱塘	Qian Tang	aka Smiley Face
+垂花门	Hanging Flower Faction
+篪	chi	ancient Chinese center-blown transverse flute with closed ends and front finger holes.
+朝元	Chaoyuan	sword name
+薛渊	Xue Yuan	薛渊
+八臂神灵	Eight-Armed Deity	Xue Yuan's title
