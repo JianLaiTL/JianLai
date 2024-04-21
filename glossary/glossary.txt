@@ -7916,3 +7916,5 @@ F凌寒	Ling Han
 云泥和尚	Monk Yunni
 龙武大将军	Dragon General	Tang Tieyi
 唐铁意	Tang Tieyi	dragon general from the norther jin nation
+俞真人	Yu Zhenyi
+青色衣裙	azure dress	one of the four greatest fated opportunities in the lotus flower blessed land
