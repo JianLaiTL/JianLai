@@ -4440,7 +4440,6 @@ Qiu Jian	求剑
 不时	from time to time, frequently, occasionally
 道之体	Dao Body
 段	Stage
-厉害	impressive, ferocious, difficult to deal with, tremendous, awesome, devastating, severe
 涌动	surge, swarm
 黑线	(face) darkened
 既视感	deja vu
@@ -4517,7 +4516,6 @@ Qiu Jian	求剑
 功法	Cultivation Methods
 招式	Moves
 显示	display, demonstrate, show
-无奈	helpless, grudging, resignation, reluctant
 达成条件	conditions	达成
 不可置信	unbelievable, disbelief, incredible
 任务	task, mission, assignment, duty, role
@@ -4757,8 +4755,6 @@ Qiu Jian	求剑
 没想到	who would have thought
 玷污	stain, sully, tarnish
 冷静	sober, calm, quiet, deserted, still
-出乎	go beyond, exceed, stem from, due to
-逼	force, compel, press, pressure
 自豪	pride
 怒色	angry look
 凛	shiver, afraid, apprehension
@@ -4771,12 +4767,10 @@ Qiu Jian	求剑
 趁	take advantage, take the opportunity
 嘣	bang
 防备	guard against, take precautions, be prepared for
-可怕	fearful, frightful, terrible, awful, dreadful
 劲敌	formidable adversary, strong opponent
 豪言	brave words, proud words
 无表情	expressionlessly
 附和	echo, chimed in
-放弃	abandon, give up, renounce, forsake, abstain
 放弃	relinquish
 气势汹汹	fierce, overbearing
 匕首	dagger
@@ -5325,8 +5319,6 @@ Qiu Jian	求剑
 任务失败	Mission Failure
 注	Note
 单调	monotonous, dull, drab
-轰鸣	roar, boom, rumble
-赶	hurry, rush, catch up, overtake, make a dash for, drive away, expel
 硬着头皮	brace oneself, force oneself to, against one's will, summon up courage
 硬着头皮	muster courage
 大笑	laugh heartily, roar with laughter
@@ -7918,3 +7910,4 @@ F凌寒	Ling Han
 唐铁意	Tang Tieyi	dragon general from the norther jin nation
 俞真人	Yu Zhenyi
 青色衣裙	azure dress	one of the four greatest fated opportunities in the lotus flower blessed land
+兵符门	Weapon Talisman Faction
