@@ -7910,3 +7910,9 @@ F凌寒	Ling Han
 拳架	fist stance
 内家拳	internal martial artist
 校大龙	Examining the Dragon	process of straightening the spine or something
+北晋	Northern Jin Nation
+白猿背剑术	White Ape Sword Carrying Technique
+湖山派	Lake Mountain Faction	Yu Zhenyi's force
+云泥和尚	Monk Yunni
+龙武大将军	Dragon General	Tang Tieyi
+唐铁意	Tang Tieyi	dragon general from the norther jin nation
