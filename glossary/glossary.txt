@@ -7879,7 +7879,6 @@ F凌寒	Ling Han
 五岳冠	Five Mountain Cap
 上阳台	Upper Yang Platform	no clue what this is, so may change in the future with more info
 五岳真形阵法	Five Mountains True Appearance Formation
-痴心	Infatuation	Dou Zizhi's sword
 桓阳	Huan Yang
 何崖	He Ya
 簪花郎	Zhou Shi
@@ -7906,3 +7905,5 @@ F凌寒	Ling Han
 揪栏县	Jiulan County
 涿郡	Zhuo Prefecture
 种国师	Imperial Preceptor Zhong	Zhong Qiu
+痴心	Deep Infatuation	Dou Zizhi's sword
+银色莲花冠	silver-colored lotus flower hat
