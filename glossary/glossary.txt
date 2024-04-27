@@ -4909,7 +4909,6 @@ Qiu Jian	求剑
 痴痴	in a trance, in a daze
 余晖	evening glow, last rays of setting sun
 运气	fortune, luck
-震撼	shock, shake, vibrate, stun, sensational, stir, thrill
 懈怠	slack, sluggish
 踏上	set foot upon
 锁骨	collarbone
@@ -4928,25 +4927,19 @@ Qiu Jian	求剑
 毕竟	after all, all in all
 科代表	subject representative
 笑嘻嘻	grinning, smile broadly
-回过神	recover from panic/fright/shock, come to one's senses, regain one's composure
-清澈	clear, limpid
 明媚	bright and beautiful, radiant, enchanting
 骄阳	blazing sun, scorching sun
-美好	fine, happy, glorious, bright, magnificent
 桃花运	a man's luck in love, good luck
 关注	attention, interest
 吐槽	roast, ridicule
 场面	scene, spectacle, occasion
 大杂烩	hodgepodge
-人才	talent, person of ability, qualified personnel
 革履	leather shoes
 西装革履	impeccably attired
 帅气	dashing, smart, graceful
 高挑	tall and slender
 匀称	well-proportioned
 气场十足	full of vigour
-严肃	serious, solemn, earnest, enforce, strict
-挪开	avert, move away, shift
 尴尬	awkward, difficult, hard to deal with, dilemma
 下凡	descend into the mortal world
 优越感	sense of superiority
@@ -5349,11 +5342,8 @@ Qiu Jian	求剑
 敢情	So it turns out, as a matter of fact
 过河拆桥	to kick someone to the curb when they've outlived their usefulness
 邪	heretic, heretical, evil, sinister
-风度	demeanor (elegant), grace, poise
-收	receive, accept, put away, collect, gather, harvest, stop, bring an end, restrain, control
 简直	simply, sheer, at all, practically
 亲密	close, intimate
-不得不	have no choice(option) but to, can't help it, can't avoid
 熊熊烈火	raging flames, fiery fire
 勃然大怒	flare up, fly into a rage
 仰慕	look up to, admire
@@ -7910,3 +7900,6 @@ F凌寒	Ling Han
 御风境	Wing Formation Tier	eight tier (author fked up name and sometimes calls this seventh tier, unless its some other shit i dont know abt)
 白霜王朝	White Frost Empire
 魏衍	Wei Yan	crown prince of the Southern Garden Nation
+风度	demeanor, grace, poise
+南苑	Southern Garden Nation
+枯瘦小女孩	skinny little girl
