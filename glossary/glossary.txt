@@ -5044,7 +5044,6 @@ Qiu Jian	求剑
 纯度	purity
 领悟	comprehension, grasp
 嫡传	lineal
-不得已	no alternative, have to, no choice, beyond one's control
 波动	fluctuate, undulate
 散发	send out, issue, give out
 攀升	clime, rise, go up
@@ -5064,15 +5063,10 @@ Qiu Jian	求剑
 配合	coordinate, cooperate
 恳求	implore, entreat, beseech
 运转	utilise
-猛	fierce, violent, energetic, vigorous, powerful, savage, cruel
-狂暴	violent, wild, furious, raging
 气流	air current, airstream
 纹丝不动	motionless
 狼狈	in a difficult position, in a tight corner, be embarrassed, in sore straits, cut a sorry figure, in confusion, in panic
 惟妙惟肖	remarkbly true to life, absolutely lifelike, vivid
-贱人	slut, bitch
-毫不留情	ruthless, relentless
-躲	hide, dodge, avoid
 悔意	remorse
 引来	attracted
 玉树临风	handsome
@@ -7166,7 +7160,6 @@ Qiu Jian	求剑
 瘸腿少年	lame young boy	blind old daoist priest's disciple
 眉心	glabella
 文武庙	Wenchang pavilion and martial sage temple
-许弱	Xu Ruo
 中土	Middle Earth Divine Continent
 崔国师	Imperial Preceptor Cui Chan
 祠堂	ancestral hall
@@ -7900,6 +7893,8 @@ F凌寒	Ling Han
 御风境	Wing Formation Tier	eight tier (author fked up name and sometimes calls this seventh tier, unless its some other shit i dont know abt)
 白霜王朝	White Frost Empire
 魏衍	Wei Yan	crown prince of the Southern Garden Nation
-风度	demeanor, grace, poise
 南苑	Southern Garden Nation
 枯瘦小女孩	skinny little girl
+许弱	Xu Ruo	from the Mohist Sect (not Mo Clan)
+官道	official road
+官路	official road
