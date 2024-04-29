@@ -3040,7 +3040,6 @@
 人贩	human trafficker
 宝库	treasure chamber
 孔家老祖	ancestor of the Kong Clan
-青青	Qing Qing
 位面坐标	dimension coordinate
 超等位面	transcendent dimension
 位面卷轴	Dimension Scroll
@@ -7825,8 +7824,6 @@ F凌寒	Ling Han
 刘宗	Liu Zong	Saber Sharpener from the Lotus Flower Blessed Land
 磨刀人	Saber Sharpener	Liu Zong
 炼师	Refiner	saber name
-镜心亭	Mirror Heart Pavilion	force in the Lotus Flower Blessed Land
-镜心斋	Mirror Heart Pavilion	author is retarded, this is same as 镜心亭
 童青青	Tong Qingqing	from the Mirror Heart Pavilion
 周施主	Benefactor Zhou
 大宗师	superior grandmaster
@@ -7876,7 +7873,6 @@ F凌寒	Ling Han
 内家拳	internal martial artist
 校大龙	Examining the Dragon	process of straightening the spine or something
 北晋	Northern Jin Nation
-白猿背剑术	White Ape Sword Carrying Technique
 湖山派	Lake Mountain Faction	Yu Zhenyi's force
 云泥和尚	Monk Yunni
 龙武大将军	Dragon General	Tang Tieyi
@@ -7901,3 +7897,6 @@ F凌寒	Ling Han
 莲花小人	small lotus flower spirit	stone spirit from Lotus Flower Blessed Land
 袁县令	County Magistrate Yuan
 吴郡守	Prefectural Overseer Wu
+镜心亭	Mirror Heart Pavilion	might be mirror heart hall if referring to force, only pavilion if referring to restricted area inside
+镜心斋	Mirror Heart Hall	force in the Lotus Flower Blessed Land
+白猿背剑术	White Ape Sword-Carrying Technique
