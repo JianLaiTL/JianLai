@@ -7902,3 +7902,4 @@ F凌寒	Ling Han
 白猿背剑术	White Ape Sword-Carrying Technique
 宋丰	Song Feng
 西河国	Western River Nation
+斥候	scout
