@@ -4310,7 +4310,6 @@ Qiu Jian	求剑
 酸爽	refreshing (sarcasm), indescribable emotion
 残忍	cruel
 铁棒	staff, iron club
-忍不住	couldn't help but, uncontrollably
 颤抖	shake, shiver, tremble
 目瞪口呆	dumbstruck
 咆哮	roar, scream, howl
@@ -7903,6 +7902,6 @@ F凌寒	Ling Han
 西河国	Western River Nation
 斥候	scout
 童青青	Tong Qingqing	from the Mirror Heart Hall
-小道童	little Daoist priest	dude who works under the Daoist who owns Lotus Flower Blessed Land
 黄庭	Huang Ting	Daoist nun from Peace and Tranquility Mountain. Was Fan Wan'er / Tong Qingqing in Lotus Flower Blessed Land
 小莲人	little lotus figure
+忍不住	couldn't help but
