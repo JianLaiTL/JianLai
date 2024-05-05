@@ -7892,7 +7892,6 @@ F凌寒	Ling Han
 许弱	Xu Ruo	from the Mohist Sect (not Mo Clan)
 官道	official road
 官路	official road
-莲花小人	small lotus flower spirit	stone spirit from Lotus Flower Blessed Land
 袁县令	County Magistrate Yuan
 吴郡守	Prefectural Overseer Wu
 镜心亭	Mirror Heart Pavilion	might be mirror heart hall if referring to force, only pavilion if referring to restricted area inside
@@ -7905,3 +7904,4 @@ F凌寒	Ling Han
 黄庭	Huang Ting	Daoist nun from Peace and Tranquility Mountain. Was Fan Wan'er / Tong Qingqing in Lotus Flower Blessed Land
 小莲人	little lotus figure
 忍不住	couldn't help but
+莲花小人	little lotus spirit	stone spirit from Lotus Flower Blessed Land
