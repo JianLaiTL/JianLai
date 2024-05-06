@@ -4492,20 +4492,17 @@ Qiu Jian	求剑
 美滋滋	very happy, elated
 分配	allocation, distribution, assign
 划分	divide, partition
-区域	district, region, area
 俗话说	as the proverb says
 善良	good and honest, kindhearted
 热情	warm, enthusiastic, passionate
 毫不介意	not mind at all
 废柴	loser, good-for-nothing, trash
 伙伴	companion, comrade, partner
-哼	hmph, groan, snort, hum
 注定	destined, bound to
 霸修	dominate
 刮目相看	loom with new eyes, treat with increased respect
 豪气	heroic spirit, pride
 仙帝	Immortal God
-自信满满	self confidence, conviction, firm belief
 自信	self confidence, conviction, firm belief
 逆天	defiance of the natural order
 境界	state, realm, boundary, level
@@ -7908,3 +7905,4 @@ F凌寒	Ling Han
 魏良	Wei Liang	emperor of Southern Garden Nation
 魏真	Wei Zhen
 舍利子	Sarira
+吕霄	Lü Xiao
