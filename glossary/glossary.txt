@@ -780,7 +780,6 @@
 炼化	refined
 武者	cultivator
 至宝	precious treasures
-甚至	in fact
 大大咧咧	boldly
 大大咧咧	casually
 鲁莽	reckless
@@ -4715,7 +4714,6 @@ Qiu Jian	求剑
 算盘	scheme, plan, calculation
 风光	grand, impressive, in style
 机智	quick-witted, resourceful, wittingly
-如此一来	in such way, like this
 壮大	grow in strength, expand
 可恨	detastable, abominable, hateful
 太气	infuriating
@@ -4724,7 +4722,6 @@ Qiu Jian	求剑
 汹涌	surging, turbulent, tempestuous, raging, tumultuous
 意	intent
 战意	battle intent
-甚至	even
 看热闹	join the fun
 风度翩翩	graceful, elegant
 气质	temperament, disposition, qualities, makings
@@ -7773,7 +7770,6 @@ F凌寒	Ling Han
 陶斜阳	Tao Xieyang	from Fying Eagle Fortress
 黄尚	Huang Shang	young Daoist priest, tao xieyang's friend
 斜阳	Xieyang	Tao Xieyang
-停雪	Halting Snow	sword name, obtained from the Flying Eagle Fortress
 陆抬	Lu Tai	the same Lu Tai, but female name. seems like this person's actually female? idek
 庭燎	Courtyard Illumination
 太平山	Peace and Tranquility Mountain	sect in the Parasol Leaf Continent
@@ -7906,3 +7902,4 @@ F凌寒	Ling Han
 魏真	Wei Zhen
 舍利子	Sarira
 吕霄	Lü Xiao
+停雪	Halting Snow	saber name, obtained from the Flying Eagle Fortress
