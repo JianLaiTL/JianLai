@@ -7903,3 +7903,4 @@ F凌寒	Ling Han
 舍利子	Sarira
 吕霄	Lü Xiao
 停雪	Halting Snow	saber name, obtained from the Flying Eagle Fortress
+女冠	Daoist nun
