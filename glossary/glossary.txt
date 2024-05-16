@@ -7914,3 +7914,4 @@ F凌寒	Ling Han
 驿馆	relay station
 镇水兽	water guardian beast
 魏崇	Wei Chong
+请神之术	deity invitation technique
