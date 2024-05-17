@@ -6058,39 +6058,15 @@ Qiu Jian	求剑
 八大门阀	Eight Great Clans
 吕方	Lü Fang
 生死簿	Book of Life and Death
-十殿阎罗	Yama-Kings of the 10 Palaces
-天界	Heaven
-明镜高悬	Mirror of Eminence
-阴阳裂隙	Yin Yang Mezzanines
 鬼差	Netherworld Operative
-拘魂	Soul Hunter
-府君	Abyssal Prefects
-阎罗	Yama-Kings
-彼世安温的魔法炉	Chalice of Preiddeu Annwn
-彼世安温	Preiddeu Annwn
-阎罗印	King Yanluo's Seal
 西都	West Capital
-董卓	Dong Zhuo
 机关兽	Mechanical Beasts
-青溪县	Clear Creek County
-宝安	City of Salvation
-阴刺军	Assassins of the Underworld
-天狗食月	Moon-Devouring Heavenly Dog
-地藏像	Ksitigarbha
-地藏像	Ksitigarbha
-特别调查处	Special Investigations Department
 龙胆亮银枪	Courage of Dragons Silver Spear
-结界	Array of the Nine Gods
-马海峡	Strait of Tsushima
 判官笔	Judgment Pen
 六道轮回	six paths of reincarnation
-黑夜叉	Black Yaksha
 饿鬼道	path of the hungry ghost
 封魂球	soul sphere
 神器	divine artifact
-创造级	creation-grade
-羽蛇神	Plumed Serpent God
-神血	blood of a divinity
 非洲	Alkebulan Underworlds
 地府大战	great war of the netherword
 西川	Westriver Province
@@ -7915,3 +7891,4 @@ F凌寒	Ling Han
 镇水兽	water guardian beast
 魏崇	Wei Chong
 请神之术	deity invitation technique
+府君	commandery govener
