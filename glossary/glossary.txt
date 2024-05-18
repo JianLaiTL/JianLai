@@ -7684,12 +7684,9 @@ Qiu Jian	求剑
 垂花小洞天	Hanging Flower Blessed Land
 上阳台	Ascending Sun Platform
 F凌寒	Ling Han
-破障符	Barrier-shattering Talisman
 山水符	Mountain and Water Talisman
 阳气挑灯符	Yang Energy Illumination Talisman
 挑灯符	Illumination Talisman
-缩地符	Land-shortening Talisman
-镇妖符	Demon-suppressing Talisman
 起火烧煞符	Evil Incinerating Talisman
 烧煞符	Evil Incinerating Talisman
 招魂符	Soul Calling Talisman
@@ -7893,3 +7890,6 @@ F凌寒	Ling Han
 三清静心符	Three Pure Ones Mind-Calming Talisman
 宝塔镇妖符	Treasure Pagoda Demon-Suppressing Talisman
 挑灯符	Yang Energy Illumination Talisman
+破障符	Barrier-Shattering Talisman
+缩地符	Land-Shortening Talisman
+镇妖符	Demon-Suppressing Talisman
