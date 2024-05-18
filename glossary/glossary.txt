@@ -6044,7 +6044,6 @@ Qiu Jian	求剑
 赵云	Zhao Yun
 鬼火	netherworldly fire
 鬼火	netherworldly fire
-判官	Infernal Judge
 鬼差	Netherworld Operative
 母衣众	Umamawari
 阴差拿人，闲杂退避	By Hell’s Dictum, all rabble shall disperse
@@ -7891,4 +7890,5 @@ F凌寒	Ling Han
 镇水兽	water guardian beast
 魏崇	Wei Chong
 请神之术	deity invitation technique
-府君	commandery govener
+府君	commandery governor
+金璜	Jin Huang	commandery governor, mountain god
