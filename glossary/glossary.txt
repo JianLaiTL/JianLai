@@ -4561,15 +4561,10 @@ Qiu Jian	求剑
 勉强	with difficulty, reluctant
 纳戒	storage ring
 灯火通明	ablaze with lights, brightly lit, lit up
-疑问	query, question, doubt
-理论	theory, principle
-陌生	strange, unfamiliar
-天地元气	Spiritual Energy of Heaven and Earth
 导它	guide, lead, conduct
 经脉	meridian (the network of vessels/channels in the body through which Qi flows. Like blood vessels, but for Qi instead of blood)
 运转	operate, work, revolve
 心法	cultivation method
-遵循	follow, abide, adhere to, comply
 规律	pattern, law, behaviour, rythym
 格外	especially, particularly
 积极	active, energetic, vigorous, proactive
@@ -4914,7 +4909,6 @@ Qiu Jian	求剑
 月影	Yue Ying
 要求	requirement, demand, claim
 盈盈	gracefully, daintily, delicately
-毕竟	after all, all in all
 科代表	subject representative
 笑嘻嘻	grinning, smile broadly
 明媚	bright and beautiful, radiant, enchanting
@@ -7894,3 +7888,4 @@ F凌寒	Ling Han
 仙法	immortal technique
 大泉王朝	Great Quan Empire
 姚家	Yao Clan
+大泉	Great Quan Empire
