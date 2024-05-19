@@ -1802,7 +1802,6 @@
 苍雨洗尘剑	Sword of Mundane Washing Rain
 悲冥元龙破	Dark Grief Origin Dragon Destruction
 岁月如歌	Song of the Ages
-仙法	celestial technique
 道光	Light of Dao
 百鬼遮天	A Hundred Ghosts Cloud Heavens
 九风腿	Nine Winds Kick
@@ -4749,7 +4748,6 @@ Qiu Jian	求剑
 凛	shiver, afraid, apprehension
 戒备	guard, take precautions, be alert
 迸发	burst forth, burst out
-仙法	immortal spell
 大惊失色	turn pale with fright
 亲身	personal, first-hand
 威力	power, might, force
@@ -7893,3 +7891,4 @@ F凌寒	Ling Han
 破障符	Barrier-Shattering Talisman
 缩地符	Land-Shortening Talisman
 镇妖符	Demon-Suppressing Talisman
+仙法	immortal technique
