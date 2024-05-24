@@ -1387,8 +1387,6 @@
 盖咏思	Gai Yongsi
 郜方	Gao Fang
 郜荒	Gao Huang
-墨氏商号	Mo Clan Establishment
-墨家	Mo Clan
 墨家商号	Mo Clan Establishment
 韩火	Han Huo
 墨氏商号	Mo Clan Business
@@ -7893,3 +7891,7 @@ F凌寒	Ling Han
 三爷	Third Grandpa
 九娘	Jiu Niang
 松针湖	Pine Needle Lake
+墨氏商号	Mo Clan Establishmen
+水洼甲	Puddle Armor	rank for armor pellet
+池塘甲	Pond Armor	rank for armor pellet
+大湖甲	Lake Armor	rank for armor pellet
