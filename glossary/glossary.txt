@@ -7895,3 +7895,6 @@ F凌寒	Ling Han
 水洼甲	Puddle Armor	rank for armor pellet
 池塘甲	Pond Armor	rank for armor pellet
 大湖甲	Lake Armor	rank for armor pellet
+小瘸子	lame young boy
+狐儿镇	Fox Town
+青梅酒	green plum wine
