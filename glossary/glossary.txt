@@ -7906,3 +7906,9 @@ F凌寒	Ling Han
 钟魁	Zhong Kui	noble person
 金乌经纬甲	Golden Crow Armor	armor pellet
 金乌甲	Golden Crow Armor	armor pellet
+高适真	Gao Shizhen	duke of the Great Quan Empire
+申国公	duke
+国公	duke
+郡王	county king
+小国公爷	Little Duke
+高树毅	Gao Shuyi	Little Duke, son of Duke Gao Shizhen of the Great Quan Empire
