@@ -7922,3 +7922,5 @@ F凌寒	Ling Han
 姚镇	Yao Zhen	great general of the great quan empire from the yao clan
 李锡龄	Li Xiling
 大伏书院	Great Subduing Academy
+阴神	yin soul	depending on context (a person's soul vs a yin entity)
+阳神	yang soul
