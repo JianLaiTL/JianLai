@@ -7917,3 +7917,7 @@ F凌寒	Ling Han
 许轻舟	Xu Qingzhou
 大巧	Modesty	saber name
 御风境	Wing Formation Tier	eighth tier
+刘茂	Liu Mao	third prince of the great quan empire
+刘臻	Liu Zhen	emperor of the great quan empire
+姚镇	Yao Zhen	great general of the great quan empire from the yao clan
+李锡龄	Li Xiling
