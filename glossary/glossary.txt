@@ -4337,7 +4337,6 @@ Qiu Jian	求剑
 资质	aptitude
 阔绰	generous, ostentatious
 热泪盈眶	tears in one's eyes
-老者	elder (man)
 至极	extremely
 迫不及待	impatiently
 一丝丝	hints of
@@ -7926,3 +7925,4 @@ F凌寒	Ling Han
 阳神	yang soul
 守宫槐	imperial guardian	eunuch from great quan empire
 李礼	Li Li	eunuch from the great quan empire
+武庙	martial sage temple
