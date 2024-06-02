@@ -7924,3 +7924,4 @@ F凌寒	Ling Han
 守宫槐	imperial guardian	eunuch from great quan empire
 李礼	Li Li	eunuch from the great quan empire
 武庙	martial sage temple
+水神庙	water god temple
