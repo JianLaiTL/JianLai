@@ -2709,16 +2709,6 @@
 上古	Ancient Age
 上古	Ancient Age	Referring to ten epochs
 远古	Primitive Age	Referring to a hundred epochs
-大云仙王	Great Clouds Celestial King
-失落之地	Lost Land
-八部真灵兽	Eight Truths Spiritual Beast
-别子文	Bie Ziwen
-艾凯风	Ai Kaifeng
-太易解毒丹	Highest Change Antidote Pill
-钟棋	Zhong Qi
-劳良	Lao Liang
-狄桐欣	Di Tongxin
-余开诚	Yu Kaicheng
 血虫	Blood Insect
 里	0.5 km	Chinese mile, in metric terms
 程奕峰	Cheng Yifeng
@@ -4382,11 +4372,8 @@ Qiu Jian	求剑
 分贝	decibel
 什么鬼	what the hell
 不已	endlessly, incessantly
-低声	under one's breath, softly
 载入	record
 渐渐	gradually
-神经病	crazy, mental
-受不了	unbearable, unable to endure, can't stand
 豁	give up, sacrifice, stake all
 惊疑	surprised, bewildered
 吓了一跳	startled
@@ -4403,7 +4390,6 @@ Qiu Jian	求剑
 受宠若惊	overwhelmed by an unexpected favour, feel extremely flattered
 承办	organised, sponsored
 九州界	Kingdom of the Nine States
-向往	yearning, look forward to
 仙家	divine abode
 拉风	trendy, eye-catching, flashy
 驾驭	to drive, steer, handle, manage, master, tame
@@ -7925,3 +7911,4 @@ F凌寒	Ling Han
 李礼	Li Li	eunuch from the great quan empire
 武庙	martial sage temple
 水神庙	water god temple
+西嶽	West Mountain	one of the eight ancestral Divine Dewbearing Armors
