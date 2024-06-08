@@ -7911,3 +7911,4 @@ F凌寒	Ling Han
 仙器	celestial tool
 准仙器	pseudo-celestial tool
 真名篇	True Name Record
+南齐	Southern Qi Nation
