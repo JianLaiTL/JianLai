@@ -4274,7 +4274,6 @@ Qiu Jian	求剑
 仙家气象	divine atmosphere
 小伙子	young lad
 宏大壮阔	grand and magnificent
-彩云	Iridescent clouds
 道袍	Daoist robes
 太初大陆	Tai Chu Continent
 天冥道体质	Tian Ming Physique
@@ -6810,7 +6809,6 @@ Qiu Jian	求剑
 金身境	Vajra Body Tier
 羽化境	Wing Formation Tier
 山巅境	Mountain Summit Tier
-远游境	Far Roaming Tier
 罡气	astral energy
 法宝	artifact
 符将	talisman warrior
@@ -7913,3 +7911,6 @@ F凌寒	Ling Han
 真名篇	True Name Record
 南齐	Southern Qi Nation
 孩儿巷	Child Alley
+彩云	iridescent clouds
+远游境	Far Roaming Tier	eighth tier (aka Wing Formation Tier)
+埋河	Buried River
