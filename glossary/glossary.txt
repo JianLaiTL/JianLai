@@ -7913,6 +7913,11 @@ F凌寒	Ling Han
 孩儿巷	Child Alley
 彩云	iridescent clouds
 远游境	Far Roaming Tier	eighth tier (aka Wing Formation Tier)
-埋河	Buried River
 水鬼	water ghost
 八境	eighth tier
+埋河	Burial River
+金顶观	Golden Summit Daoist Temple
+尹妙峰	Yin Miaofeng	temple master/abbot of the Golden Summit Daoist Temple
+葆真道人	Daoist Preserving Innocence	title for Yin Miaofeng
+邵渊然	Shao Yuanran
+碧游府	Green Roving Residence
