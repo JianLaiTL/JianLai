@@ -4217,7 +4217,6 @@ Qiu Jian	求剑
 圆满	perfected
 护法	Guardians
 尊者	Supremacy
-碧游宫	Green Touring Palace
 鸳鸯飞剑	Lovers' Swords
 黑洞	black hole
 如来	Gautama
@@ -7921,3 +7920,4 @@ F凌寒	Ling Han
 葆真道人	Daoist Preserving Innocence	title for Yin Miaofeng
 邵渊然	Shao Yuanran
 碧游府	Green Roving Residence
+碧游宫	Green Roving Palace
