@@ -6005,9 +6005,6 @@ Qiu Jian	求剑
 鹤独	Lone Crane
 六方鬼王	Sixfold Ghost Kings
 赵云	Zhao Yun
-鬼火	netherworldly fire
-鬼火	netherworldly fire
-鬼差	Netherworld Operative
 母衣众	Umamawari
 阴差拿人，闲杂退避	By Hell’s Dictum, all rabble shall disperse
 阿落刹娑	Arakshasa
@@ -6020,7 +6017,6 @@ Qiu Jian	求剑
 八大门阀	Eight Great Clans
 吕方	Lü Fang
 生死簿	Book of Life and Death
-鬼差	Netherworld Operative
 西都	West Capital
 机关兽	Mechanical Beasts
 龙胆亮银枪	Courage of Dragons Silver Spear
@@ -7922,3 +7918,5 @@ F凌寒	Ling Han
 碧游府	Green Roving Residence
 碧游宫	Green Roving Palace
 庙祝	temple attendant
+鬼差	errand ghost
+水神娘娘	water goddess
