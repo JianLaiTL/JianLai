@@ -7921,3 +7921,6 @@ F凌寒	Ling Han
 刺史府	governor's manor
 顺序之说	theory of sequential order	by the scholarly sage
 书院	Confucian academy
+学宫	Confucian school
+正人君子	righteous noble scholar
+观主	abbot
