@@ -718,34 +718,7 @@
 国库	National Treasury
 血泣石	Bloodtear Stone
 左相	Left Minister
-神果	Divine Fruit
-左萧	Zuo Xiao
-王宛	Wang Wan
-张青	Zhang Qing
 战帖	battle notice
-七杀镇魂术	Seven Kill Subduing Soul Technique
-千锋山	Thousand Spear Mountain
-叶承运	Ye Chengyun
-莫俊人	Mo Junren
-帝江	Imperial River
-琉焰青纹虎	Precious Flame Blue-Patterned Tiger
-冰原虎	Ice Genesis Tiger
-武道精魄	Soul Essence of Martial Arts
-宫主	Imperial Empress
-天圣宫	Heavenly Saint Palace
-暗夜堂	Dark Night Hall
-水子歌	Shui Zige
-蒙毅	Meng Yi
-铜牌	copper-plated
-胡菲芸	Hu Feiyun
-黑焰国	Black Flame Nation
-东分院	Eastern Institution
-九郡王	Ninth King
-杨梓	Yang Ci
-西分院	Western Institution
-吞天功	Heaven Swallowing Technique
-刘恒	Liu Heng
-白元思	Bai Yuansi
 天海秘境	Heavenly Sea Mystery Realm
 山河石	Mountain River Stone
 重元石	Heavy Origin Stone
@@ -753,8 +726,6 @@
 孔雀明王	Peacock Flame King
 大龟王	Big Turtle King
 玄武	Black Tortoise
-月蓉儿	Yue Rong'er
-钟海	Zhong Hai
 孔雀百翎	Peacock's Numerous Plumes
 破灭乾坤	Shatters the Cosmos
 怒海拳	Furious Sea of Fists
@@ -4154,7 +4125,6 @@ Qiu Jian	求剑
 监察御史	Monitor Censor
 御剑飞行	Sword Kinesis Flight
 技近乎道	Expertise Nearing Dao
-元婴	Nascent Soul
 凝气	Qi Condensation
 炼虚	Void Refinement
 合体	Fusion
@@ -4634,10 +4604,7 @@ Qiu Jian	求剑
 哀嚎	howl in grief, wail, cry piteously, anguish
 不料	unexpected, to one's surprise
 不妙	worried, anxious, not encouraging, look bad, not reassuring, far from good
-惊	startle, frighten, scared, alarmed
 失言	slip of the tongue
-恐怖	terrible, frightening
-威势	might, influence, power
 散	emitted
 笼罩	enveloped
 无可奈何	no way out, utterly helpless, no alternative
@@ -6367,9 +6334,7 @@ Qiu Jian	求剑
 秘方	secret recipe
 嘀咕	mumble
 嘀咕	grumble
-圣人	Saint
 圣贤	Sage
-圣人	Sage
 武道九境	nine tiers of martial arts
 武夫	martial artist
 龙门境	Dragon Gate Tier
@@ -7929,3 +7894,6 @@ F凌寒	Ling Han
 兵符	weapon talisman
 准圣人	quasi-sage
 水井符	Dry Well Talisman
+五龙衔珠	Five Dragons Holding Jewels
+符胆	talismanic core
+镇剑符	Sword Suppressing Talisman
