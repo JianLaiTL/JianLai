@@ -7925,3 +7925,5 @@ F凌寒	Ling Han
 正人君子	righteous noble scholar
 观主	abbot
 文脉	scholarly lineage
+风雷纸	Wind and Thunder Talisman Paper
+兵符	weapon talisman
