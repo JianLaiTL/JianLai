@@ -7927,3 +7927,5 @@ F凌寒	Ling Han
 文脉	scholarly lineage
 风雷纸	Wind and Thunder Talisman Paper
 兵符	weapon talisman
+准圣人	quasi-sage
+水井符	Dry Well Talisman
