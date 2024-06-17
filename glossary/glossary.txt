@@ -2699,86 +2699,21 @@
 核心弟子	core disciple
 月冷轻阳剑	Cold Moon Light Sun Sword
 真传弟子	true disciple
-岳红裳	Yue Hongchang
-程之龙	Cheng Zilong
 雷系规则	Regulations of Lightning
 拳法	fist technique
 王师兄	Senior Brother Wang
 内门弟子	internal disciple
-叶建德	Ye Jiande
-鸣天石	Heaven Ringing Stone
-段海鸣	Duan Haiming
 宫主	Palace Leader
-天圣仙王	Heavenly Saint Celestial King
-莫卓	Mo Zhuo
-九重天仙王	Ninth Heaven Celestial King
-云宝殿	Cloud Treasure Hall
-八重天仙王	Eighth Heaven Celestial King
-七重天仙王	Seventh Heaven Celestial Kings
 天意长老	Heavenly Will Elder
 欺天术	Heaven Deceiving Technique
-程无崖	Cheng Wuya
-井可兵	Jing Kebing
-井东	Jing Dong
-程荣	Cheng Rong
-龙门山	Dragon's Gate Mountain
 万亿	trillion
-叶无海	Ye Wuhai
-阴河天	Yin River Heaven
 战龙殿	Battle Dragon Palace
-富周	Fu Zhou
-程子心	Cheng Zixin
 郝新觉	He Xinjue
-盟主	Alliance Leader
 大威大德经	Mighty Benevolent Scroll
 大威教	Great Majestic Sect
-湛飞	Zhan Fei
-冯兴仁	Feng Xingren
 化龙诀	Dragon Transformation Technique
 龙气	Dragon Qi
-灭仙枪	Celestial Killer Spear
-万世一指	Eternity Tap
-六道	Six Samsara Realms
-佛王	Buddha King
-佛王	Buddha King
-佛子	Buddha Son
-释禅子	Shi Chanzi
-佛心	Buddha Heart
-天罗地网	Inescapable Net
-圣源学院	Saintly Origin Academy
-余青焰仙王	Residual Green Flames Celestial King
-双马天	Twin Horses Heavenly Realm
-丽水城	Lishui City
-洪荒	Hong Huang
-迦兰	Jia Lan
 雨皇阁	Rain Imperial Pavilion
-韩林阁	Han Lin Pavilion
-柳俊	Liu Jun
-帮主	Gang Leader
-毛海涛	Mao Haitao
-暗毒领域	Dark Poison Territory
-谷玉树	Gu Yushu
-筑秘丹	Secret Construct Pill
-四象功	Four Divisions Technique
-贾西	Jia Xi
-程亮	Cheng Liang
-程启	Cheng Qi
-黄怡山	Huang Yishan
-单浩	Dan Hao
-彭姆	Peng Mu
-姬旷	Ji Kuang
-计玉堂	Ji Yutang
-长青仙王	Everlasting Youth Celestial King
-万古仙王	Eternity Celestial King
-罗先生	Mr Luo
-踏云	Treading Clouds
-子罗	Zi Luo
-纳东	Na Dong
-药山	Herb Mountain
-胡言	Hu Yan
-齐娅	Qi Ya
-荒盟	Huang Alliance
-阿焚山	Burning Mountain
 不灭阿焚火	Inextinguishable Burning Flam
 不灭阿梵火	Inextinguishable Burning Flame
 天地霸气拳	Heaven and Earth Domineering Fists
@@ -7902,3 +7837,6 @@ F凌寒	Ling Han
 太平山修真我	The True Self is Cultivated on Peace and Tranquility Mountain
 金顶观	Golden Top Temple
 杜含灵	Du Hanling	temple master of golden top temple
+盟主	alliance leader
+水花酒	Blooming Water Wine
+金形之姿	Golden Physique
