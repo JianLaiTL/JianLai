@@ -7849,3 +7849,7 @@ F凌寒	Ling Han
 吕玺	Lü Xi
 锁龙台	Dragon Locking Platform
 井狱	well prison	prison on Peace and Tranquility Mountain where demons are held captive
+铁骑绕城符	Cavalry Circling City Talisman
+铁骑绕城	Cavalry Circling City Talisman
+宋茅	Song Mao	Sect Leader of Peace and Tranquility Mountain
+嵇海	Ji Hai	Sect Leader of Planchette Writing Sect
