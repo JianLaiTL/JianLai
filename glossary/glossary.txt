@@ -7835,7 +7835,6 @@ F凌寒	Ling Han
 骑鹤城	Riding Crane City
 刘琮	Liu Cong
 太平山修真我	The True Self is Cultivated on Peace and Tranquility Mountain
-金顶观	Golden Top Temple
 杜含灵	Du Hanling	temple master of golden top temple
 盟主	alliance leader
 水花酒	Blooming Water Wine
@@ -7854,3 +7853,4 @@ F凌寒	Ling Han
 宋茅	Song Mao	Sect Leader of Peace and Tranquility Mountain
 嵇海	Ji Hai	Sect Leader of Planchette Writing Sect
 姜尚真	Jiang Shangzhen
+口诀	mantra
