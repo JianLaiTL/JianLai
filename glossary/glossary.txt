@@ -4477,7 +4477,6 @@ Qiu Jian	求剑
 轩辕诚	Xuanyuan Cheng
 初期	initial stage
 育灵	Spirit Nurturing
-宗主	Sect Leader
 宗	Sect
 仙宗	Immortal Sect
 万灵仙宗	Ten-Thousand Spirits Immortal Sect
@@ -7857,3 +7856,5 @@ F凌寒	Ling Han
 望气	Qi observing technique
 州城	provincial city
 老魏	Old Man Wei
+宗主	sect leader
+文渊书院	Literary Profundity Academy
