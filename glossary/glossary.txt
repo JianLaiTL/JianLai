@@ -6980,7 +6980,6 @@ Qiu Jian	求剑
 文房四宝	four treasures of the study
 李长英	Li Changying
 仙师	esteemed immortal	not a title, just how ppl refer to immortals respectfully
-翻书风	book flipping wind
 瘸腿少年	lame young boy	blind old daoist priest's disciple
 眉心	glabella
 文武庙	Wenchang pavilion and martial sage temple
@@ -7858,3 +7857,4 @@ F凌寒	Ling Han
 老魏	Old Man Wei
 宗主	sect leader
 文渊书院	Literary Profundity Academy
+翻书风	book-flipping wind
