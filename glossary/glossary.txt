@@ -4010,7 +4010,6 @@ Qiu Jian	求剑
 先天	Connate
 实丹	True Core
 虚丹	False Core
-金丹	Golden Core
 修仙人	immortal cultivator
 修行人	cultivators
 名妓	renowned courtesans
@@ -7859,3 +7858,5 @@ F凌寒	Ling Han
 文渊书院	Literary Profundity Academy
 翻书风	book-flipping wind
 明月镜	Radiant Moon Formation
+金丹	golden core
+金丹	Golden Core Tier
