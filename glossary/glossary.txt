@@ -7834,3 +7834,5 @@ F凌寒	Ling Han
 本命物	bonded item
 祖师	old ancestor	depending on context
 观妙天君	Observing Mystical Heavenly Lord	old ancestor of peace and tranquility mountain
+九尾狐	nine-tailed fox
+真名	true name
