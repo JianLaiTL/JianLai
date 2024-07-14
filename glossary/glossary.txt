@@ -4681,8 +4681,6 @@ Qiu Jian	求剑
 潸然泪下	tears trickling down one's cheek
 思过	repent
 鼻青脸肿	bloody nose and swollen face, badly battered, beaten black and blue
-兄弟	brother
-大白	Da Bai
 负伤	wounded, injured
 崇高	lofty, sublime, high
 崇高	prestige
@@ -6002,36 +6000,7 @@ Qiu Jian	求剑
 八尺镜	Yata no Kagami
 齐女	Qi Nü
 轩辕不死印	Yellow Emperor Protector Seal
-冥王冥后	Mictlantecutli and Mictetikasiwa
-二代	second King Yanluo
-日本地府	Nipponese Underworld
-东大寺	Tōdai-ji
-秦长信	Qin Changxin
-伊邪那美	Izanami
-素盏鸣尊	Susanoo-no-Mikoto
-怀石料理	kaiseki-ryōri
-华国	Cathayan Underworld
-汤恩娜	Tanvana
-奇尔汀	Giltine
-耶梦加德	Jörmungandr
-北欧	Northern Europa
-素盏明尊	Susanoo-no-Mikoto
-维拉科查	Viracocha
-埃及	Aegyptian Underworld
-阿基米德	Archimedes
-冥后	Mictetikasiwa
 伯爵	Count
-特斯卡	Tezcatlipoca
-烟雾镜	Tezcatlipoca
-阿空加瓜峰	Aconcagua
-希帕克特里	Cipactli
-朗基努斯	Spear of Longinus
-格洛里亚教堂	Gloria Dei Old Swedes Episcopal Church
-江崎玲於奈	Reona Esaki
-天启大辩论	Great Revelation Debate
-二代禁术	second-generation forbidden arts
-启动模组	startup module
-汤川秀树	Hideki Yukawa
 蒋秘书	Secretary Jiang
 知更鸟	messgenger bird
 布政使	administrative commisioner
@@ -7860,3 +7829,6 @@ F凌寒	Ling Han
 明月镜	Radiant Moon Formation
 金丹	golden core
 金丹	Golden Core Tier
+护山阵	mountain-protection formation
+明月镜	Radiant Moon Mirror
+本命物	bonded item
