@@ -7847,4 +7847,5 @@ F凌寒	Ling Han
 青虎宫	Green Goat Palace
 疯魔剑法	Deranged Demon Sword Techniques
 照屏峰	Screen Illuminating Peak
-桃叶渡	Peach Leaf Ferry Station
+桃叶渡	Peach Leaf Jetty
+观主	temple master
