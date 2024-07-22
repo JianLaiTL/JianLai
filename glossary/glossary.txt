@@ -7856,3 +7856,5 @@ F凌寒	Ling Han
 蜂尾渡	Wasp Tail Ferry Station
 杜懋	Du Mao	sect leader of the parasol leaf sect
 云霄国	Lofty Sky Nation
+火龙丹	Fire Dragon Pill
+布雨丹	Rain Bringer Pill
