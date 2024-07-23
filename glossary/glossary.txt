@@ -7859,3 +7859,4 @@ F凌寒	Ling Han
 火龙丹	Fire Dragon Pill
 布雨丹	Rain Bringer Pill
 五彩-金匮灶	Five-colored Golden Box Cauldron
+剑房	sword chamber	room where flying sword letters are sent out
