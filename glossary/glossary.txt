@@ -7860,3 +7860,5 @@ F凌寒	Ling Han
 布雨丹	Rain Bringer Pill
 五彩-金匮灶	Five-colored Golden Box Cauldron
 剑房	sword chamber	room where flying sword letters are sent out
+小白	Little Bai	Lu Baixiang
+水井仙人酿	well-water immortal wine
