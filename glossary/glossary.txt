@@ -7862,3 +7862,5 @@ F凌寒	Ling Han
 剑房	sword chamber	room where flying sword letters are sent out
 小白	Little Bai	Lu Baixiang
 水井仙人酿	well-water immortal wine
+庆山国	Fortune Mountain Nation
+夹蜂小道	Narrow Wasp Alley
