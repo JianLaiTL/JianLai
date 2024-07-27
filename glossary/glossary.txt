@@ -7053,7 +7053,6 @@ Qiu Jian	求剑
 武秘书郎	martial secretary
 风云人物	active figure, influential figure, focal point
 真人	Spiritual Master	Daoist title for one who had attained enlightenment or immortality
-机关师	mechanist	from Mohist Sect
 洪氏	Hong Clan
 孙叔坚	Sun Shujian	Sui Clan's lowest-ranked guest elder
 仙气	immortal qi
@@ -7869,3 +7868,5 @@ F凌寒	Ling Han
 梧桐小洞天	Parasol Tree Small World
 杜俨	Du Yan	Du Mao's grandson
 药家	School of Medicine
+机关师	Mechanist	from Mohist Sect
+地牛	earth bull
