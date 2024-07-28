@@ -7870,3 +7870,6 @@ F凌寒	Ling Han
 药家	School of Medicine
 机关师	Mechanist	from Mohist Sect
 地牛	earth bull
+吕阳真	Lü Yangzhen
+龙脉	dragon vein
+地士	earth cultivator
