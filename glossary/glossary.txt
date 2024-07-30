@@ -7207,7 +7207,6 @@ Qiu Jian	求剑
 三上品	Upper Three Grades
 中三品	Middle Three Grades
 下三品	Lower Three Grades
-地脉	ley lines
 青词	inscription talismans	I know it's probably not correct, but it's basically what it is from my understanding, ie. a talisman created using written runes
 鱼尾冠	fish tail hat
 崇妙道人	Daoist Chong Miao
@@ -7876,3 +7875,4 @@ F凌寒	Ling Han
 谱牒仙师	official immortals
 水陆道场	Liberation Rite of Water and Land
 土牛	earth bull	also called 地牛 earlier, same thing
+地脉	earth vein
