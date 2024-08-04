@@ -7892,3 +7892,5 @@ F凌寒	Ling Han
 竺奉仙	Zhu Fengxian	previous gang leader of the Great Marsh Gang
 清城	Qing Cheng	young girl from Blusher Hall
 军师	military adviser
+白水寺	White Water Temple
+北山寺	North Mountain Temple
