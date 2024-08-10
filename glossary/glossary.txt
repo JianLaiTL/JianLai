@@ -7297,7 +7297,6 @@ Qiu Jian	求剑
 神人承露甲	Divine Dewbearing Armor
 甘露甲	Dew Armor
 林孤山	Lin Gushan	name of old swordsman from Ancient Elm Nation
-周矩	Zhou Ju
 礼器	ceremonial artifact
 正人	Righteous Figure
 火龙真人	Spiritual Master Fire Dragon	Zhang Shanfeng's master
@@ -7900,3 +7899,6 @@ F凌寒	Ling Han
 竺梓阳	Zhu Ziyang	Zhu fengxian's granddaughter
 锁龙索	dragon-binding chain
 斩龙索	dragon-slaying chain
+周矩	Zhou Ju	actual name is zhou juran
+侯正	Hou Zheng	noble scholar
+高僧	eminent monk
