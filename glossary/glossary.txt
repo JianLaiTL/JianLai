@@ -5671,15 +5671,12 @@ Qiu Jian	求剑
 娇滴滴	sweet, cute
 咦	hm
 啜泣	sob
-蓉城	Rong City
-白云观	Baiyun Temple
 凝	become serious
 面如土色	ashen-faced, deathly pale
 哆嗦	tremble, shiver
 哆嗦	quiver
 诚哥	Big Brother Cheng
 有关部门	department concerned
-黄溪村	Huang Xi Village
 离奇	strange, odd, fantastic, bizarre
 人心惶惶	state of anxiety
 采取	adopt, assume, take, carry out
@@ -5805,7 +5802,6 @@ Qiu Jian	求剑
 日天	f*ck the heavens
 噗哇	pwah
 安明川	An Mingchuan
-道藏	Daoist Scripture
 死猪不怕开水烫	nothing to lose
 神鉴术	Celestial Identification Technique
 鸿达建筑投资有限公司	Hongda Construction and Investment Corporation
@@ -7902,3 +7898,5 @@ F凌寒	Ling Han
 周矩	Zhou Ju	actual name is zhou juran
 侯正	Hou Zheng	noble scholar
 高僧	eminent monk
+道藏	Daoist scripture
+白云观	White Cloud Daoist Temple
