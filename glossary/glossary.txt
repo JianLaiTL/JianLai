@@ -7902,3 +7902,7 @@ F凌寒	Ling Han
 外姓天师	external Heavenly Master
 罡步	astral steps	for daoists - this is what the land-shortening technique is derived from
 剑炉	Sword Furnace Stance	for standing meditation
+大炼	advanced refinement
+小炼	basic refinement
+中炼	standard refinement
+大寒	Major Cold
