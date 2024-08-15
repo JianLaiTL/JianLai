@@ -6754,7 +6754,6 @@ Qiu Jian	求剑
 桃木剑	peach wood sword
 三枝山	Three Twigs Mountain
 功德	virtue
-文武两庙	Wenchang pavilion and the martial sage temple
 颠倒盘	Inverting Compass
 山鬼	mountain ghost
 符泉	talisman spring water	literally blood
@@ -6945,7 +6944,6 @@ Qiu Jian	求剑
 仙师	esteemed immortal	not a title, just how ppl refer to immortals respectfully
 瘸腿少年	lame young boy	blind old daoist priest's disciple
 眉心	glabella
-文武庙	Wenchang pavilion and martial sage temple
 中土	Middle Earth Divine Continent
 崔国师	Imperial Preceptor Cui Chan
 祠堂	ancestral hall
@@ -7906,3 +7904,6 @@ F凌寒	Ling Han
 小炼	basic refinement
 中炼	standard refinement
 大寒	Major Cold
+文武两庙	scholarly temple and the martial sage temple
+文武庙	scholarly temple and martial sage temple
+文庙	scholarly temple
