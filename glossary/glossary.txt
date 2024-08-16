@@ -7479,7 +7479,6 @@ Qiu Jian	求剑
 剑客	sword practitioner	i think this is for martial artists. as opposed to sword cultivators (剑修) and sword immortals (剑仙) which is specifically Qi refiners
 龙泉剑宗	Dragon Spring Sword Sect	Ruan Qiong's sect
 老瓷山	mountain of porcelain	shattered bonded porcelain
-东山	East Mountain
 渡船	intercontinental ship
 狮子峰	Lion Peak	immortal force owned by Li Liu (think she was the ancestor there before reincarnating or whatever)
 花翎王朝	Tail Feather Empire
@@ -7907,3 +7906,4 @@ F凌寒	Ling Han
 文武两庙	scholarly temple and the martial sage temple
 文武庙	scholarly temple and martial sage temple
 文庙	scholarly temple
+东山	Eastern Mountain
