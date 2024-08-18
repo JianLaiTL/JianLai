@@ -2178,11 +2178,6 @@
 媚功	charm technique
 海兄	Brother Hai
 素女门	Purity Sect
-柔	Rou
-重兵阁	Massive Military Pavilion
-南素玉	Nan Suyu
-千赵	Qianzhao
-千赵田	Qianzhao Tian
 北宇家	Beiyu Clan
 北宇雄	Beiyu Xiong
 古雨教	Ancient Rain Sect
@@ -7907,3 +7902,5 @@ F凌寒	Ling Han
 文庙	scholarly temple
 东山	Eastern Mountain
 彩云谱	Iridescent Cloud Go Manual
+小宝瓶	Little Baoping
+石柔	Shi Rou	female bone ghost / beautiful skeletal ghost
