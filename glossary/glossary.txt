@@ -2721,60 +2721,8 @@
 九五天尊	Jiuwu Heavenly Venerate
 凌火	Ling Huo
 道火	Dao Flames
-通天关	Clear Heaven Pass
-邓利	Deng Li
-厉鸿飞	Li Hongfei
-聂大人	Lord Nie
-帝星	Monarch Star
-丁部	Unit D
-聂和山	Nie Heshan
-沈超	Shen Chao
-陆震	Lu Zhen
-梅华	Mei Hua
-异族	Foreign Race
-星辰月	Xing Chenyue
-常家七王	Seven Kings of Chang Clan
-孟非诚	Meng Feicheng
-纳古仙王	Encompassing Age Celestial King
-涂瑾	Tu Jin
-异兽	Foreign Beast
-涂景天	Tu Jingtian
-常家九虎	Nine Tigers of Chang Clan
-起源魔方	Origin Magic Cube
-中立区域	neutral zone
-卡扎隆	Gaddalon
-亚姆	Yamu
-十秘	tenth secret
-八秘	eighth secret
-十层	tenth layer
-森落	Sen Luo
-奈幽	Nai You
-蜈心	Wu Xin
-赤血	Chi Xue
-十一秘	eleventh secret
-九秘	ninth secret
-十五莲	Fifteenth Lotus
-十六莲	Sixteenth Lotus
-十四莲	Fourteenth Lotus
-丁部十七营	17th camp of Unit D
-千古一梦丹	Thousand Year Dream Pills
-六秘	sixth secret
 位面	dimension
 黑暗规则	Regulation of Darkness
-土塔	Tu Ta
-墓冷	Mu Leng
-超低等位面	super low-level dimension
-辛图	Xin Tu
-毒系规则	Regulation of Poison
-十一层	eleventh layer
-赤炎	Chi Yan
-赤炎天尊	Heavenly Venerate Chi Yan
-柳三变	Liu Sanbian
-长剑仙王	Forever Sword Celestial King
-超下等位面	super low-level dimension
-五重天仙王	Fifth Heaven Celestial King
-十一莲	Eleventh Lotus
-十二莲	Twelfth Lotus
 本源魔方	Origin Magic Cube
 库哈德	Kuhaad
 次元宇宙	Dimensional Universe
@@ -2785,20 +2733,7 @@
 战功	military merit
 天地元罡	Heaven and Earth Origin Stars
 云虚	Cloud Void
-千语	Thousand Words
-通玄	Tong Xuan
-重金	Heavy Metal
-五莲	Fifth Lotus
-龙图	Long Tu
-云河	Yunhe
-塔拉	Darla
 烽火城	Fire Beacon City
-恶魔族	Demon Race
-天使族	Angel Race
-虫族	Insect Race
-圣兽	Holy Beast
-安俊	An Jun
-仇山	Enmity Mountain
 百果树	Hundred Fruits Tree
 帝非	Di Fei
 帝庞	Di Pang
@@ -4297,13 +4232,8 @@ Qiu Jian	求剑
 阁	pavilion
 亭	pavilion
 塔	pagoda
-不料	unexpectedly, to one's surprise
-怒目而视	glare, glower, stare angrily, look daggers at
-不敢	not dare to
 汇聚	flock, converge, come together
 广场	plaza, public sqaure
-足足	no less than, fully, as much as, extremely
-围观	watch, look on
 光芒	rays of light, brilliant rays, radiance
 不时	from time to time, frequently, occasionally
 道之体	Dao Body
@@ -4675,8 +4605,6 @@ Qiu Jian	求剑
 不禁	involuntarily
 潸然泪下	tears trickling down one's cheek
 思过	repent
-鼻青脸肿	bloody nose and swollen face, badly battered, beaten black and blue
-负伤	wounded, injured
 崇高	lofty, sublime, high
 崇高	prestige
 理想	ideal, dream, aspiration
@@ -5002,7 +4930,6 @@ Qiu Jian	求剑
 毕恭毕敬	reverent and respectful
 期待	anticipte
 天材地宝	extremely rare treasures
-诧异	surprise, astonish
 初阶	elementary rank
 战神	God of War
 心法	mantra
@@ -5119,7 +5046,6 @@ Qiu Jian	求剑
 矛盾	conflict, contradict, difference, inconsistent
 纠葛	entangle, dispute
 光明正大	fair and square
-揍	beat, pummel, pommel
 飘逸	graceful, elegant
 眷顾	blessed
 老天爷	god, heavens
@@ -7906,3 +7832,6 @@ F凌寒	Ling Han
 石柔	Shi Rou	female bone ghost / beautiful skeletal ghost
 吞剑舟	Sword Devouring Ark
 身外身	avatar
+气盛	Thriving Qi Tier	first of three minor tiers of the tenth tier of martial arts
+神到	Divinity Tier	third of three minor tiers of the tenth tier of martial arts
+归真	Simplification Tier	second of three minor tiers of the tenth tier of martial arts
