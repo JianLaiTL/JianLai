@@ -4561,11 +4561,8 @@ Qiu Jian	求剑
 飞剑	flying sword
 脚踏	stand atop
 天剑	celestial sword
-释放	release, set free
 风压	wind pressure
-直接	direct, immediate
 插手	take part, lend a hand, meddle in, poke one's nose into, inteference
-亮出	suddenly reveal, flash
 令牌	badge
 执法	enforce
 执法队	enforcement team
@@ -7835,3 +7832,4 @@ F凌寒	Ling Han
 气盛	Thriving Qi Tier	first of three minor tiers of the tenth tier of martial arts
 神到	Divinity Tier	third of three minor tiers of the tenth tier of martial arts
 归真	Simplification Tier	second of three minor tiers of the tenth tier of martial arts
+仙人遗蜕	immortal body	or immortal corpse or whatever
