@@ -5918,12 +5918,8 @@ Qiu Jian	求剑
 蒋秘书	Secretary Jiang
 知更鸟	messgenger bird
 布政使	administrative commisioner
-城隍庙	City God Temple
 轩辕剑主	Sword Master Xuanyuan
 地藏	Ksitigarbha
-钱多来	Qian Duolai
-祖冲之	Zu Chongzhi
-公格尔峰	Kongur Tagh
 水电站	hydroelectric power station
 羲和	Xi He Retirement Home
 姚泾明	Yao Jingming
@@ -7836,3 +7832,4 @@ F凌寒	Ling Han
 一尺枪	Foot-long Spear	Nickname for the short old man, dunno his name
 走马图	Fleeting Glance Picture Scrolls
 流水画卷	Flowing Water Picture Scroll
+城隍庙	city god temple
