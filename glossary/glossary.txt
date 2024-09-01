@@ -7840,3 +7840,5 @@ F凌寒	Ling Han
 鱼凫学宫	Great Cormorant Academy
 牛马	Cattle and Horse Pen
 铜人捧露台	Copper Person Dew-Holding Platform
+递香人	incense provider	euphamism for incense peddler
+香火摊贩	incense peddler
