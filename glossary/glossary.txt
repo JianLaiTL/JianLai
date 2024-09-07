@@ -7848,3 +7848,4 @@ F凌寒	Ling Han
 青老爷	Master Qing	fox demon at the Lion Garden
 理学	Neo-Confucianism
 柳敬亭	Liu Jingting	Assistant Minister Liu from the Lion Garden
+少年	young man
