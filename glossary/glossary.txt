@@ -7846,3 +7846,5 @@ F凌寒	Ling Han
 狮子园	Lion Garden	青鸾国十大名园之一
 柳老侍郎	Assistant Minister Liu
 青老爷	Master Qing	fox demon at the Lion Garden
+理学	Neo-Confucianism
+柳敬亭	Liu Jingting	Assistant Minister Liu from the Lion Garden
