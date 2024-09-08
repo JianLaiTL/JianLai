@@ -6811,8 +6811,6 @@ Qiu Jian	求剑
 藻井	caisson ceiling
 崔瀺巉	Cui Chanchan
 香火小人	incense person
-香火小人	incense girl
-香火小人	incense boy
 大仙	Great Immortal
 老谢	Old Man Xie
 镇海楼	Sea Suppressing Pagoda
@@ -6831,7 +6829,6 @@ Qiu Jian	求剑
 镇妖	Spirit Suppressing Pagoda
 镇仙	Immortal Suppressing Pagoda
 初一	First	Chen Ping'an's flying sword
-香火小人	incense entity
 文房四宝	four treasures of the study
 李长英	Li Changying
 仙师	esteemed immortal	not a title, just how ppl refer to immortals respectfully
