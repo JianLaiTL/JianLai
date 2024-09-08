@@ -522,7 +522,6 @@
 兔爷	Uncle Rabbit
 惜生剑	Revere Life Sword
 器阁	Tool Pavilion
-龙牙剪	Dragon Fang Shears
 神识	divine sense
 源力	Source Power
 雷火大帝	Heavenly Emperor of Thunder and Fire
@@ -1088,17 +1087,11 @@
 碧霄丹	Jade Heaven Pill
 身份令牌	identity token
 大境界	major tier
-吴兹仁	Wu Ziren
 太玄青冥丹	Mysterious Azure Pill
-鸠吾戚	Jiu Wuqi
 水家	Shui Clan
 福	curtsy
-赵世子	Heir Zhao
-伦哥	Brother Zhao	(i think Brother Lun is unclear, and i couldnt be bothered footnoting)
 武道界	cultivation world
 两界战场	Two Realm Battlefield
-安老	Elder An
-严小萱	Yan Xiaoxuan
 中极部	Medium Extreme Division
 金狮国	Golden Lion Nation
 东雨国	Eastern Rain Nation
@@ -1108,7 +1101,6 @@
 四大分院	four major institutions
 至强者	supreme elite
 学院军	academy troops
-柳青	Liu Qing
 森然	baleful
 森然	wicked
 森然	sinister
@@ -2292,19 +2284,8 @@
 永昌仙王	Eternal Prosperity Celestial King
 永昌教	Eternal Prosperity Sect
 永昌殿	Eternal Prosperity Palace
-严仙路	Yan Xianlu
-赵青锋	Zhao Qingfeng
-紫城大师	Grandmaster Zi Cheng
-保成	Bao Cheng
-青锋无敌	Invincible Qingfeng
-仙路	Celestial Path
-锐金仙胎	Acute Metal Divine Fetus
-紫城	Zi Cheng
 四大天王	Four Heavenly Kings
-程封云	Cheng Fengyun
 程少	Young Master Cheng
-山田久	Shantian Jiu
-山田武	Shantian Wu
 青鼎教	Black Cauldron Sect
 山田家	Shantian Clan
 易天河	Yi Tianhe
@@ -3056,7 +3037,6 @@
 清姐	Sister Qing
 刘宇恒	Liu Yuheng
 天化都	Heaven Transforming City
-赵清	Zhao Qing
 灭魂鼓	Soul Extinguishing Drum
 许方	Xu Fang
 黑影	black shadow
@@ -7850,3 +7830,10 @@ F凌寒	Ling Han
 柳敬亭	Liu Jingting	Assistant Minister Liu from the Lion Garden
 少年	young man
 水府	water palace	location in body where cpa has refiined the water seal
+柳清青	Liu Qingqing
+柳清雅	Liu Qingya
+柳清山	Liu Qingshan
+柳清郁	Liu Qingyu
+赵芽	Zhao Ya
+少女	young woman
+狐魅	fox spirit
