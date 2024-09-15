@@ -2257,7 +2257,6 @@
 天云	Tianyun
 太上长老	grand elder
 管统领	Commander Guan
-狐妖	Fox Demon
 柳凌风	Liu Lingfeng
 内丹	inner core
 鲁先明	Lu Xianming
@@ -7845,3 +7844,6 @@ F凌寒	Ling Han
 无敌神拳帮	Invincible Divine Fist Sect	无敌神拳帮
 小郎君	Handsome Chivalrous Young Man
 静心安宁符	Calming Talisman
+狐妖	fox demon
+柳伯	Liu Bo	daoist nun from daoist saber room
+甲作	Jiazuo	name of Liu Bo's bonded item (saber)
