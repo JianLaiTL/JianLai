@@ -7847,3 +7847,5 @@ F凌寒	Ling Han
 狐妖	fox demon
 柳伯	Liu Bo	daoist nun from daoist saber room
 甲作	Jiazuo	name of Liu Bo's bonded item (saber)
+獍神	Jing God
+化宝妖	treasure-creation demon
