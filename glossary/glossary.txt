@@ -7851,3 +7851,4 @@ F凌寒	Ling Han
 化宝妖	treasure-creation demon
 伏昇	Fu Sheng
 蟾宫	Toad Palace
+元宵节	Lantern Festival
