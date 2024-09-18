@@ -7849,3 +7849,4 @@ F凌寒	Ling Han
 甲作	Jiazuo	name of Liu Bo's bonded item (saber)
 獍神	Jing God
 化宝妖	treasure-creation demon
+伏昇	Fu Sheng
