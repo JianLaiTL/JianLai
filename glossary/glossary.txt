@@ -1282,10 +1282,6 @@
 天人之厄	Immortal's Calamity
 四海皇朝	Four Seas Majestic Empire
 天钧皇朝	Great Heaven Majestic Empire
-张桐	Zhang Tong
-杨浩	Yang Hao
-韩林	Han Lin
-墨孤	Mo Gu
 天风山	Heavenly Wind Mountain
 穿云峰	Cloud Piercing Peak
 白云峰	White Cloud Peak
@@ -1420,18 +1416,9 @@
 星域	galaxy	(dependent on context)
 长光星域	Long Light Galaxy
 寒临阁	Han Lin Pavilion
-梁金波	Liang Jinbo
-康兄	Brother Kang
-云兄	Brother Yun
 四方丹	Four Directions Pill
 宝林阁	Treasure Forest Pavilion
-胡丹师	Alchemist Hu
-凌大师	Grandmaster Ling
-大营城	Big Trade City
-何大师	Grandmaster He
-何景云	He Jingyun
 老头	old geezer
-李丹师	Alchemist Li
 栖霞山	Red Clouds Perch Mountains
 五阶丹师	Level Five alchemist
 大师	Grandmaster
@@ -1914,23 +1901,11 @@
 神竹	Divine Bamboo
 青河谷	Green River Valley
 太平宫	Peace Palace
-叶承章	Ye Chengzhang
-郑景	Zheng Jing
-刘敢	Liu Gan
-章挺	Zhang Ting
-叶全	Ye Quan
-刘当	Liu Dang
-郑漠	Zheng Mo
-欧阳河	Ouyang He
-冷筱染	Leng Xiaoran
-勾海	Gou Hai
-古风	Gu Feng
 天云破山手	Heavenly Clouds Piercing Mountain Hand
 化雾诀	Mist Technique
 虚空花	Void Flower
 仙花	Celestial Flower
 仙药	Celestial medicine
-韩奇	Han Qi
 九重甲	Nine Layered Armour
 九幽冰雾	Nine Underworlds Ice Mist
 九幽冰刺	Nine Underwords Ice Spike
@@ -7852,3 +7827,4 @@ F凌寒	Ling Han
 伏昇	Fu Sheng
 蟾宫	Toad Palace
 元宵节	Lantern Festival
+白纸福地	White Paper Blessed Land
