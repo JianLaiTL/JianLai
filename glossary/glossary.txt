@@ -1627,54 +1627,14 @@
 雨姨	Aunty Yu
 横云支脉	Hengyun Branch
 青雨城	Azure Rain City
-北沙	Beisha
-林峰	Lin Feng
-林雪风	Lin Xuefeng
-林建业	Lin Jianye
-辜家	Gu Clan
-辜少云	Gu Shaoyun
-药王窟	Medicine King's Cave
-林辛	Lin Xin
-林洋	Lin Yang
-林拔刀	Lin Badao
-林疏影	Lin Shuying
 启灵术	Spirit Awakening Technique
-张丰	Zhang Feng
-入虚丹	Entering Void Pill
-冥阴丹	Dark Shade Pill
-浑天丹	Turbid Sky Pill
-北沙支脉	Beisha Branch
-林子宏	Lin Zihong
 紫玉九道树	Purple Jade Nine Dao Tree
 鬼王窟	Medicine King's Cave	typo by author
 韩家	Han Clan
 施家	Shi Clan
 黄家	Huang Clan
-神树	Divine Tree
 仙剑	Divine Sword
-韩东	Han Dong
-泰阳宫	Grand Sun Palace
-古道青莲	Ancient Dao Green Lotus
-通天玄元丹	Exceptional Talent Black Origin Pill
-禅道茶	Zen Tea
-洗尘殿	Xichen Palace Hall
-泰阳宫	Taiyang Palace
 剑痴	sword maniac
-绝世大药	supremely valuable medicine
-黄鹏	Huang Peng
-飞火丹	Flying Fire Pill
-爆裂果	Explosion Fruit
-摩迦罗	Makara Flower
-韩涛	Han Tao
-圣王大药	Saint King Great Herb
-摩迦罗之花	Flower of Makara
-施宾	Shi Bin
-古道一	Gu Daoyi
-王传洗	Wang Chuanxi
-雷动	Lei Dong
-天字灭杀令	Heaven Execution Order
-九劫剑	Nine Demons Sword
-鲁有精	Lu Youjing
 仙胎	Divine Fetus
 鲁成风	Lu Chengfeng
 白玉天煞掌	White Jade Murderous Heaven Palm
@@ -7833,3 +7793,4 @@ F凌寒	Ling Han
 小飞升	Young Ascended Immortal	rich op old guy's alternate Twitch handle (the username or whatever he uses to watch women through enchanted picture scrolls)
 武十境	Tenth Tier Martial Artist	rich op old guy's alternate Twitch handle (the username or whatever he uses to watch women through enchanted picture scrolls)
 小郎君	Handsome Chivalrous Young Man
+柳清风	Liu Qingfeng	from the Lion Garden
