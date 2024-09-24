@@ -7780,7 +7780,6 @@ F凌寒	Ling Han
 小郎君	Handsome Chivalrous Young Man
 静心安宁符	Calming Talisman
 狐妖	fox demon
-柳伯	Liu Bo	daoist nun from daoist saber room
 甲作	Jiazuo	name of Liu Bo's bonded item (saber)
 獍神	Jing God
 化宝妖	treasure-creation demon
@@ -7795,3 +7794,4 @@ F凌寒	Ling Han
 小郎君	Handsome Chivalrous Young Man
 柳清风	Liu Qingfeng	from the Lion Garden
 刀剑错	Saber Sword Cross
+柳伯奇	Liu Boqi	daoist nun from daoist saber room
