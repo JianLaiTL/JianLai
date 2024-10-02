@@ -6213,7 +6213,6 @@ Qiu Jian	求剑
 符箓	talisman
 锁龙井	Dragon Locking Well
 深潭	deep pool	under the covered bridge
-百家	hundred schools of thought
 师侄	Martial Nephew, Martial Niece
 道冠	Daoist hat
 小女孩	little girl
@@ -7809,3 +7808,4 @@ F凌寒	Ling Han
 姜夔	Zheng Kui	typo by author, emperor of fortune mountain nation
 刑部	Ministry of Justice
 袁掖	Yuan Ye	Charming Pig, concubine of Emperor Zheng Kui of the Fortune Mountain Nation
+百家	Hundred Schools of Thought
