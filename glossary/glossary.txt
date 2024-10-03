@@ -7585,7 +7585,6 @@ F凌寒	Ling Han
 水鬼	water ghost
 八境	eighth tier
 埋河	Burial River
-金顶观	Golden Summit Daoist Temple
 尹妙峰	Yin Miaofeng	temple master/abbot of the Golden Summit Daoist Temple
 葆真道人	Daoist Preserving Innocence	title for Yin Miaofeng
 邵渊然	Shao Yuanran
@@ -7697,7 +7696,6 @@ F凌寒	Ling Han
 鹰钩鼻	aquiline nose
 罗天大醮	Heavenly Worship Ceremony	some ceremony that's supposed to bring peace and safety to the ppl of a nation
 青要山	Azure Waist Mountain
-金桂观	Golden Osmanthus Daoist Temple
 袈裟	kasaya	buddhist robes
 胭脂斋	Blusher Hall
 蕞尔	Miniature One	saber name
@@ -7707,8 +7705,6 @@ F凌寒	Ling Han
 军师	military adviser
 白水寺	White Water Temple
 北山寺	North Mountain Temple
-张果	Zhang Guo	temple master of the Golden Osmanthus Daoist Temple
-许伯瑞	Xu Borui	daoist priest from the Golden Osmanthus Daoist Temple
 刘清城	Liu Qingcheng
 竺梓阳	Zhu Ziyang	Zhu fengxian's granddaughter
 锁龙索	dragon-binding chain
@@ -7717,7 +7713,6 @@ F凌寒	Ling Han
 侯正	Hou Zheng	noble scholar
 高僧	eminent monk
 道藏	Daoist scripture
-白云观	White Cloud Daoist Temple
 外姓天师	external Heavenly Master
 罡步	astral steps	for daoists - this is what the land-shortening technique is derived from
 剑炉	Sword Furnace Stance	for standing meditation
@@ -7809,3 +7804,8 @@ F凌寒	Ling Han
 刑部	Ministry of Justice
 袁掖	Yuan Ye	Charming Pig, concubine of Emperor Zheng Kui of the Fortune Mountain Nation
 百家	Hundred Schools of Thought
+金顶观	Golden Summit Temple
+金桂观	Golden Osmanthus Temple
+张果	Zhang Guo	temple master of the Golden Osmanthus Temple
+许伯瑞	Xu Borui	daoist priest from the Golden Osmanthus Temple
+白云观	White Cloud Temple
