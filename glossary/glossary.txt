@@ -6244,7 +6244,6 @@ Qiu Jian	求剑
 大德	Bhadanta
 水观心境	Observing Water Mental State
 拳意	fist intent
-搬山猿	Mountain-moving Ape
 。	Chen Ping'an	author is retarded
 老猿	Bai Yuan
 护山猿	Bai Yuan
@@ -6776,7 +6775,6 @@ Qiu Jian	求剑
 龙尾溪陈氏	Dragon Tail Creek Chen Clan
 林鹿书	Forest Deer Academy	academy located in Cloud Drape Mountain
 南岳	Southern Mountain
-搬山老猿	mountain-moving ape
 黄花峰	Yellow Flower Peak
 黄巾力士	golden-armored warrior
 金甲力士	golden-armored warrior
@@ -7809,3 +7807,6 @@ F凌寒	Ling Han
 张果	Zhang Guo	temple master of the Golden Osmanthus Temple
 许伯瑞	Xu Borui	daoist priest from the Golden Osmanthus Temple
 白云观	White Cloud Temple
+搬山猿	Mountain-Moving Ape
+搬山老猿	Mountain-Moving Ape
+日夜游神真身符	Day and Night Wandering Deity True Body Talisman
