@@ -2171,34 +2171,12 @@
 山宝	Mountain Treasure
 神圣武器	Sacred Weapon
 矮人	dwarves
-洞灵宝玉	Cave Spirit Treasured Jade
-先天桃符	Natural Peach Seal
-帝者	Monarch tier
-何少鳞	He Shaolin
-少鳞	Shaolin
-韦年	Wei Nian
-天火仙王	Heavenly Fire Celestial King
-雷云仙王	Thundercloud Celestial King
-紫河仙王	Purple River Celestial King
-黑暗之潮	storm of darkness
-火系大道	Great Dao of Fire
-千赵羽	Qianzhao Yu
-傅晏	Fu Yan
 战舰	battleship
 大人	Lord
-赵凌峰	Zhao Lingfeng
-紫河极	Zihe Ji
-孙震	Sun Zhen
-天云	Tianyun
 太上长老	grand elder
-管统领	Commander Guan
-柳凌风	Liu Lingfeng
 内丹	inner core
-鲁先明	Lu Xianming
-陈四	Chen Si
 丹道城	Alchemy City
 掌座	Chairperson
-老货	old b@stard
 黑煞咒	Black Murderous Curse
 血影魔	Blood Shadow Demon
 血影老魔	Old Demon Blood Shadow
@@ -7811,3 +7789,5 @@ F凌寒	Ling Han
 搬山老猿	Mountain-Moving Ape
 日夜游神真身符	Day and Night Wandering Deity True Body Talisman
 渡船	immortal ship	if its not intercotinental i guess
+看门人	gatekeeper
+元言序	Yuan Yanxu
