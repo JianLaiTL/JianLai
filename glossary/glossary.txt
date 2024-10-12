@@ -7793,4 +7793,5 @@ F凌寒	Ling Han
 元言序	Yuan Yanxu
 祛秽符	Cleansing Talisman
 承天国	Sky Holding Nation
-灯火石	lamplight stone
+灯火石	lamplight rock
+赌石	rock gambling
