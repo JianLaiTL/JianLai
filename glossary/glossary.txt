@@ -7709,7 +7709,6 @@ F凌寒	Ling Han
 神到	Divinity Tier	third of three minor tiers of the tenth tier of martial arts
 归真	Simplification Tier	second of three minor tiers of the tenth tier of martial arts
 仙人遗蜕	immortal body	or immortal corpse or whatever
-一尺枪	Foot-long Spear	Nickname for the short old man, dunno his name
 走马图	Fleeting Glance Picture Scrolls
 流水画卷	Flowing Water Picture Scroll
 城隍庙	city god temple
@@ -7795,3 +7794,6 @@ F凌寒	Ling Han
 承天国	Sky Holding Nation
 灯火石	lamplight rock
 赌石	rock gambling
+上了贼船	to get in too deep
+一尺枪	Foot-Long Spear	Nickname for the short old man, Xun Yuan aka Senior Xun
+荀渊	Xun Yuan	aka Senior Xun
