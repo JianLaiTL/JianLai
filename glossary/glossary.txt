@@ -5798,13 +5798,8 @@ Qiu Jian	求剑
 世能研	World Energy Resource Research Organization
 伊帕密浓达	Epaminondas
 无名死神	nameless god of death
-圣安东尼	Archbishop Antonio
-藤井平八郎	Heihachiro Fujii
 圣宝	Sacred Treasure Consortium
-米克特兰提库特里	Mictlantecutli
-冥王	Mictlantecutli
 阴宙系	Yin Space River
-库库尔坎	Quetzalcoatl
 坎昆	Cancún
 吉得宝	Tepoztli
 黑白无常	Black and White Anitya Hellguards
@@ -5816,41 +5811,8 @@ Qiu Jian	求剑
 妖鬼仙	demonic ghostly immortals
 铁浮屠	heavy cavalry units
 万魂塔	Myriad Soul Pagoda
-沈田子	Thẩm Điền Tử
-朱龄石	Chu Linh Thạch
-王镇恶	Vương Trấn Ác
-剑礁	Sword Coral Research Institute
-阴山格物院	Yin Mountains Research Institute
-恭弥	Iwasaki Kyouya
-本一郎	Iwasaki Ichiro
-竹茂楼	Takeshigerou
-岩崎弥太郎	Iwasaki Yatarō
-比良坂	Nipponese Underworld
-水蛭子	Hiruko
-高天原	Takamagahara
-歌山三段壁	Sandanbeki Rock Cliff
-青木原树海	Aokigahara
-天逆每	Amanozako
-本多忠胜	Honda Tadakatsu
 羽泽城	Feathersheen City
-德川家康	Tokugawa Ieyasu
-神原康正	Sakakibara Yasumasa
-亚太经合会	Asia-Pacific Economic Development Conference
-北条时宗	Hōjō Tokimune
-丰臣秀吉	Toyotomi Hideyoshi
-足利义昭	Ashikaga Yoshiaki
-川岛琢磨	Kawashima Takuma
-玉藻前	Tamamo-no-Mae
 八岐大蛇	Yamata no Orochi
-宏野吉泽	Yoshizawa Hiroshi
-前田利家	Maeda Toshiie
-毛利辉元	Mōri Terumoto
-二口女	Futakuchi-onna
-大菩提寺	Mahabodhi Temple
-阴摩罗	Onmoraki
-轮入道	Wanyūdō
-耶梦加得	Jörmungandr
-天之御中	Minakanushi
 烧瓷	pottery firing
 朝廷	imperial court
 官员	officials
@@ -7788,3 +7750,5 @@ F凌寒	Ling Han
 青霄渡	Green Cloud Ferry Station
 蔡京神	Cai Jingshen
 缩地成寸	land-shortening
+苗韧这	Miao Ren
+蔡丰	Cai Feng
