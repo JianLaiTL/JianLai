@@ -754,7 +754,6 @@
 鲁莽	rash
 体魄	physique
 神火	divine flame
-丹田	Dantian
 中期	middle stage
 力不从心	strained
 无奈	reluctant
@@ -7787,3 +7786,5 @@ F凌寒	Ling Han
 白茅街	Cogon Grass Street
 茅山主	Mountain Master Mao
 青霄渡	Green Cloud Ferry Station
+蔡京神	Cai Jingshen
+缩地成寸	land-shortening
