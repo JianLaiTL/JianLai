@@ -2244,53 +2244,10 @@
 倚云仙子	Fairy Yiyun
 永昌大人	Lord Eternal Prosperity
 倚云仙王	Leaning Clouds Celestial King
-杨弘义	Yang Hongyi
 天骄	prodigy
-皇甫灵	Huangfu Ling
-吴存	Wu Cun
-邵俊人	Shao Junren
-时光流逝	Time Lapse
-蛇息	Serpent Breath
-王级	King Tier
-源兽	Source Beast
-仙王成道石	Celestial King Achieving Dao stone
 祖鹏	Ancestor Roc
-广隆天	Wide Prosperity Heaven
-石修文	Shi Xiuwen
-泰安天	Calm Peace Heaven
-远南天	Far West Heaven
-烈焰雷击木	Fiery Flame Lightning Strike Wood
-血影虫	Blood Shadow Insects
-三花谷	Three Blooms Valley
-彭化年	Peng Huanian
-诸丰	Zhu Feng
-五炼	Fifth Refinement
-四师叔	Fourth Uncle
-丰源丹	Abundant Origin Pills
-关化城	Guanhua City
-流梭	water shuttle
-普云仙王	Universal Clouds Celestial King
-普云教	Universal Clouds Sect
-晏伟	Yan Wei
-莫霜	Mo Shuang
-杨嘉	Yang Jia
-地灵天泉	Earth Spirit Heavenly Spring Water
-固魂丹	Soul Strengthening Pill
-柳杰	Liu Jie
-桂德水	Gui Deshui
-诸子军	Zhu Zijun
-诸少	Young Master Zhu
-诸少军	Zhu Zijun	Author made a typo
-冉飞	Ran fei
-石永	Shi Yong
 徒孙	grand-disciple
 莫家	Mo Clan
-莫老七	Brother Mo
-卢浩名	Lu Haoming
-杜绣云	Du Xiuyun
-啄天功	Heaven Peck Technique
-天惊	Breakthrough
-诸丰大师	Grandmaster Zhu Feng
 青胎丹	Azure Origin Pill
 品鉴	appraise
 诸家	Zhu Clan
@@ -7772,3 +7729,4 @@ F凌寒	Ling Han
 梁姓	Liang Rensi	The name of the 梁姓老人 has already been revealed to be 梁任思, but as usual, author being a retard with names
 老瞎子	blind old man
 走马灯	Fleeting Glance Picture Scroll
+剑仙	Sword Immortal	name of pseudo-celestial immortal sword
