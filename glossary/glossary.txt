@@ -2624,44 +2624,8 @@
 东渐学院	Eastern Progressive Academy
 天尊劫	Heavenly Venerate Tribulation
 劫	tribulation
-千院大比	Thousand Academy Tournament
-碧龙草	Jade Dragon Herb
-天地之力	power of heaven and earth
-超级帝星	supreme monarch stars
 体力	physical power
-日落山脉	Sunset Mountains
-玄逆大陆	Dark Inverse Realm
-小恐	Little Terror
-恒荒	Desolate Eternity
-天荒山	Divine Desolate Mountain
-四荒云	Sihuang Yun
-风海峦	Feng Hailuan
-紫霜	Zi Shuang
-织空	Zhi Kong
-纳华	Nahua
-金云山	Golden Clouds Mountain
 黄泉	Underworld
-了空	Liao Kong
-化剑峰	Sword Manifestation Peak
-无乐天尊	Heavenly Venerate Wu Le
-二步天尊	Second Tier Heavenly Venerate
-九五大帝剑	Jiuwu Great Imperial Sword
-万龙天凤铃	Ten Thousand Dragon Heavenly Phoenix Bells
-孔令其	Kong Lingqi
-孔祥	Kong Xiang
-九蛇岛	Nine Snake Island
-三云城	Three Cloud City
-孔业	Kong Ye
-孔安	Kong An
-绿歌仙剑	Green Song Divine Sword
-天尊宝器	Heavenly Venerate Tool
-七华天	Seven Majestic Heaven
-烈焰天	Scorching Flames Heaven
-防御指数	Defense Index
-九全	Jiu Quan
-九美	Jiu Mei
-黑风寨	Black Wind Faction
-红果城	Red Fruit City
 人贩	human trafficker
 宝库	treasure chamber
 孔家老祖	ancestor of the Kong Clan
@@ -5880,7 +5844,6 @@ Qiu Jian	求剑
 顽劣	mischievous
 顽劣	stubborn
 陶罐	clay pot
-泥鳅	loach
 院子	courtyard
 外乡人	outsider
 厉色	stern
@@ -7712,3 +7675,4 @@ F凌寒	Ling Han
 大祭酒	mountain master
 舵主	division leader
 文灵	scholarly spirit
+泥鳅	catfish
