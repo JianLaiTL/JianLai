@@ -1521,27 +1521,10 @@
 青鸾	Azure Phoenix
 黑金魔鹰爪	Black Gold Demonic Eagle Claw
 祖器	ancestral weapon
-韩风	Han Feng
-上官巧	Shangguan Qiao
-惜花宫主	Palace Leader Xi Hua
 小主	Little Master
-乱魔宫	Chaotic Demon Palace
-铁无涯	Tie Wuya
-追星步	Star Plucking Step	author made a typo when introducing the technique, so it's actually plucking
 月影	Yue Ying
 北皇	North Emperor
 石皇	Stone Emperor
-杨林	Yang Lin
-云女	Cloud Maiden
-拓拔东	Tuoba Dong
-谈葛	Dan Ge
-拓跋东	Tuoba Dong
-小青	Little Qing
-九河上人	Nine River Venerate
-千峰帝朝	Thousand Peak Imperial Empire
-容涛	Rong Tao
-左全	Zuo Quan
-圣料	Saintly Material
 峡谷	canyon
 凤血真金	Phoenix Blood True Gold
 梦回木	Returning Dream Wood
@@ -7728,3 +7711,4 @@ F凌寒	Ling Han
 脉络障	sequence disorder	some random asspull
 大祭酒	mountain master
 舵主	division leader
+文灵	scholarly spirit
