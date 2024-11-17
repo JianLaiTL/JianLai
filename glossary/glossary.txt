@@ -1737,14 +1737,9 @@
 切磋	spar
 阵纹	formation patterns
 刻	inscribe
-小黑	Little Black
-任非云	Ren Feiyun
 八分院	eighth campus
 巨头	big shot
 圣谕	Saintly Decree
-蔡淼	Cai Miao
-奇天	Qi Tian
-余素素	Yu Susu
 阴阳五行阵	Yinyang Five Element Formation
 大衍丹	Great Amplification Pill
 贾亮	Jia Liang
