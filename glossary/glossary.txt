@@ -5519,64 +5519,14 @@ Qiu Jian	求剑
 宫城	palatial complex
 内城	inner city
 外城	outer city
-缇德	Teedus Academy
-山阴石	Yin Mountain Stone
-雅菲帝国	Effer Kingdom
-皇家骑士团	Imperial Cavalry Brigade
-宫廷法师团	Court Magician Council
-曜夜石	Nightglow Stone
-凯巴	Kaiba
-莱梧	Larwood
-宸朱	Chase
-隽云	Gwen
-瞬发魔法	instant-release spells
-《时空法则》	"Laws of Time and Space"
-枕剑会	Pillow Sword Tournament
-紫荆阁	Redbud Pavilion
-魔法盾	magic shield
-特拉勒底山脉	Terarody Mountain Ranges
-雷萨亲王	Prince Lazaar
-攻防课	offense and defense class
-光正教	True Light Church
-咒术魔法的起源	"The Origins of Arcane Spells"
-旧河	Old River Restaurant
-希律主教	Archbishop Sirius
-庭霄帝国	Skycourt Kingdom
-墨焰	Black Blaze
-裂空	space split technique
-选手看台	contestant's spectating platform
-曜影剑阵	Shadowgleam Sword Array
-乔芷	Georgina
-论魔法的最终伤害	"A Discussion on the Ultimate Damage of Magic"
-鹘嘴蜥蜴	Falcon Beak Lizards
-天星	Heavenly Star mercenary legion
-四方	Four Winds mercenary legion
-狼月	Wolf Moon mercenary legion
-庭霄	Skycourt Kingdom
-精神世界	psychic world
-当铺	pawn shop
-沙腾市	Sandrise City
 召唤	invoke
 地狱犬	Hellhound
 木乃伊	Mummy
 恶魔	anomaly
 精神体	psychic body
-山本正雄	Masao Yamamoto
-雷诺	Layton Academy
-金熙照	Kim Hee-cho
 灵觉	telegnosis
 畸变者	psychic mutant
-杀杀狂魔	Lean Mean Killing Machine
 八岐大蛇	Yamata no Orochi
-百鬼	Hyakki Yagyou
-蛇巫	Hebi no Miko
-尼德霍格	Níðhöggr
-学舟	Ark Learning Children's Fund
-秦夜	Qin Ye
-灵灾	supernatural disaster
-织田信长	Oda Nobunaga
-织田信忠	Oda Nobutada
-归天蛊铠甲	armaments forged from the carapace of blight vermin
 鬼民	netherworldly citizens
 离镜宫	Reflection Palace
 阴差	Hellguards
@@ -7032,7 +6982,6 @@ Qiu Jian	求剑
 老赵	Old Zhao
 峥嵘湖	Extraordinary Lake
 刘柔玺	Liu Rouxi
-元君	Primordial Lord
 韩万斩	Han Wanzhan
 金身	Vajra Body	for seventh tier martial artists
 影壁	spirit wall
@@ -7693,3 +7642,6 @@ F凌寒	Ling Han
 黄楮	Huang Chu	sect master of Purple Sun Residence
 雪茫堂	Vast Snow Hall
 文妖	scholastic parasite	not sure if apt, but best I could come up with
+陈公子	Young Master Chen
+老蛟垂涎酒	Old Flood Dragon Yearning Wine
+萧鸾	Xiao Luan	river goddess of the White Swan River
