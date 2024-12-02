@@ -5762,7 +5762,6 @@ Qiu Jian	求剑
 陆道长	Daoist Lu
 铁匠	blacksmith
 东宝瓶洲	Eastern Treasured Vial Continent
-三教	three teachings
 教义	doctrine
 道行	Dao foundation
 陆道人	Daoist Lu
@@ -7645,3 +7644,4 @@ F凌寒	Ling Han
 陈公子	Young Master Chen
 老蛟垂涎酒	Old Flood Dragon Yearning Wine
 萧鸾	Xiao Luan	river goddess of the White Swan River
+三教	Three Teachings
