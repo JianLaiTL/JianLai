@@ -5382,7 +5382,6 @@ Qiu Jian	求剑
 噗	pffft
 好歹	in any case, at any rate, anyhow
 呜	waah
-符箓	talisman, charm, ward
 踪迹	track, trail, trace
 嘶哑	hoarse, husky, coarse
 猝不及防	taken by surprise, caught off guard, without warning
@@ -7645,3 +7644,4 @@ F凌寒	Ling Han
 老蛟垂涎酒	Old Flood Dragon Yearning Wine
 萧鸾	Xiao Luan	river goddess of the White Swan River
 三教	Three Teachings
+符箓	ward
