@@ -6187,7 +6187,6 @@ Qiu Jian	求剑
 猛字楼	The Badass Building
 李柳	Li Liu
 藩王	feudal lord
-阴神	Yin god
 龙须溪	Dragon Whisker Creek
 云上琅琅书	Recite Atop Clouds Scripture
 祥符	Auspicious Talisman	the saber's name
@@ -7645,3 +7644,4 @@ F凌寒	Ling Han
 萧鸾	Xiao Luan	river goddess of the White Swan River
 三教	Three Teachings
 符箓	ward
+阴神	yin god
