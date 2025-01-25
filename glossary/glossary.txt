@@ -7682,3 +7682,6 @@ F凌寒	Ling Han
 水殿	Water Palace
 横波府	Hengbo Residence
 谭元仪	Tan Yuanyi
+朱弦府	Vermilion Chord Residence
+青冢岛	Azure Mound Island
+天姥	Heavenly Governess Island
