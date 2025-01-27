@@ -7691,3 +7691,6 @@ F凌寒	Ling Han
 素鳞岛	White Fish Island
 钓鱼房	Fishing Room	cultivators here are similar to sticky rod officials
 诰命夫人	noble lady
+陈先生	Mr. Chen
+上柱国姓氏	pillar clan
+文官	scholarly officials
