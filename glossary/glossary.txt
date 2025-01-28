@@ -7694,3 +7694,6 @@ F凌寒	Ling Han
 陈先生	Mr. Chen
 上柱国姓氏	pillar clan
 文官	scholarly officials
+苏高山	Su Gaoshan
+巡狩	military governor
+曹枰	Cao Ping
