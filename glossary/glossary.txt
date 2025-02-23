@@ -7738,7 +7738,6 @@ F凌寒	Ling Han
 槊	lance
 秋分	autumnal equinox
 殿下	Your Highness
-曾先生	Mr. Zeng
 狐皮美人	Fox Skin Beauties
 韩靖信	Han Jingxin
 许将军	General Xu
@@ -7747,3 +7746,4 @@ F凌寒	Ling Han
 碧游水神宫	Green Roving Divine Water Palace
 莲花堂	Lotus Flower Hall
 许茂	Xu Mao
+传讯飞剑	messenger flying sword
