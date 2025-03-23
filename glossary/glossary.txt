@@ -7411,7 +7411,6 @@ F凌寒	Ling Han
 青虎宫	Azure Tiger Palace
 女仙梳妆台	Immortal Maiden Dresser
 丹梯	Cinnabar Staircase
-青羊宫	Green Goat Palace
 杜含灵	Du Hanling	temple master of golden summit daoist temple
 仙子梳妆台	Immortal Maiden Dresser
 陆雍	Lu Yong
@@ -7765,3 +7764,4 @@ F凌寒	Ling Han
 铁骑	heavy cavalry
 旌州	Banner State City
 龙蟠山	Coiling Dragon Mountain
+李芙蕖	Li Fuqu
