@@ -7767,3 +7767,5 @@ F凌寒	Ling Han
 李芙蕖	Li Fuqu
 渡口	dock
 宗人府	Imperial Clan Court
+草头铺子	Burclover shop
+压岁铺子	pastry shop
