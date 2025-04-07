@@ -1,3 +1,4 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
 凌寒	Ling Han
 巅峰	peak
 不灭天经	Undying Heavenly Scripture
@@ -7771,3 +7772,16 @@ F凌寒	Ling Han
 压岁铺子	pastry shop
 崔诚	Cui Cheng
 岑鸳机	Cen Yuanji
+问心局	trial of self-refletion
+绿桐城	Green Parasol City
+关氏老爷子	Guan Clan patriarch
+意迟巷	Yichi Alley
+篪儿街	Chi'er Street
+关翳然	Guan Yiran
+梅釉国	Plum Glaze Nation
+周峰麓	Zhou Fenglu
+李芙蕖	Li Fuqu
+千壑国	Thousand Gorge Nation
+福荫洞	Cave of Blessings
+武运馈赠	martial fortune bequethment
+石灵山	Shi Lingshan
