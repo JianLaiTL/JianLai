@@ -6381,7 +6381,6 @@ Qiu Jian	求剑
 阴阳家	Naturalist
 灵官	Daoist enforcer	Daoist position
 酒儿	Jiu'er	blind old Daoist priest's disciple
-小跛子	little lame lad	blind old Daoist priest's disciple
 国子监	imperial academy
 徐莹震	Xu Yingzhen	name of blind old Daoist priest Chen Ping'an and others encountered during their journey to the Great Sui Nation
 玄谷子	Xuan Guzi	Dao title of blind old Daoist priest
@@ -7793,3 +7792,4 @@ F凌寒	Ling Han
 陈暖树	Chen Nuanshu	little girl in pink's other name (given by cpa)
 目盲老道	Xuan Guzi	his Dao title
 目盲道人	Xuan Guzi	Dao title of blind old daoist priest
+小跛子	lame young man	blind old Daoist priest's disciple
