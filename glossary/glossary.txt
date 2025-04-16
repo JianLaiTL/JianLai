@@ -7801,3 +7801,6 @@ F凌寒	Ling Han
 竹楼老人	Cui Cheng
 吕云岱	Lü Yundai
 吕听蕉	Lü Tingjiao
+马听蕉	Lü Tingjiao	author typo
+坐桩	sitting meditation
+尸坐	Corpse Sitting
