@@ -1,3 +1,4 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
 凌寒	Ling Han
 巅峰	peak
 不灭天经	Undying Heavenly Scripture
@@ -7805,3 +7806,8 @@ F凌寒	Ling Han
 坐桩	sitting meditation
 尸坐	Corpse Sitting
 尸坐	sitting meditation
+朱砂山	Cinnabar Mountain
+螯鱼背	Ao Back Ridge
+拜剑台	Sword Worship Plateau
+蔚霞峰	Exuberant Dawn Peak
+灰蒙山	Gray Veil Mountain
