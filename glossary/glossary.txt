@@ -1039,10 +1039,6 @@
 铸剑山庄	Swordforge Manor
 地心岛	Earth's Core Island
 傀儡师	puppeteer
-董玉龙	Tong Yulong
-郭修文	Guo Xiuwen
-崔德	Cui De
-步正云	Bu Zhengyun
 占卜师	diviner
 星象师	astrologer
 神雾	Divine Mist
@@ -1120,15 +1116,9 @@
 怒江	furious river
 飞梭	shuttle
 宝甲	treasured armor
-孔成和	Kong Chenghe
-古天初	Gu Tianchu
-南门扬	Nanmen Yang
 姐姐大人	Big Sister
 碧落皇	Jade Drop Emperor
-瞿秋雪	Qu Qiuxue
-残夜	Can Ye
 雨皇	Rain Emperor
-慕容青	Murong Qing
 凌少	Young Master Ling
 精神	spirit
 师伯	uncle
@@ -1163,14 +1153,8 @@
 质变	qualitative change
 大星	great star
 凛天宗	Majestic Heaven Sect
-沈中城	Shen Zhong Chen
-闻一剑	Wen Yi Jian
 广元	Guang Yuan
-朱无久	Zhu Wu Jiu
-元承和	Yuan Cheng He
 丹师协会	Alchemist Society
-林香芹	Lin Xiang Qin
-闻人芊芊	Wenren Qian Qian
 四弟	Fourth Brother
 岳震山	Yue Zhen Shan
 凛天宗	Majestic Heaven Sect
@@ -1181,8 +1165,6 @@
 祖血	ancestral bloodline
 大圆满部	Consummate Level Division
 敕封	appoint
-杨霜	Yang Shuang
-唐九	Tang Jiu
 星系	galaxy
 星域	universe
 星船	starship
@@ -2008,22 +1990,11 @@
 霹雳兽	Thunder Beast
 十兽术	Ten Beasts Technique
 万鬼铃	Bell of Ten Thousand Ghosts
-韩鸿飞	Han Hongfei
 药园	Medicinal Garden
-七命天云	Seven Lives Divine Clouds
-鹿爷	Grandpa Deer
-离天城	Heaven Departing City
-恨别城	Separation Reluctance City
-大王城	Great King City
-小王城	Minor King City
-离恨城	Separation Resentment City
-严老	Elder Yan
-司徒小真	Situ Xiaozhen
 傅兄	Brother Fu
 天龙学宫	Heavenly Dragon Academy
 准仙金	Pseudo Divine Metal
 黑玉手	Black Jade Hand
-傅正同	Fu Zhengtong
 走狗	lackey
 仙浴池	Celestial Bath Pool
 灭仙绝	Ultimate Celestial Elimination
@@ -7820,3 +7791,4 @@ F凌寒	Ling Han
 柳倩	Liu Qian
 地龙山	Earth Dragon Mountain
 剑侍	sword attendant
+神仙钱	immortal coins
