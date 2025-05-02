@@ -1,3 +1,4 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
 凌寒	Ling Han
 巅峰	peak
 不灭天经	Undying Heavenly Scripture
@@ -7795,3 +7796,10 @@ F凌寒	Ling Han
 马录	Ma Lu
 青松郡	Green Pine Prefecture
 楚越意	Chu Yueyi
+阵图	formation blueprints
+猿形	Ape Form	fist stance invented by Zhu Lian
+老人	Cui Cheng	for convenience
+嘉泽街	Fine Luster Street
+西岳	Western Mountain
+甘州山	Ganzhou Mountain
+碛山	Moraine Mountain
