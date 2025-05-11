@@ -551,101 +551,6 @@
 翼双双	Yi Shuangshuang
 九龙霸体术	Nine Dragons Tyrant Body Art
 灭龙星辰箭	Annihilating Dragon Star Arrow
-绝刀	Absolute Saber
-徐修然	Xu Xiuran
-冬灵儿	Dong Linger
-剑帝	Sword Emperor
-落日刀皇	Setting Sun Saber Emperor
-天凤神女	Heavenly Phoenix Divine Maiden
-凌见雪	Ling Jianxue
-涌泉境	Gushing Spring Tier
-天凤神女	Heavenly Phoenix Divine Maiden
-鬼龙窟	Ghostly Dragon Cave
-真龙血石	True Dragon's Blood Stone
-龙威	dragon's might
-亚龙	alternative dragon
-天星王	Heavenly Astral King
-天剑宗	Heaven's Sword Sect
-铸器师	Weaponsmiths
-沉香谷	Sunken Fragrance Valley
-生命禁区	Life-Restricted Area
-血蠕虫	Bloodworm
-鬼龙窟	Ghost Dragon Cave
-八荒阿鼻剑法	Desolate Hell Sword Technique
-山河斧	Mountain and River Axe
-魔生剑	Demon Birth Sword
-死灵之花	Flower of Dead Souls
-血槐树	Blood Locust Tree
-鲜于彩	Xianyu Cai
-柳章族	Willow Octopus Race
-真龙血石	True Dragon's Bloodstone
-赫连天云	Helian Tianyun
-锁天大阵	Sky Sealing Great Formation
-凌见雪	Ling Jianxue
-聚元境	Element Gathering Tier
-祖龙	Ancestor Dragon
-地龙宗	Earth Dragon Sect
-妖蛇王	Demon Serpent King
-天凤神女	Heavenly Phoenix Divine Maiden
-龙威	dragon's might
-亚龙	alternative dragon
-天剑宗	Heaven's Sword Sect
-铸器师	Weaponsmiths
-沉香谷	Sunken Fragrance Valley
-生命禁区	Life-Restricted Area
-血蠕虫	Bloodworm
-鬼龙窟	Ghost Dragon Cave
-八荒阿鼻剑法	Desolate Hell Sword Technique
-山河斧	Mountain and River Axe
-魔生剑	Demon Birth Sword
-死灵之花	Flower of Dead Souls
-血槐树	Blood Locust Tree
-鲜于彩	Xianyu Cai
-柳章族	Willow Octopus Race
-真龙血石	True Dragon's Bloodstone
-赫连天云	Helian Tianyun
-锁天大阵	Sky Sealing Great Formation
-凌见雪	Ling Jianxue
-聚元境	Element Gathering Tier
-祖龙	Ancestor Dragon
-地龙宗	Earth Dragon Sect
-妖蛇王	Demon Serpent King
-修罗魔帝	Asura Demon Emperor
-混沌源石	Chaos Source Rock
-马多宝	Ma Duo Bao
-寒锋会	Cold Spear Association
-寒城	Cold City
-宙光城	Eternal Light City
-封宜修	Feng Yixiu
-陈瑞靖	Chen Ruijing
-云永望	Yun Yongwang
-康修元	Kang Xiuyuan
-江跃枫	Jiang Yuefeng
-青凤神后	Blue Phoenix Divine Empress
-义山王	Justice Mountain King
-火焰王	Flame King
-金浑王	Pure Golden King
-天星王	Heavenly Astral King
-大水王	Great Water King
-通阳王	Clear Solar King
-昌平王	Opulent Peace King
-九幽王	Ninth Underworld King
-卓奇方	Zhuo Qifang
-星辰境	Heavenly Body Tier
-恒河境	Eternal River Tier
-山河境	Mountain River Tier
-天道之眼	Eye of Heavenly Dao
-萧妙颜	Xiao Miaoyan
-关阳	Guan Yang
-极阳术	Extrreme Yang Technique
-混沌	Primal Chaos
-三生尸棺	Three Lives Corpse Casket
-护教法王	Protector Technique King
-伍高原	Wu Gaoyuan
-风破云	Feng Po Yun
-灵婴境	Spiritual Infant Tier
-敖剑	Ao Jian
-九彩大悲枪	Nine Colours Great Grief Spea
 枪扫佛径	Spear Sweeps Seeming Tracks
 丁平	Ding Ping
 赤日宗	Crimson Sun Sect
@@ -7818,3 +7723,4 @@ F凌寒	Ling Han
 宝盖	Treasured Top
 仙杖	Immortal Cane
 鬼蜮谷	Malicious Ghost Valley
+掣电	Flash	one of the female heavenly officials from Mural City
