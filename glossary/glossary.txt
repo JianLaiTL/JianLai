@@ -3619,7 +3619,6 @@ Qiu Jian	求剑
 炼虚	Void Refinement
 合体	Fusion
 大乘	Mahayana
-天尊	Heavenly Venerate
 上仙	Exalted Immortal
 仙王	Immortal King
 仙君	Immortal Monarch
@@ -3680,11 +3679,6 @@ Qiu Jian	求剑
 鸳鸯飞剑	Lovers' Swords
 黑洞	black hole
 如来	Gautama
-元始道祖	Primordial Beginning Dao Ancestor
-太上道祖	Grand Supreme Dao Ancestor
-灵宝天尊	Heavenly Lord of Numinous Treasure
-元始天尊	Heavenly Lord of Primordial Beginning
-道德天尊	Heavenly Lord of the Dao and its Virtue
 三清	Three Pure Ones
 道人	Daoist
 大世界	Great World
@@ -4943,8 +4937,6 @@ Qiu Jian	求剑
 面目全非	beyond recognition
 悲愤	grief and indignation
 义气	loyal, faithful
-激将法	tauting, goading, prodding
-有一套	savvy, have a skill, know how to do
 好胆	what audacity, have the guts
 迄今为止	so far, up to now
 压迫	oppress, repress, constrict
@@ -7695,3 +7687,8 @@ F凌寒	Ling Han
 喧嚣	commotion
 仙人	immortal
 修仙	cultivate
+挂砚	Hanging Inkstone
+挂砚神女	Hanging Inkstone Divine Maiden
+行雨	Rain Bringer
+骑鹿	Deer Rider
+行雨神女	Rain Bringer Divine Maiden
