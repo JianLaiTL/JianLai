@@ -2341,29 +2341,7 @@
 松露晶石	Truffle Crystal
 地魂山	Earth Soul Mountain
 天魂池	Heaven Soul Pool
-扶云长老	Elder Fuyun
-三河长老	Elder Sanhe
-大日天王镜	Great Sun Heavenly King Mirror
-大日天王境	Great Sun Heavenly King Mirror
-镜像空间	Mirror Space
-镜像分身	Mirror Doppelgangers
-吴恒	Wu Heng
-灵岳仙王	Spiritual Mountain Celestial King
-四海城	Four Seas City
-安然	An Ran
-林宣	Lin Xuan
-陈管事	Manager Chen
-付河	Fu He
-广化天	Wide Change Heaven
-上古	Ancient Age
-上古	Ancient Age	Referring to ten epochs
-远古	Primitive Age	Referring to a hundred epochs
-血虫	Blood Insect
 里	0.5 km	Chinese mile, in metric terms
-程奕峰	Cheng Yifeng
-凌月言	Ling Yueyan
-凌家	Ling Clan
-凌东行	Ling Dongxing
 井家	Jing Clan
 龙宇殿	Dragon Universe Palace
 桃花源	Peach Blossom Origins
@@ -3737,13 +3715,10 @@ Qiu Jian	求剑
 肉身成圣	Physical Establishing Sage
 神隐术	Divine Concealment Spell
 仙府	immortal abode
-百花	Centaurea
-药师	Apothecary
 天帝	Celestial Thearch
 太初	Grand Primordium
 仙人	Immortal
 安林	An Lin
-喧嚣	Commotion
 凶煞	Demonic, Fiendish
 蒙	bewildered
 懵逼	stupefied
@@ -3756,21 +3731,11 @@ Qiu Jian	求剑
 小伙子	young lad
 宏大壮阔	grand and magnificent
 道袍	Daoist robes
-太初大陆	Tai Chu Continent
-天冥道体质	Tian Ming Physique
 仙人	Immortal
-仙女	Fairy
-修仙	Cultivate
-修仙联合大学	The United University of Cultivation
-战神系统	God of War System
-天冥道体质	Tian Ming Dao Physique
 龙傲天	Long Aotian （i.e. Mary Sue）
 酸爽	refreshing (sarcasm), indescribable emotion
 残忍	cruel
-铁棒	staff, iron club
-颤抖	shake, shiver, tremble
 目瞪口呆	dumbstruck
-咆哮	roar, scream, howl
 恐惧	fear
 禁不住	uncontrolled
 壮汉	brawny man
@@ -7726,3 +7691,7 @@ F凌寒	Ling Han
 掣电	Flash	one of the female heavenly officials from Mural City
 庞兰溪	Pang Lanxi
 流霞舟	flowing iridescent boat
+上古	primordial
+喧嚣	commotion
+仙人	immortal
+修仙	cultivate
