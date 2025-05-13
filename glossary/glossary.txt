@@ -7692,3 +7692,5 @@ F凌寒	Ling Han
 行雨	Rain Bringer
 骑鹿	Deer Rider
 行雨神女	Rain Bringer Divine Maiden
+仙宫秘境	Immortal Palace Mystical Realm
+虢池仙师	Esteemed Immortal Guochi
