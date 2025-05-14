@@ -7694,3 +7694,6 @@ F凌寒	Ling Han
 行雨神女	Rain Bringer Divine Maiden
 仙宫秘境	Immortal Palace Mystical Realm
 虢池仙师	Esteemed Immortal Guochi
+泉儿	Quan'er
+骑鹿神女	Deer Rider Divine Maiden
+白骨京观城	Skeleton Wall City
