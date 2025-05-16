@@ -7682,7 +7682,6 @@ F凌寒	Ling Han
 鬼蜮谷	Malicious Ghost Valley
 掣电	Flash	one of the female heavenly officials from Mural City
 庞兰溪	Pang Lanxi
-流霞舟	flowing iridescent boat
 上古	primordial
 喧嚣	commotion
 仙人	immortal
@@ -7700,3 +7699,8 @@ F凌寒	Ling Han
 奈何关	Helpless Pass
 放心集	Be At Ease Compilation
 三郎庙	Third Son Temple
+流霞舟	Flowing Iridescent Boat
+阴沉茶	gloomy tea
+杨麟	Yang Lin
+贺宗主	Sect Leader He
+京观城	Skeleton Wall City
