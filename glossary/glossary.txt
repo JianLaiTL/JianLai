@@ -1992,20 +1992,6 @@
 天尊	Heavenly Venerate	someone at the Heavenly Venerable Tier
 灵妙	Ling Miao
 偷袭	sneak attack
-赤龙甲	Blood Dragon Armor
-千赵家	Qianzhao Clan
-万剑诀	Myriad Sword Technique
-天道源石	Heavenly Dao Source Rock
-天道玉	Heavenly Dao Jade
-紫云家	Ziyun Clan
-皇者	emperor tier
-筑基玉	Foundation Jade
-补缺玉	Remedy Jade
-咕噜噜族	Gururu Tribe
-谭卫	Tan Wei
-山宝	Mountain Treasure
-神圣武器	Sacred Weapon
-矮人	dwarves
 战舰	battleship
 大人	Lord
 太上长老	grand elder
@@ -7714,3 +7700,5 @@ F凌寒	Ling Han
 乌鸦岭	Crow Peak
 蒲禳	Pu Rang
 拙荆	Zhuo Jing
+宝镜山	Treasure Mirror Mountain
+拘魂涧	Soul Restraining Stream
