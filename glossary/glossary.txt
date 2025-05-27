@@ -7684,7 +7684,6 @@ F凌寒	Ling Han
 白骨京观城	Skeleton Wall City
 奈何关	Helpless Pass
 放心集	Be At Ease Compilation
-三郎庙	Third Son Temple
 流霞舟	Flowing Iridescent Boat
 阴沉茶	gloomy tea
 杨麟	Yang Lin
@@ -7718,3 +7717,4 @@ F凌寒	Ling Han
 撵山犬	mountain-chasing dog
 杜文思	Du Wensi
 袁宣	Yuan Xuan
+三郎庙	Three Official Attendant Temple
