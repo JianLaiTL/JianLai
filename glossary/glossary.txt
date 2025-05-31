@@ -2767,15 +2767,6 @@
 异彩	iridescent light
 玄莫位面	Profound Negative Realm
 武晶位面	Martial Crystalline Realm
-安家	An Clan
-安踏云	An Tayun
-许都位面	Promise City Realm
-凌非凡	Ling Feifan
-安平海	An Pinghai
-安平天	An Pingtian
-安秀儿	An Xiu'er
-杨玄龙	Yang Xuanlong
-杨至河	Yang Zhihe
 天尊术	Heavenly Venerate Technique
 祖河天尊	Ancestral River Heavenly Venerate
 四夜至尊	Four Nights Heavenly Venerate
@@ -7722,3 +7713,6 @@ F凌寒	Ling Han
 捉妖仙人	Demon-Hunting Immortal
 避暑娘娘	Lady Bishu
 铜臭城	Copper Stench City
+砥砺山	Temper Mountain
+三山镜	Three Mountain Mirror
+刘景龙	Liu Jinglong
