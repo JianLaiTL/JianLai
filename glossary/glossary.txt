@@ -7739,3 +7739,6 @@ F凌寒	Ling Han
 蒋曲河	Jiang Qujiang
 碧霄府符	Jade Heaven Residence Talisman
 玉清光明符	Pure Jade Illumination Talisman
+云霄斩勘符	Cloud Slashing Fiend Talisman
+斩勘符	Cloud Slashing Fiend Talisman
+大源王朝	Great Origin Empire
