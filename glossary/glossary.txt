@@ -1746,38 +1746,9 @@
 神性精华	divine essence
 分身	doppelgangers
 激起	spur
-凤王	Phoenix King
-重野	Zhong Ye
-灭世雷霆	Extermination Lightning
-电闪	Lightning Flash
 三叉戟	three-pronged halberd
-杨铭	Yang Ming
-童家	Tong Clan
-小骨	Xiao Gu
-死人菇	Death Mushroom
-圣王药	Saint King medicine
-闪击	Lightning Flash
-毁灭者	Destroyer
-魂力	Spiritual Power
-先天通灵果	Natural Psychic Fruit
-庞真	Pang Zhen
-东仙域	Eastern Celestial Realm
-西仙域	Western Celestial Realm
-星石	Star Stones
-一星城	One Star City
-苍月军	Dark Moon Army
-黑月教	Black Moon Sect
-傅家	Fu Clan
-丁啸尘	Ding Xiaochen
-一星资质	One Star aptitude
-二星资质	Two Star aptitude
-冒书玉	Mao Shuyu
-冒代	Mao Dai
 资质	aptitude
 屠康	Tu Kang
-屠教官	Instructor Tu
-血影狼	Blood Shadow Wolf
-佛心茯苓	Buddha Heart Fungus
 副统领	Vice Commander
 段家	Duan Clan
 青龙军	Azure Dragon Army
