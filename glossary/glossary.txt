@@ -1527,65 +1527,10 @@
 大星域	large galaxy
 小星域	small galaxy
 仙子	celestial maiden
-朱悦	Zhu Yue
-超级王者	supreme king tier
-天凤	Heavenly Phoenix	i.e. Heavenly Phoenix Divine Maiden
-五阶王者	rank five king tier
-拳魔	Fists Demon
-王者杀手	King Tier Assassin
-返祖	awaken
-沉渊谷	Sunken Abyss Valley
 二哥	Second Brother
-紫晨风	Zi Chenfeng
-龙香月	Long Xiangyue
-天下第二	Second in the World
-龙香月	Long Xiangyue
-浮石	floating rock
-聂天成	Nie Tiancheng
-聂兄	Brother Nie
-飞雨圣人	Flying Rain Saint
-单经义	Shan Jingyi
-单兄	Brother Shan
-六山圣人	Six Mountains Saint
-圣果	Saint Fruit
-准圣器	Pseudo-Saint Tool
-六元山	Six Elements Mountains
-紫辰风	Zi Chenfeng
-程小凡	Cheng Xiaofan
-血神指	God of Blood Finger
-天意刀	Heaven's Will Saber
 龙族	Dragon Tribe
-洪麻	Hong Ma
-朝天棍	Skyward Staff
-飞花剑	Flying Flower Sword
-仙级	Celestial level
-老祖	grand elder	depending on context (used for Severing Mundane Tier)
-胡宇	Hu Yu
 胡家	Hu Clan
-九天火	Nine Heavens Flame
-苍月城	Dark Moon City
-本源之火	origin flame
-九大祖火	Nine Great Ancestral Flames
 祖火	ancestral flame
-本命之火	source flame
-太阳石	Sun Stone
-真子	True Son
-真女	True Daughter
-大衍功	Great Evolution Technique
-极夜之暗	Darkness of the Paramount Night
-苍雨洗尘剑	Sword of Mundane Washing Rain
-悲冥元龙破	Dark Grief Origin Dragon Destruction
-岁月如歌	Song of the Ages
-道光	Light of Dao
-百鬼遮天	A Hundred Ghosts Cloud Heavens
-九风腿	Nine Winds Kick
-太阳体	Sun Physique
-光耀天下	Dazzle the Heavens
-万古最天骄	the greatest prodigy of all eternity
-幼火	young flame
-铁裤衩	iron underwear
-铁内裤	iron underwear
-十世神通	Mystical Power of Ten Lives
 仙光	celestial light
 九青圣人	Nine Azure Saint
 体质	physique
@@ -7724,3 +7669,4 @@ F凌寒	Ling Han
 雕母祖钱	ancestor coin
 春草法袍	Spring Grass Dao Robe
 雪花法袍	Snowflake Dao Robe
+老祖	grand elder
