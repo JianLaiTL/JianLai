@@ -7294,8 +7294,6 @@ F凌寒	Ling Han
 张果	Zhang Guo	temple master of the Golden Osmanthus Temple
 许伯瑞	Xu Borui	daoist priest from the Golden Osmanthus Temple
 白云观	White Cloud Temple
-搬山猿	Mountain-Moving Ape
-搬山老猿	Mountain-Moving Ape
 日夜游神真身符	Day and Night Wandering Deity True Body Talisman
 渡船	immortal ship	if its not intercotinental i guess
 看门人	gatekeeper
@@ -7670,3 +7668,6 @@ F凌寒	Ling Han
 春草法袍	Spring Grass Dao Robe
 雪花法袍	Snowflake Dao Robe
 老祖	grand elder
+搬山猿	mountain-moving ape
+搬山老猿	mountain-moving ape
+撵山狗	mountain-chasing dog
