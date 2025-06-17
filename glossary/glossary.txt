@@ -7671,3 +7671,5 @@ F凌寒	Ling Han
 搬山猿	mountain-moving ape
 搬山老猿	mountain-moving ape
 撵山狗	mountain-chasing dog
+女儿坊	Daughter Market
+金粉坊	Gold Dust Market
