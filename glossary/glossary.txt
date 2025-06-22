@@ -1,3 +1,4 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
 凌寒	Ling Han
 巅峰	peak
 不灭天经	Undying Heavenly Scripture
@@ -7679,3 +7680,31 @@ F凌寒	Ling Han
 唐锦绣	Tang Jinxiu
 唐惊奇	Tang Jingqi
 高承	Gao Cheng
+松烟墨	Pine Smoke Ink
+衣带峰	Robe Sash Peak
+宋园	Song Yuan
+周琼林	Zhou Qionglin
+刘润云	Liu Runyun
+切割和圈定	severance and delineation
+青梅观	Greengage Temple
+南塘湖	Southern Pond Lake
+梦粱国	Blissful Dream Nation
+脉络学	theory of context	a theory from the abbot of the Observing Dao Temple
+事功学	theory of practical ability
+陪都	temporary capital
+流霞洲	Flowing Dawn Continent
+骸骨滩	Skeleton Shoal
+披麻宗	Flax Robe Sect
+春草	Spring Grass
+面皮	facade
+捕头	constable
+元宝	Yuan Bao	Lu Baixiang's female disciple
+元来	Yuan Lai	Lu Baixiang's male disciple
+太后	empress dowager
+妇人	empress dowager	for convenience sake
+金首山神	Gold Head Mountain God
+书山	Book Mountain	Place where Cui Chan keeps all his gathered intelligence
+砥砺山	Temper Mountain
+摇曳河	Swaying River
+壁画城	Mural City
+鬼蜮谷	Evil Spirit Valley
