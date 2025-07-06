@@ -2475,50 +2475,7 @@
 学员	disciple
 仙王丹	Celestial King Pill
 武院	martial academy
-阿牧	A'mu
-残月	Can Yue
-杜十一	Du Shiyi
-九绝阵	Nine Deaths Formation
-楚浩	Chu Hao
-林萧扬	Lin Xiaoyang
-付乐云	Fu Yueyun
-七步天尊	Seventh Tier Heavenly Venerate
-三步	Third Tier
-张三	Zhang San
-万古石	Eternal Stone
-欧阳明	Ouyang Ming
-相亲会	Prospective Partner Ceremony
-安阳山	Peaceful Sun Mountain
-萧英雄	Xiao Yingxiong
-卓凯	Zhuo Kai
-宣英	Xuan Ying
-乱星女神	Goddess Luan Xing
-谷合义	Gu Heyi
-苗化	Miao Hua
-域外战场	Realm Battlefield
-卓兵	Zhuo Bing
-许山	Xu Shan
-陈紫雨	Chen Ziyu
-管东酉	Guan Dongyou
-燕秋云	Yan Qiuyun
-百花谱	Hundred Flowers Scroll
-林幽怜	Lin Youlian
 女神	goddess
-武施	Wu Shi
-赤红明火丹	Crimson Bright Fire Pill
-苦禅	Earnest Meditation
-战力榜	Battle Roll
-刘豪	Liu Hao
-骆阳秋	Luo Yangqiu
-乾古钟	Ancient Bell of Qian
-鱼龙术	Dragon Fish Technique
-柳雨菲	Liu Yufei
-化元归一果	United Origin Manifestation Fruit
-何风仙王	Celestial King He Feng
-何润海	He Runhai
-何风	He Feng
-许还	Xu Huan
-九天星阵	Nine Heavens Stars Formations
 黑驴	black donkey
 不灭仙王体	Indestructible Celestial King Physique
 不灭天尊体	Indestructible Heavenly Venerate Physique
@@ -7729,3 +7686,4 @@ F凌寒	Ling Han
 卯足劲	Mao Zujin
 杜俞	Du Yu
 枷锁将军	shackle and chain general
+驮碑符	Stele Carrying Talisman
