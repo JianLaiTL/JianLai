@@ -3309,9 +3309,6 @@ Qiu Jian	求剑
 峰	peak
 师公	Grandmaster, Martial Grandfather
 师爷	Grandmaster, Martial Grandfather
-师姑	Aunt-Master, Martial Aunt
-师叔	Uncle-Master, Martial Uncle, Aunt-Master, Martial Aunt
-师博	Uncle-Master, Martial Uncle
 师父	Master
 前辈	Senior
 晚辈	Junior
@@ -7687,3 +7684,10 @@ F凌寒	Ling Han
 杜俞	Du Yu
 枷锁将军	shackle and chain general
 驮碑符	Stele Carrying Talisman
+师姑	aunt master
+师叔	uncle master
+师博	uncle master
+黄钺城	Yellow Axe City
+何露	He Lu
+宝峒仙境	Treasure Basin Immortal Realm
+晏清	Yan Qing
