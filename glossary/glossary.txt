@@ -926,8 +926,6 @@
 八分魂	Dividing Eight Souls
 小成	Small Accomplishment	for Ascending Origin Tier
 大成	Great Accomplishment	for Ascending Origin Tier
-九重	Nine Heavens	for Celestial King Tier
-天尊	Heavenly Venerable Tier
 生命指数	Vitality Index
 纪元	epoch
 十二万亿	12 trillion
@@ -1784,13 +1782,6 @@
 斩尘之力	Severing Mundane Power
 齐家	Qi Clan
 母水	Source Water
-死亡窟	Cave of Death
-玄阴母水	Xuanyin Source Water
-万兽仙王	Multitude Beasts Celestial King
-封情殿	Sealed Emotion Palace
-封情天尊	Sealed Emotion Heavenly Venerable
-丁行	Ding Xing
-三界塔	Tower of Three Realms
 穹窿山	Sky Mountains
 宁浩	Ning Hao
 仙丹	Celestial pill
@@ -1905,7 +1896,6 @@
 纸人	paper human
 南宫停	Nangong Ting
 半步	Pseudo
-天尊	Heavenly Venerate	someone at the Heavenly Venerable Tier
 灵妙	Ling Miao
 偷袭	sneak attack
 战舰	battleship
@@ -2371,49 +2361,12 @@
 井中月	Jing Zhongyue
 血戈	Xue Ge
 信标	beacon
-伦英学院	Excellence Order Academy
-罡天学院	Firm Heaven Academy
-三显学院	Three Manifest Academy
-紫扬学院	Purple Flutter Academy
-十叶	Tenth Leaf
-九光学院	Nine Light Academy
-东渐学院	Eastern Progressive Academy
-天尊劫	Heavenly Venerate Tribulation
 劫	tribulation
 体力	physical power
 黄泉	Underworld
 人贩	human trafficker
 宝库	treasure chamber
-孔家老祖	ancestor of the Kong Clan
-位面坐标	dimension coordinate
-超等位面	transcendent dimension
-位面卷轴	Dimension Scroll
-超高等位面	transcendent dimension
 道场	place of enlightenment
-林洛	Lin Luo
-乱天军	Luan Tianjun
-乱桑	Luan Sang
-乱家	Luan Clan
-乱归	Luan Gui
-孔霜	Kong Shuang
-谢阳冰	Xie Yangbing
-钱无意	Qian Wuyi
-石魔王	Rock Demon King
-泰家	Qin Clan
-泰安	Qin An
-天禁	Heaven Forbidden
-苍北王	Blue North King
-苍北城	Blue North City
-仙树	Celestial Tree
-红魔土	Crimson Demonic Earth
-迷雾锁谷	Mist-locked Valley
-沈浩	Shen Hao
-仙体	Celestial Physique
-仙草	Celestial Herb
-御无敌	Yu Wudi
-荣华仙王	Splendor Celestial King
-苍北仙王	Blue North Celestial King
-仙种印记	Celestial Seed Mark
 不死海	Undead Sea
 烙印	mark
 水藤	water vine
@@ -2710,7 +2663,6 @@
 罗同方	Luo Tongfang
 朱雀	Vermillion Bird
 第十一符	Eleventh Seal
-四象天尊	Heavenly Venerate Four Directions
 青龙	Azure Dragon
 万影	Ten Thousand Shadows
 荣新宽	Rong Xinkuan
@@ -2737,26 +2689,15 @@ Qiu Jian	求剑
 应家	Ying Clan
 林盟	Lin Alliance
 符天行	Fu Tianxing
-天尊石	Heavenly Venerable Stone
 远古位面	primitive dimension
 原石	raw stone
 中天城	Culmination City
 原石坊	raw stone lane
 牛不群	Niu Buqun
 赌石	stone gambling
-冷修然	Leng Xiuran
-冷道	Leng Dao
-大云天尊	Great Clouds Heavenly Venerate
 鲍风雨	Bao Fengyu
 玄来大师	Grandmaster Xuanlai
 岳承望	Yue Chengwang
-太北天尊	Highest North Heavenly Venerate
-四面天尊	Four Sides Heavenly Venerate
-六壬天尊	Six Heavens Heavenly Venerate
-苍空天尊	Gray Space Heavenly Venerate
-紫炎天尊	Purple Flames Heavenly Venerate
-断空坊	Sever Void Lane
-火蚕天尊	Fiery Silk Heavenly Venerate
 楼西月	Lou Xiyue
 岳博容	Yue Borong
 周天环	Complete Heavens Ring
@@ -3471,7 +3412,6 @@ Qiu Jian	求剑
 仙君	Immortal Monarch
 仙帝	Immortal Emperor
 成仙	Immortal Ascension
-天劫	Heavenly Tribulation
 道境	Dao Realm
 超脱境	Transcendence
 道源境	Dao Source
@@ -7699,3 +7639,4 @@ F凌寒	Ling Han
 暮寒河	Twilight Cold River
 殷侯	Lake Lord Yin Hou
 叶酣	Ye Han
+天劫	heavenly tribulation
