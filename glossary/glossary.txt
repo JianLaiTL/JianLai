@@ -2325,10 +2325,6 @@
 记忆晶体	memory crystal
 超弦	superstring
 武道体系	cultivation system
-恶魔区	Demon Quarters
-绿原心	Lu Yuanxin
-一叶	First Leaf
-五叶	Fifth Leaf
 碧月潮生剑	Jade Moon Lake Life Sword
 幕帖儿	Mudel
 初	Origin
