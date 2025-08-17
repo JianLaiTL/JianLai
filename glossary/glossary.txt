@@ -7697,3 +7697,4 @@ F凌寒	Ling Han
 竹衣	Bamboo Robe	Sui Jingcheng's Dao robe
 嵇岳	Ji Yue
 猿啼山	Ape Call Mountain
+大篆	Great Seal Script Empire
