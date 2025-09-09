@@ -7693,7 +7693,6 @@ F凌寒	Ling Han
 上上玄玄集	Upper Lofty Mystical Mystery
 灵素清微	Plain Spirit Delicate Purity
 文卿神霄	Literary Minister Divine Heaven
-太霞役鬼	Profound Dawn Ghost Servant
 竹衣	Bamboo Robe	Sui Jingcheng's Dao robe
 嵇岳	Ji Yue
 猿啼山	Ape Call Mountain
@@ -7712,3 +7711,8 @@ F凌寒	Ling Han
 齐景龙	Qi Jinglong	aka Liu Jinglong
 小乘	Hinayana
 清凉宗	Refreshing Sect
+太霞役鬼	Profound Dawn Commanding Ghost
+李妤	Li Yu
+太霞元君	Profound Dawn Primordial Lord
+元君	Primordial Lord
+顾陌	Gu Mo
