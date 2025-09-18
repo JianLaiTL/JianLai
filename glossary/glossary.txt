@@ -7725,3 +7725,5 @@ F凌寒	Ling Han
 指玄	Secret Profound Branch
 紫诏峰	Purple Edict Peak
 翠鸟客栈	Kingfisher Inn
+朝露	Morning Dew
+暮霞	Evening Glow
