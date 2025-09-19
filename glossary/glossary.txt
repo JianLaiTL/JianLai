@@ -5241,18 +5241,9 @@ Qiu Jian	求剑
 万宝池	Myriad Treasure Pond
 河洛九宫八卦图	Nine Palaces Eight Trigrams Diagram
 撼灵堂	Hall of Tremors
-莫长浩	Mo Changhao
-大狱丸	Otakemaru
-叶星辰	Ye Xingchen
 女娲	Nüwa
-后土娘娘	Goddess Earth Mother
-曜变天目碗	Obsidian Heaven’s Eye Bowl
-八尺镜	Yata no Kagami
-齐女	Qi Nü
 轩辕不死印	Yellow Emperor Protector Seal
 伯爵	Count
-蒋秘书	Secretary Jiang
-知更鸟	messgenger bird
 布政使	administrative commisioner
 轩辕剑主	Sword Master Xuanyuan
 地藏	Ksitigarbha
@@ -7727,3 +7718,5 @@ F凌寒	Ling Han
 翠鸟客栈	Kingfisher Inn
 朝露	Morning Dew
 暮霞	Evening Glow
+知更鸟	messenger bird
+水经山	Water Scripture Mountain
