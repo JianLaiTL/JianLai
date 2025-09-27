@@ -6375,7 +6375,6 @@ Qiu Jian	求剑
 财神殿	god of wealth hall
 太岁殿	Tai Sui hall
 彩衣国胭脂郡城隍显佑伯印	Colorful Garment Nation Blusher Prefecture City God Protection Seal
-黄紫贵人	Esteemed Daoist Huangzi
 皇家练武场	Imperial Training Field
 宝塔	treasure pagoda
 君子	noble scholar	title for Confucian scholars, above virtuous scholar
@@ -7726,3 +7725,7 @@ F凌寒	Ling Han
 符劾	Talisman Suppression
 白裳	Bai Shang
 卢仙子	Celestial Maiden Lu
+黄紫贵人	esteemed Daoist priests
+上宗	upper sect
+蜃泽	Mirage Lake
+水丹	water elixir
