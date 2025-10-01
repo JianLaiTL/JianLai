@@ -5796,7 +5796,6 @@ Qiu Jian	求剑
 龙须溪	Dragon Whisker Creek
 云上琅琅书	Recite Atop Clouds Scripture
 祥符	Auspicious Talisman	the saber's name
-英雄胆	Hero's Gall Pill
 紫气书	Purple Qi Guide
 练气士	cultivator
 杏花春	apricot blossom wine
@@ -7731,3 +7730,5 @@ F凌寒	Ling Han
 外姓天师	External Heavenly Master
 莲藕福地	Lotus Root Blessed Land
 芙蕖国	Sacred Lotus Nation
+英雄胆	Hero's Gall
+鹿韭郡	Peony Prefecture
