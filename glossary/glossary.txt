@@ -2588,55 +2588,10 @@
 宇波隆	Yu Bolong
 吴志鸿	Wu Zhihong
 异彩	iridescent light
-玄莫位面	Profound Negative Realm
-武晶位面	Martial Crystalline Realm
-天尊术	Heavenly Venerate Technique
-祖河天尊	Ancestral River Heavenly Venerate
-四夜至尊	Four Nights Heavenly Venerate
-四夜天尊	Four Nights Heavenly Venerate
-姜一然	Jiang Yiran
-沈波	Shen Bo
-非凡	Feifan
-雷冰	Lei Bing
-陈望云	Chen Wangyun
-赵北月	Zhao Beiyue
-江波	Shen Bo	Author used two names for this person
-绝雷天尊	Vanishing Thunder Heavenly Venerate
-一步天尊	First Tier Heavenly Venerate
-玄角天尊	Mysterious Horn Heavenly Venerate
-灵葫天尊	Spiritual Gourd Heavenly Venerate
 灵葫	Spiritual Gourd
 程飞文	Cheng Feiwen
-红云天尊	Crimson Clouds Heavenly Venerate
-万剑山	Mountain of Ten Thousand Swords
-血参	Blood Ginseng
-英烈碑	Monument of Heroes
-原老大	Boss Yuan
-天尊符号	Heavenly Venerable Seals
-位面之力	Power of Dimension
-原应龙	Yuan Yinglong
-四海山	Four Seas Mountain
-黑瀑山	Black Waterfall Mountain
-柳十霜	Liu Shishuang
-方宏典	Fang Hongdian
-连正青	Lian Zhenqing
-石中河	Shi Zhonghe
-师梦玉	Shi Mengyu
-五步	Fifth Tier
-耿玄丹	Geng Xuandan
 重叠	overlap
-赖光	Depend Radiance
-申飞	Shen Fei
-武丰	Wu Feng
-何立群	He Liqun
-成光启	Cheng Guangqi
-史宇远	Shi Yuyuan
-王向荣	Wang Xiangrong
-百里歌	Baili Ge
-暗月枪	Dark Moon Spear
 异类	anomaly
-武语风	Wu Yufeng
-庄非瑞	Zhuang Feirui
 天王	Heavenly King
 第九符	Ninth Seal
 第八符	Eighth Seal
@@ -7738,3 +7693,4 @@ F凌寒	Ling Han
 三江	Three River Prefecture
 香火	Incense Fire Prefecture
 文秘书郎	scholarly secretary
+东岳	Eastern Mountain
