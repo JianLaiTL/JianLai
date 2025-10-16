@@ -7699,3 +7699,5 @@ F凌寒	Ling Han
 水田洞天	Paddy Field Small World
 烟霞福地	Smoke Mist Blessed Land
 真境宗	True Realm Sect
+涟漪洞天	Ripple Small World
+碧潮福地	Emerald Tide Blessed Land
