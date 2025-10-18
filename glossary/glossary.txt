@@ -7701,3 +7701,5 @@ F凌寒	Ling Han
 真境宗	True Realm Sect
 涟漪洞天	Ripple Small World
 碧潮福地	Emerald Tide Blessed Land
+赵鸾鸾	Zhao Luan	author mistake, only one luan
+渠黄仿剑	Great Replica Qu Huang
