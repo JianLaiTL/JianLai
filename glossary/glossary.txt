@@ -7759,3 +7759,5 @@ F凌寒	Ling Han
 遁地符	earth movement talisman
 沈震泽	Shen Zhenze
 詹晴	Zhan Qing
+寸金符	Inch Gold Talisman
+光阴符	Inch Time Talisman
