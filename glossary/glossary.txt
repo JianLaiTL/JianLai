@@ -989,7 +989,6 @@
 太玄青冥丹	Mysterious Azure Pill
 水家	Shui Clan
 福	curtsy
-武道界	cultivation world
 两界战场	Two Realm Battlefield
 中极部	Medium Extreme Division
 金狮国	Golden Lion Nation
@@ -6421,7 +6420,6 @@ Qiu Jian	求剑
 王毅然	Wang Yiran	villa master of the Unruly Saber Villa
 珊瑚	Shanhu
 沧水	Vast Water	Song Fengshan's sword
-江湖	cultivation world
 小重山	Mount Xiaochong
 韩元善	Han Yuanshan
 韩元学	Han Yuanxue
@@ -7694,7 +7692,6 @@ F凌寒	Ling Han
 香火	Incense Fire Prefecture
 文秘书郎	scholarly secretary
 东岳	Eastern Mountain
-江湖共主	ruler of the cultivation world
 仙家	immortal force
 水田洞天	Paddy Field Small World
 烟霞福地	Smoke Mist Blessed Land
@@ -7704,7 +7701,6 @@ F凌寒	Ling Han
 赵鸾鸾	Zhao Luan	author mistake, only one luan
 渠黄仿剑	Great Replica Qu Huang
 徐杏酒	Xu Xingjiu
-云上城	Cloud City
 赵青纨	Zhao Qingwan
 桓云	Huan Yun
 武峮	Wu Qun
@@ -7761,3 +7757,5 @@ F凌寒	Ling Han
 詹晴	Zhan Qing
 寸金符	Inch Gold Talisman
 光阴符	Inch Time Talisman
+江湖	martial world
+江湖共主	ruler of the martial world
