@@ -7759,3 +7759,7 @@ F凌寒	Ling Han
 光阴符	Inch Time Talisman
 江湖	martial world
 江湖共主	ruler of the martial world
+黄师	Huang Shi
+斋戒牌	abstinence plaque
+斋心牌	abstinence plaque	seems like author typo
+柳瑰宝	Liu Guibao
