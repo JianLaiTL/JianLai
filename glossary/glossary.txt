@@ -7763,3 +7763,6 @@ F凌寒	Ling Han
 斋戒牌	abstinence plaque
 斋心牌	abstinence plaque	seems like author typo
 柳瑰宝	Liu Guibao
+树瘿壶	tree gall pot
+白璧	Bai Bi
+绣娘	Xiu Niang
