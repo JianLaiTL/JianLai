@@ -1463,27 +1463,9 @@
 凌岳锋	Ling Yuefeng
 江巧灵	Jiang Qiaoling
 恶鬼	evil spirit
-陈娣	Chen Di
-枫郎	Yuefeng
-陈金	Chen Jin
-凌空诚	Ling Kongcheng
-跃枫	Yuefeng
 太祖	Great Ancestor
-柳东明	Liu Dongming
-程元	Cheng Yuan
 师娘	missus
-纳兰突	Nalan Tu
-空灵龙马	Ethereal Dragon Horse
-赵苦	Zhao Ku
-时光源液	Time Source Fluid
-林宪	Lin Xian
-厉若彤	Li Ruotong
 聚风城	Gathering Wind City
-司马林	Sima Lin
-司马家	Sima Clan
-苦少	Young Master Ku
-十二姬	12 beauties
-赵祖翼	Zhao Zuyi
 银龙战甲	Silver Dragon Armor
 地龙	Earth Dragon
 竞技场	tournament ground
@@ -7767,3 +7749,4 @@ F凌寒	Ling Han
 白璧	Bai Bi
 绣娘	Xiu Niang
 孙道人	Daoist Master Sun
+金山	Jin Shan
