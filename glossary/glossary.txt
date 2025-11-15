@@ -2159,11 +2159,6 @@
 阴魂玉	Yin Soul Jade
 玉潭	Jade Pool
 麻云菇	Numbing Clouds Mushroom
-杨晓	Yang Xiao
-暴熊帮	Vicious Bear Gang
-兵少	Young Master Bing
-熊四	Xiong Si
-君哥	Brother Jun
 毒胎	Poisonous Fetus
 死幽绝灭	Silent Death and Extermination
 陈霜霜	Chen Shuangshuang
@@ -2481,9 +2476,6 @@
 蓝月雷木	Blue Lunar Lightning Trees
 雷心果	Lightning Core Fruit
 青木狂雷	Azure Wood Chaotic Lightning
-万高杰	Wan Gaojie
-万成白	Wan Chengbai
-万少	Young Master Wan
 癸水怒雷	Divine Fluid Raging Lightning
 天尊法	Heavenly Venerate Technique
 苗英卫	Miao Yingwei
