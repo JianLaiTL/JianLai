@@ -2381,31 +2381,6 @@
 武院	martial academy
 女神	goddess
 黑驴	black donkey
-不灭仙王体	Indestructible Celestial King Physique
-不灭天尊体	Indestructible Heavenly Venerate Physique
-永恒仙金体	Eternal Divine Metal Physique
-仙王坟场	Celestial King Graveyard
-鬼王都	Ghost King City
-李隆	Li Long
-向名	Xiang Ming
-青鬼仙王	Azure Ghost Celestial King
-唐远	Tang Yuan
-唐明伯	Tang Mingbo
-死亡竞技场	Tournament of Death
-罗央	Luo Yang
-血战王	Blood Martial King
-唐少	Young Master Tang
-百胜血战王	Hundred Victory Blood Martial King
-千胜血战王	Thousand Victory Blood Martial King
-陆离	Lu Li
-陆高全	Lu Gaoquan
-因波尼	Ebony
-赵双	Zhao Shuang
-婆罗仙花	Brahman Celestial Flower
-吉志航	Ji Zhihang
-九幽黄泉水	Underworld Springwater of Nine Hells
-杨笑玲	Yang Xiaoling
-阿猿	A'Yuan
 竞技场	tournament
 源火	Source Fire
 胡经	Hu Jing
