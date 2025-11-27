@@ -7520,3 +7520,4 @@ F凌寒	Ling Han
 苍髯	Gray Beard Island
 白甲	White Armor Island
 青砖	gray brick
+炼制三山	Refining Three Mountains	refinement mantra
