@@ -7523,3 +7523,6 @@ F凌寒	Ling Han
 炼制三山	Refining Three Mountains	refinement mantra
 木宅	wood residence	referring to cpa's acupoint, counterpart to water palace and mountain shrine
 袁灵殿	Yuan Lingdian
+指玄峰	Secret Profound Peak
+云海	sea of clouds
+袁指玄	Yuan Zhixuan	title for Yuan Lingdian
