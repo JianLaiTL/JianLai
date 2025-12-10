@@ -7530,6 +7530,7 @@ F凌寒	Ling Han
 龙亭侯	Dragon Pavilion Lord
 石在溪	Shi Zaixi
 林素	Lin Su
-武宣郎	platoon commander
 刘洵美	Liu Xunmei
 小道童	little Daoist priest
+武宣郎	corps commander
+标长	battalion commander
