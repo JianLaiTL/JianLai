@@ -7321,7 +7321,6 @@ F凌寒	Ling Han
 桃枝国	Peach Branch Nation
 金乌宫	Golden Crow Palace
 晋乐	Jin Yue
-竹箱	bamboo case
 大观王朝	Great Guan Empire
 照夜草堂	Nightglow Grass Hall
 辞春宴	Spring Farewell Banquet
@@ -7538,3 +7537,4 @@ F凌寒	Ling Han
 青蒿国	Sweet Wormwood Nation
 洞仙街	Cave Immortal Street
 学政	provincial education commissioner
+竹箱	bamboo bookcase
