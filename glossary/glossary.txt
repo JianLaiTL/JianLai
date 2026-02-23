@@ -6768,7 +6768,6 @@ F凌寒	Ling Han
 文庙	scholarly temple
 东山	Eastern Mountain
 彩云谱	Iridescent Cloud Go Manual
-小宝瓶	Little Baoping
 石柔	Shi Rou	female bone ghost / beautiful skeletal ghost
 吞剑舟	Sword Devouring Ark
 身外身	avatar
@@ -7586,3 +7585,13 @@ F凌寒	Ling Han
 王宗屏	Wang Zongping
 高野侯	Gao Yehou
 小董爷爷	Grandpa Little Dong
+霁色峰	Sky Blue Peak
+黄湖山	Yellow Lake Mountain
+松针	Pine Needle	replica sword from hatred sword mountain
+啖雷	Lightning Devourer	replica sword from hatred sword mountain
+猿揉府	Ape Rub Residence
+董画符	Dong Huafu
+白炼霜	Bai Lianshuang	Granny Bai, maidservant of Ning Yao's mother
+经文	Scripture	name of one of Chen Sanqiu's flying swords
+齐狩	Qi Shou
+高野侯	Gao Yehou
