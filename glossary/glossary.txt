@@ -7595,3 +7595,5 @@ F凌寒	Ling Han
 经文	Scripture	name of one of Chen Sanqiu's flying swords
 齐狩	Qi Shou
 高野侯	Gao Yehou
+任毅	Ren Yi
+溥瑜	Pu Yu
