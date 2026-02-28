@@ -7601,3 +7601,7 @@ F凌寒	Ling Han
 心弦	Heartstring	one of Qi Shou's bonded flying swords
 跳珠	Jumping Spider
 光阴	Time
+竹庵	Zhu An
+洛衫	Luo Shan
+王宰	Wang Zhai
+黄洲	Huang Zhou
