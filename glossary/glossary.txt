@@ -1885,98 +1885,13 @@
 太上长老	grand elder
 内丹	inner core
 丹道城	Alchemy City
-掌座	Chairperson
-黑煞咒	Black Murderous Curse
-血影魔	Blood Shadow Demon
-血影老魔	Old Demon Blood Shadow
-时光修炼室	Time Cultivation Chamber
-万古千秋	For All Eternity
-修炼室	cultivation chamber
-诸谨	Zhu Jin
-喻少	Young Master Yu
-刘喻	Liu Yu
-苍宙城	Blue Eternity City
-一星丹师	One Star Alchemist
 孙东	Sun Dong
 孙家	Sun Clan
-小王者	Little King Tier
-东少	Young Master Dong
-固道丹	Dao Regulating Pill
-永昌仙王	Eternal Prosperity Celestial King
-永昌教	Eternal Prosperity Sect
-永昌殿	Eternal Prosperity Palace
-四大天王	Four Heavenly Kings
-程少	Young Master Cheng
-青鼎教	Black Cauldron Sect
-山田家	Shantian Clan
-易天河	Yi Tianhe
-赤虹门	Crimson Rainbow Sect
-殊	Shu
-张泉	Zhang Quan
-何岳	He Yue
-杨碧月	Yang Biyue
-鲁少	Young Master Lu
-煞影	Murderous Shadow
-鲁家	Lu Clan
-丹童	alchemy apprentice
-莫丹童	Alchemy Apprentice Mo
-区侃	Ou Kan
-秦古玉	Qin Guyu
-丹师殿	Alchemist Pavilion
-初阶学徒	beginner trainee
-天心	Heavenly Heart
 心魔	internal demon
-炼灵术	Spirit Refinement Technique
-六炼	Sixth Refinement
-九炼	Ninth Refinement
-灵婴	Spirit Infant
-二星丹师	Two-Star Alchemist
-初叶丹师	Alchemist Chu Ye
-石磊	Shi Lei
-石玉	Shi Yu
-青铜仙胎	Copper Divine Fetus
-路进	Lu Jin
-青云丹	Azure Cloud Pill
-紫月镇魂丹	Purple Moon Spirit Suppression Pill
-焦邦	Jiao Bang
-传音石	Sound Transmission Stone
-中阶学徒	middle grade trainee
-青虹丹	Green Rainbow Pill
-高阶学徒	high grade trainee
-霸妖	Ba Yao
-问天	Wen Tian
-断云山	Broken Clouds Mountain
-天骄聚会	Gathering of Prodigies
-清阳殿	Qingyang Pavilion
-地缺晶华	Scarce Earth Essence
-三阳峰	Three Yang Peak
-祝雪歌	Zhu Xuege
-柳飞章	Liu Feizhang
-东门宏	Dongmen Hong
-源蛇	Source Snake
-劳松	Lao Song
-山季同	Shan Jitong
-源祖	Ancestral Source
-祖凰	Ancestor Phoenix
-七剑魔王	Seven Swords Demon King
-白阳教	White Sun Sect
-商达	Shang Da
-剑妖族	Sword Demon Race
-易无伤	Yi Wushang
-古飞	Gu Fei
-张云	Zhang Yun
-永昌王	Eternal Prosperity King
 仙道体	Celestial Dao Physique
-张亚	Zhang Ya
-吕海蓉	Lu Hairong
-倚云仙子	Fairy Yiyun
-永昌大人	Lord Eternal Prosperity
-倚云仙王	Leaning Clouds Celestial King
 天骄	prodigy
-祖鹏	Ancestor Roc
 徒孙	grand-disciple
 莫家	Mo Clan
-青胎丹	Azure Origin Pill
 品鉴	appraise
 诸家	Zhu Clan
 补尘丹	Mundane Repairing Pill
