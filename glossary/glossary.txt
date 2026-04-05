@@ -6181,7 +6181,6 @@
 影壁	spirit wall
 大祝	grand priest
 半仙兵	pseudo-celestial tool
-董黑炭	Charcoal Dong	Nickname for Dong Huafu
 茱萸	Cornus Officinalis
 幽篁	Restful Bamboo Grove
 苻春花	Fu Chunhua	Fu Qi's eldest daughter
@@ -7570,3 +7569,4 @@ F凌寒	Ling Han
 周神芝	Zhou Shenzhi
 皕剑仙印谱	Seal Manual of the Two Hundred Sword Immortals
 程筌	Cheng Quan
+董黑炭	Dong Huafu	Nickname for Dong Huafu
