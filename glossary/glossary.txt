@@ -2847,7 +2847,6 @@
 前辈	Senior
 晚辈	Junior
 蛊	Gu
-关门弟子	final disciple
 亲传弟子	personal disciple
 核心弟子	core disciple
 长老	Elder
@@ -7570,3 +7569,4 @@ F凌寒	Ling Han
 皕剑仙印谱	Seal Manual of the Two Hundred Sword Immortals
 程筌	Cheng Quan
 董黑炭	Dong Huafu	Nickname for Dong Huafu
+关门弟子	closing disciple
