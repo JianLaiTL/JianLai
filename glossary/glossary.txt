@@ -7580,3 +7580,6 @@ F凌寒	Ling Han
 托月山	Holding Moon Mountain
 停云馆	Cloud Stop Pavilion
 吴承霈	Wu Chengpei
+剑坊	sword market
+衣坊	garment market
+丹坊	alchemical pill market
