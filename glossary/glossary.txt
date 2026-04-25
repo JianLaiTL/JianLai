@@ -1528,7 +1528,6 @@
 铁刀圣人	Iron Saber Saint
 易高宁	Yi Gaoning
 刺头	troublemaker
-阵眼	formation eye
 切磋	spar
 阵纹	formation patterns
 刻	inscribe
@@ -7600,3 +7599,5 @@ F凌寒	Ling Han
 白莹	Bai Ying
 背箧	Bei Qie
 离真	Li Zhen
+阵眼	formation core
+咳雷	Lightning Devourer	replica sword from Hatred Sword Mountain. author typo? was previously 啖雷
