@@ -7520,7 +7520,6 @@ F凌寒	Ling Han
 范大澈	Fan Dache
 俞洽	Yu Qia
 韩融	Han Rong
-本命灯	bonded candle
 陈熙	Chen Xi
 齐廷济	Qi Tingji
 梅花园子	Plum Blossom Garden
@@ -7602,3 +7601,4 @@ F凌寒	Ling Han
 阵眼	formation core
 咳雷	Lightning Devourer	replica sword from Hatred Sword Mountain. author typo? was previously 啖雷
 灰衣老者	old man in gray
+本命灯	bonded lamp
