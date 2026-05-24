@@ -7620,6 +7620,8 @@ F凌寒	Ling Han
 姚连云	Yao Lianyun
 山水窟	Mountain and Water Cave
 谢松花	Xie Songhua
-甲申	Jia Shen
 雨四	Yu Si
 涒滩	Tun Tan
+甲申	Jia Shen Tent
+木屐	Mu Ji
+甲子帐	Jia Zi Tent
