@@ -7642,3 +7642,4 @@ F凌寒	Ling Han
 路引符	Guidance Talisman
 鱼藻	Yu Zao
 山君	mountain god
+藩属山头	subsidiary mountains
