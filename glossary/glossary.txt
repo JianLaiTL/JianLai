@@ -7684,3 +7684,5 @@ F凌寒	Ling Han
 孙怀中	Sun Huaizhong
 躲寒行宫	winter palace
 避暑行宫	summer palace
+笼中雀	Caged Sparrow	CPA's bonded flying sword
+规矩	Regulation	Qi Jinglong's bonded flying sword
