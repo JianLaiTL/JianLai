@@ -2194,38 +2194,10 @@
 记忆晶体	memory crystal
 超弦	superstring
 武道体系	cultivation system
-碧月潮生剑	Jade Moon Lake Life Sword
-幕帖儿	Mudel
 初	Origin
-千院战斗	Thousand Academy Tournament
-千院比试	Thousand Academy Tournament
-安玖	Anju
-墨孤飞	Mogufi
-千院大战	Thousand Academy Tournament
-四华学院	Four Splendor Academy
-渊	Yuan
-七霜	Qi Shuang
 空间通道	spatial passageway
-三叶	Third Leaf
-十一叶	Eleventh Leaf
-怀剑	Huai Jian
-恒龙学院	Eternal Dragon Academy
-森平	Sen Ping
-六叶	Sixth Leaf
-远古战兽	Primordial Battle Beast
-华平学院	Magnificent Equal Academy
-七叶	Seventh Leaf
-八叶	Eighth Leaf
 高手榜	Elite Leaderboard
-传天	Chuan Tian
-庆化	Qing Hua
-卷	Juan
-陌	Mo
 星辰瀑	Celestial Waterfall
-墟星	Xu Xing
-井中月	Jing Zhongyue
-血戈	Xue Ge
-信标	beacon
 劫	tribulation
 体力	physical power
 黄泉	Underworld
