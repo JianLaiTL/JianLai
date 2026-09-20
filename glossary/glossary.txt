@@ -7731,3 +7731,5 @@ F凌寒	Ling Han
 梦婆	Mengpo
 霜降	Shuangjiang
 侯长君	Hou Changjun
+吴霜降	Wu Shuangjiang
+岁除宫	Year End Temple
