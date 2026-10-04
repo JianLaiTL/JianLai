@@ -7742,3 +7742,4 @@ F凌寒	Ling Han
 长命	Changming
 濠梁	River Bridge
 张磐	Zhang Pan
+气府	abode	distinct from acupoint, especially when discussing the Abode tier. they can be used as subordinate abodes
