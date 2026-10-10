@@ -7749,3 +7749,7 @@ F凌寒	Ling Han
 种榆仙馆	Immortal Elm Pavilion
 歇龙石	Dragon Resting Rock
 本命神通	unique mystical ability
+黄流巨津图	Raging Yellow Current
+陈李	Chen Li
+晦暝	Gloomy Dusk
+寤寐	Wake and Sleep
