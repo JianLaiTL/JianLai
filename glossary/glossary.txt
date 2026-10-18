@@ -7759,3 +7759,7 @@ F凌寒	Ling Han
 虚恨	Mountain Dweller Shop
 文清峰	Wenqing Peak	branch of Wind Snow Temple
 大鲵沟	Great Salamander Gully
+村妆渡	Village Scenery Ferry Station
+黄泥坂渡	Yellow Mud Slope Ferry Station
+渔歌山	Fisherman Song Mountain
+绿蓑渡	Striated Heron Ferry Station
