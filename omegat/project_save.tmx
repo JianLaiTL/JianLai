@@ -15670,6 +15670,14 @@ None of the listed swordsmen matched the description of the one that he was sear
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>一个可以放心交心，一个可以信任，所以双方接下来的交谈，都很坦诚。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="soiln" changedate="20261019T012204Z" creationid="soiln" creationdate="20261019T012204Z">
+        <seg>Chen Ping'an had assured Wei Bo in his letter that Mi Yu was trustworthy, so Wei Bo saw no qualms in being open and candid with him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>一个名叫曹晴朗的孩子，被一队官兵带去了衙门，大堂外边铺着四条草席，盖着四张白布。孩子痴痴呆呆蹲在那里，一言不发。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Yuanl" changedate="20240503T213552Z" creationid="Yuanl" creationdate="20240503T213528Z">
@@ -281379,6 +281387,14 @@ In the words of the deity in golden armor, the mountain god of Tassel Mountain, 
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>对于朱敛，未见其人，久闻其名。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="soiln" changedate="20261019T012645Z" creationid="soiln" creationdate="20261019T012645Z">
+        <seg>He had never met Zhu Lian before, but he had certainly heard much about him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>对于朱敛，魏檗与之相谈甚欢，相见恨晚。</seg>
       </tuv>
       <tuv lang="en-US" changeid="soiln" changedate="20250422T121123Z" creationid="soiln" creationdate="20250422T121123Z">
@@ -541456,6 +541472,14 @@ Mi Yu set off for the Sword Qi Great Wall, and the summer palace sent a messenge
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>米裕最终有些无奈，“一团乱麻，处理起来，好像不是一两剑砍死谁的事情了？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="soiln" changedate="20261019T012422Z" creationid="soiln" creationdate="20261019T012422Z">
+        <seg>After hearing what he had to say, Mi Yu sighed, "That's a real tangled mess. It sounds like the resolution won't just be a simple matter of cutting down someone with my sword."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>米裕有些尴尬，“隐官大人直说无妨的，米裕无非就是对谈情说爱更感兴趣，与女子们卿卿我我，比练剑杀敌，也更擅长。”</seg>
       </tuv>
       <tuv lang="en-US" changeid="soiln" changedate="20260723T100401Z" creationid="soiln" creationdate="20260723T100401Z">
@@ -541588,6 +541612,14 @@ Mi Yu set off for the Sword Qi Great Wall, and the summer palace sent a messenge
       </tuv>
       <tuv lang="en-US" changeid="soiln" changedate="20260723T143322Z" creationid="soiln" creationdate="20260723T143322Z">
         <seg>"Cultivation base isn't the answer to everything, but it can certainly solve a lot of problems," Mi Yu replied with a nod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>米裕点头道：“隐官大人对那朱敛十分敬重。我听他的吩咐便是了。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="soiln" changedate="20261019T012636Z" creationid="soiln" creationdate="20261019T012636Z">
+        <seg>"Lord Hidden Official thinks very highly of Zhu Lian, so I am happy to follow his orders," Mi Yu said.</seg>
       </tuv>
     </tu>
     <tu>
@@ -901373,6 +901405,14 @@ With that in mind, Wei Bo hurriedly patted Chen Ping'an on the shoulder as he sa
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>魏檗一番斟酌之后，将一些不该聊却可以私底下说的那部分内幕，一并说给了米裕听。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="soiln" changedate="20261019T012324Z" creationid="soiln" creationdate="20261019T012324Z">
+        <seg>After some contemplation, Wei Bo decided to reveal some internal secrets to Mi Yu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>魏檗一笑置之。</seg>
       </tuv>
       <tuv lang="en-US" changeid="soiln" changedate="20250424T055043Z" creationid="soiln" creationdate="20250424T055043Z">
@@ -901525,6 +901565,14 @@ With that in mind, Wei Bo hurriedly patted Chen Ping'an on the shoulder as he sa
       </tuv>
       <tuv lang="en-US" changeid="Yuanl" changedate="20230716T110925Z" creationid="Yuanl" creationdate="20230716T110858Z">
         <seg>If Wei Bo didn't explain this, who would care? Even if he did explain it, who would be willing to listen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>魏檗与这位剑仙详细聊了落魄山的近忧和远虑，米裕则与山君说了剑气长城的形势。至于隐官大人的事情，米裕没有多说。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="soiln" changedate="20261019T012257Z" creationid="soiln" creationdate="20261019T012257Z">
+        <seg>Wei Bo spoke to Mi Yu in detail about the concerns facing Downtrodden Mountain, both in the near and the distant future, while Mi Yu told Wei Bo about the state of the Sword Qi Great Wall, but he didn't speak much about Chen Ping'an.</seg>
       </tuv>
     </tu>
     <tu>
@@ -902699,6 +902747,14 @@ As they talked, Wei Bo couldn't help but sigh with emotion in his mind. Being ab
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>魏檗实在是忍不住，问道：“米剑仙，冒昧问一句，你为何对陈平安如此敬重？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="soiln" changedate="20261019T012722Z" creationid="soiln" creationdate="20261019T012722Z">
+        <seg>Unable to help himself, Wei Bo asked, "Pardon me for asking, Sword Immortal Mi, but why do you have such a high level of respect for Chen Ping'an?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>魏檗对于老人的气势凌人，根本不恼火，笑眯眯点头，打了个响指，山水倒转，一行人瞬间出现在落魄山竹楼外。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Yuanl" changedate="20231015T003631Z" creationid="Yuanl" creationdate="20231015T003554Z">
@@ -903403,6 +903459,14 @@ When the black python carried them up to the level peak that was swirling with d
       </tuv>
       <tuv lang="en-US" changeid="Yuanl" changedate="20230617T103011Z" creationid="Yuanl" creationdate="20230617T103011Z">
         <seg>Wei Bo shook his head and replied, "Since I chose this path, there's no reason for me to abandon it now."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>魏檗摇头道：“既然陈平安近期注定无法返乡，那么落魄山的待人接客，就又不一样了，一味韬晦并非上策，至于出剑与否，何时出剑，对谁出剑，得看朱敛的决断。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="soiln" changedate="20261019T012607Z" creationid="soiln" creationdate="20261019T012607Z">
+        <seg>Wei Bo shook his head and mused, "Seeing as Chen Ping'an won't be back anytime soon, Downtrodden Mountain will have to adjust its strategy. Continuing to blindly bide our time is not the best path forward, but as for whether we should strike, when we should strike, and who we should strike at, all of that has to be decided by Zhu Lian."</seg>
       </tuv>
     </tu>
     <tu>
