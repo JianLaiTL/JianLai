@@ -17472,8 +17472,8 @@ An unkempt man with a sturdy figure and a hunched back made his way to the wine 
       <tuv lang="zh-CN">
         <seg>一个青衣小童和黑衣少年，从济渎一起御风千里，来到极高处，俯瞰大地，是一处大源王朝的藩属小国地界，此地旱灾酷烈，已经接连数月无雨水，树皮食尽，流民四散别国，只是老百姓离乡背井，又能够走出多远的路程，故而多饿死半路，白骨盈野，死者枕藉，惨绝人寰。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="soiln" changedate="20261024T204230Z" creationid="soiln" creationdate="20261024T204230Z">
-        <seg>A little boy in azure and a young man in black had flown all the way here from Plenty River, and they were looking down at the earth below from their incredibly high vantage point. They had arrived in a small subsidiary nation to the Great Origin Empire, a nation that had been ravaged by a severe drought. It had endured several months without a drop of rain, and even all of the bark on the trees had been peeled and eaten by its starving people. Left with no alternatives, the people set off for refuge in neighboring nations, but most of them weren't able to get very far before they succumbed to exhaustion and starvation, and as a result, the landscape was littered with skeletons.</seg>
+      <tuv lang="en-US" changeid="soiln" changedate="20261024T205313Z" creationid="soiln" creationdate="20261024T204230Z">
+        <seg>A little boy in azure and a young boy in black had flown all the way here from Plenty River, and they were looking down at the earth below from their incredibly high vantage point. They had arrived in a small subsidiary nation to the Great Origin Empire, a nation that had been ravaged by a severe drought. It had endured several months without a drop of rain, and even all of the bark on the trees had been peeled and eaten by its starving people. Left with no alternatives, the people set off for refuge in neighboring nations, but most of them weren't able to get very far before they succumbed to exhaustion and starvation, and as a result, the landscape was littered with skeletons.</seg>
       </tuv>
     </tu>
     <tu>
@@ -300992,6 +300992,14 @@ You old piece of shit! Even if my souls and senses are separated, I will still b
       </tuv>
       <tuv lang="en-US" changeid="Yuanl" changedate="20240128T021245Z" creationid="Yuanl" creationdate="20240128T021245Z">
         <seg>"Grandma Liu, I've already gone through a lot of examinations and training. Don't treat me like a child all the time, okay?" the young boy replied in exasperation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>少年无奈道：“这是你现在需要去管的事情吗？我的好兄弟，走江一事，比天大了，我求你上点心吧。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="soiln" changedate="20261024T205426Z" creationid="soiln" creationdate="20261024T205302Z">
+        <seg>"Is this really something that you need to be focusing on right now?" the young boy in black asked in an exasperated fashion. "Your river journey is more important than anything else! You need to set your priorities straight!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -883478,6 +883486,14 @@ As a fire python formed from scholarly fortune in the scripture library of the Z
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>青衣小童咬了咬嘴唇，说道：“若是没瞧见那些人的可怜模样，我也就不管了，可既然瞧见，我心里不得劲。若是我家老爷在这里，他肯定会管一管的。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="soiln" changedate="20261024T205529Z" creationid="soiln" creationdate="20261024T205529Z">
+        <seg>"If I hadn't seen all those suffering people, then I would've been able to ignore everything, but I QWHETOIHIWEQOTQWEHTOHWEQ have QWEHTQIEOWETHOWHOT seen them, and it weighs on my heart," the little boy in azure said in a sullen voice. "If my master were here, he would definitely do something about this."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>青衣小童咽了口唾沫，不敢动弹。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Admin" changedate="20231013T112509Z" creationid="Admin" creationdate="20231013T112509Z">
@@ -917694,8 +917710,8 @@ The young woman was looking a little trouble troubled, and she was clearly also 
       <tuv lang="zh-CN">
         <seg>黑衣少年疑惑道：“你原路返回来找我，就是为了让我看这份景象？”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="soiln" changedate="20261024T204308Z" creationid="soiln" creationdate="20261024T204308Z">
-        <seg>"You came back to find me just to show me QHWETIOWEHTWEHTHWEHT this QWEHTOIHWEQTOIWEHWTOHWEQT?" the young man in black asked with a puzzled expression.</seg>
+      <tuv lang="en-US" changeid="soiln" changedate="20261024T205308Z" creationid="soiln" creationdate="20261024T204308Z">
+        <seg>"You came back to find me just to show me QHWETIOWEHTWEHTHWEHT this QWEHTOIHWEQTOIWEHWTOHWEQT?" the young boy in black asked with a puzzled expression.</seg>
       </tuv>
     </tu>
     <tu>
