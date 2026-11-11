@@ -7792,3 +7792,5 @@ F凌寒	Ling Han
 米粒	Mili
 切韵	Qie Yun
 文海	Scholarly Ocean	title for Zhou Mi
+金风	Jin Feng
+玉露	Yu Lu
