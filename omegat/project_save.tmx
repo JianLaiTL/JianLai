@@ -507131,6 +507131,14 @@ The woman left the room and stood in the corner of the hallway.</seg>
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>男人摇摇晃晃离去。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="soiln" changedate="20261115T040715Z" creationid="soiln" creationdate="20261115T040715Z">
+        <seg>The man stumbled out of the room.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>男人摊开双手，掌心朝上，轻轻晃了两下。</seg>
       </tuv>
       <tuv lang="en-US" changeid="soiln" changedate="20260906T180534Z" creationid="soiln" creationdate="20260906T180534Z">
@@ -576897,6 +576905,14 @@ Of course, Yellow Barrier Mountain had wanted to turn this misfortune into fortu
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>老僧说道：“我收你一两银子，你不过是做一噩梦而已，可我替你挨了那份剐心、油锅之苦，却是真真切切的，去吧。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="soiln" changedate="20261115T040710Z" creationid="soiln" creationdate="20261115T040710Z">
+        <seg>"I have taken a tael of silver from you, and you've only had to be subjected to a nightmare, but I've had to endure your pain for you," the old monk said. "You can go now."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>老僧身形微滞，只是很快就大步向前，片刻之后，又恢复平常脚步。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Yuanl" changedate="20250525T070637Z" creationid="Yuanl" creationdate="20250525T070637Z">
@@ -576917,6 +576933,14 @@ Of course, Yellow Barrier Mountain had wanted to turn this misfortune into fortu
       </tuv>
       <tuv lang="en-US" changeid="Yuanl" changedate="20240413T000640Z" creationid="Yuanl" creationdate="20240413T000640Z">
         <seg>The old monk turned around to glance at the azure dress before replying in helplessness, "She's not the same."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>老僧轻轻叹息，手指并拢，轻轻一扯，然后轻轻往身上袈裟一搭。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="soiln" changedate="20261115T041220Z" creationid="soiln" creationdate="20261115T041220Z">
+        <seg>The old monk heaved a faint sigh, then called for the next person in line to enter the room.</seg>
       </tuv>
     </tu>
     <tu>
