@@ -17680,6 +17680,16 @@ An unkempt man with a sturdy figure and a hunched back made his way to the wine 
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>一个领衔江湖的武林宗师，与一位地仙神仙老爷起了争执，前者喊来了数位被朝廷默认离境的山水神灵压阵，后者就拉拢了一拨别国邻居仙师。明明是两人之间的个人恩怨，却牵扯了数百人在那边对峙，那个古稀之年的七境武夫，以江湖领袖的身份，呼朋唤友，号令群雄，那位金丹地仙更是用上了所有香火情，一定要将那不知好歹的山下老匹夫，知道天地有别的山上道理。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Yuanl" changedate="20261116T185944Z" creationid="Yuanl" creationdate="20261116T185944Z">
+        <seg>A conflict had arisen between a martial arts grandmaster and an esteemed earth immortal, with the former calling upon the help of several deities who the imperial court tacitly allowed to leave their jurisdictions, and the latter gathering together a group of immortals from other nations. This was a grudge between two people, yet they somehow elevated the situation to a standoff involving hundreds of people. 
+
+The martial artist was over seventy years old, and he used his position as a leader of the martial world to call upon his friends and command the various powerful martial artists, while the Golden Core Tier earth immortal exhausted all of his networks and relationships for the sake of teaching the impudent old bastard a divine lesson from the mountains.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>一个风度翩翩的少年郎，一个人老珠黄的老婆姨，双方早年还有一段姻缘不成？</seg>
       </tuv>
       <tuv lang="en-US" changeid="Yuanl" changedate="20251108T122904Z" creationid="Yuanl" creationdate="20251108T122904Z">
@@ -18496,6 +18506,14 @@ Kun ships were also divided into three grades, and the first grade of Kun ships 
       </tuv>
       <tuv lang="en-US" changeid="User" changedate="20241029T135442Z" creationid="User" creationdate="20241029T135442Z">
         <seg>At the time, a mob of bandits had come charging out of the thick undergrowth on either side of the road. It was a group of dozens of brawny men wielding all types of weapons, and their leader was wielding a massive ax, which he pointed at Chen Ping'an as he yelled in a thunderous voice, "I was the one who constructed this road, so if you want to be granted safe passage, then you'll have to pay for it!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>一伙山上仙师逃到裴钱三人附近，然后擦肩而过，其中一人还丢了块光彩夺目的仙家玉佩，在裴钱脚步，只是被裴钱脚尖一挑，瞬间挑回去。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Yuanl" changedate="20261116T192442Z" creationid="Yuanl" creationdate="20261116T192442Z">
+        <seg>A group of immortals fled to an area near Pei Qian and her companions, after which the two groups brushed past each other. One cultivator even tossed a dazzling immortal jade pendant over, yet Pei Qian immediately used her foot to flick it back over.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24688,6 +24706,14 @@ He lightly tossed it toward the inlet, and when the small boat reached a height 
       </tuv>
       <tuv lang="en-US" changeid="soiln" changedate="20260707T085325Z" creationid="soiln" creationdate="20260707T085325Z">
         <seg>There was a mountain called the Nine Battle Peak that was laden with palaces and pavilions, and while it wasn't a small world, it certainly seemed like one.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>一座四分五裂的仙家山头，兵败如山倒，反正一场鲜血淋漓的风波，山上山下，庙堂江湖，神仙俗子，yin谋阳谋，什么都有，兴许这就是所谓麻雀虽小五脏俱全。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Yuanl" changedate="20261116T191456Z" creationid="Yuanl" creationdate="20261116T191456Z">
+        <seg>The immortal force of the earth immortal immediately fractured, leading to the complete collapse of the alliance between immortals from the mountains. This was a bloody battle involving immortals from the mountains, martial artists from outside the mountains, subjects of the imperial court, hidden schemes, open plots, and everything inbetween. Perhaps this was the embodiment of a small conflict that contained a bit of everything.</seg>
       </tuv>
     </tu>
     <tu>
@@ -195399,10 +195425,26 @@ As it turned out, Chen Ping'an's body had bounced slightly forward in the wall t
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>哪怕裴钱再躲着人和事，他们还是在一个偏隅小国，遇到了一场山上神仙殃及山下江湖的风波。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Yuanl" changedate="20261116T184701Z" creationid="Yuanl" creationdate="20261116T184701Z">
+        <seg>Even though Pei Qian tried her best to avoid people and matters, they still encountered an incident where immortals from the mountains were bringing diasaster to the outside world.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>哪怕裴钱故意不看她，她也乐在其中，不小心看了她一眼，就更带劲了。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Yuanl" changedate="20260413T121502Z" creationid="Yuanl" creationdate="20260413T121502Z">
         <seg>Guo Zhujiu continued to amuse herself in this manner even after Pei Qian purposely looked away, and she became even more spirited after Pei Qian accidentally stole a glance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>哪怕裴钱第一时间就要撤离是非之地，依旧慢了一步。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Yuanl" changedate="20261116T191712Z" creationid="Yuanl" creationdate="20261116T191712Z">
+        <seg>Pei Qian tried to leave the area of conflict straight away, but she was still one step too slow.</seg>
       </tuv>
     </tu>
     <tu>
@@ -289092,6 +289134,14 @@ The water goddess smiled and said, "You have your own place to sleep. I'll bring
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>小国朝廷伏兵四起，不断收拢包围圈，如同赶鱼入网。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Yuanl" changedate="20261116T192308Z" creationid="Yuanl" creationdate="20261116T192308Z">
+        <seg>The ambushing soldiers of the small nation continued to tighten their encirclement, almost as if they were driving fish into a net.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>小坟头附近，又有两座相对小坟头要更小的“小土堆”，形势如同山峰。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Yuanl" changedate="20230819T120835Z" creationid="Yuanl" creationdate="20230819T120820Z">
@@ -378911,6 +378961,14 @@ Thus, before leaving the mountain, the Nascent Tier earth immortal from Peace an
       </tuv>
       <tuv lang="en-US" changeid="Yuanl" changedate="20260421T111417Z" creationid="Yuanl" creationdate="20260421T111417Z">
         <seg>All of the internal struggles, the extermination of tens off thousands of demon tribes, the death of countless ants — all of these were solid steps on the path of a powerful great demon ascending to the peak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>所有的对错是非，一团浆糊，都在生死中。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Yuanl" changedate="20261116T191559Z" creationid="Yuanl" creationdate="20261116T191559Z">
+        <seg>There was a tangled mess of right and wrong, with all of this weaving between life and death.</seg>
       </tuv>
     </tu>
     <tu>
@@ -635891,6 +635949,14 @@ She then jumped onto the bed and happily rolled around. In the end, she gazed up
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>裴钱不避不闪，伸手握住刀，说道：“我们只是过路的外人，不会掺和你们双方恩怨。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Yuanl" changedate="20261116T192953Z" creationid="Yuanl" creationdate="20261116T192953Z">
+        <seg>The young woman didn't dodge, and she instead caught the saber and said, "We're just outsiders passing by, and we won't get involved in the conflict between the two side."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>裴钱与大白鹅是老交情了，根本不担心这个，所以裴钱几乎一个瞬间，就是转头望向曹晴朗。</seg>
       </tuv>
       <tuv lang="en-US" changeid="soiln" changedate="20260509T195639Z" creationid="soiln" creationdate="20260509T195639Z">
@@ -640963,6 +641029,16 @@ When Pei Qian returned to her senses, she immediately climbed through the window
       </tuv>
       <tuv lang="en-US" changeid="soiln" changedate="20250429T062044Z" creationid="soiln" creationdate="20250429T062044Z">
         <seg>Pei Qian had been ecstatic to have been shown this secret stash, and an irrepressible grin had been plastered over her face. Ruan Xiu had found this very amusing, and she had given Pei Qian a piece of pastry. That was the first time that Ruan Xiu had ever given her pastry, and from there onward, as long as she had some pastries on hand, she would always oblige with Pei Qian's requests for more.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>裴钱当时路过的时候，大战其实已经落幕，胜负已分，竟是山上仙师狼狈逃窜，原来朝廷安插了许多供奉仙师和军中高手，好像对那位很喜欢对帝王将相指手画脚的地仙，不顺眼多年了。在惨烈战事中，还有一位本该是挚友的龙门境老神仙，背叛了金丹好友，大战酣畅之时，yin了一手，打得那位作威作福惯了的金丹地仙措手不及，还被一位嫡传弟子亲手打烂金丹，就此陨落。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Yuanl" changedate="20261116T191050Z" creationid="Yuanl" creationdate="20261116T191050Z">
+        <seg>The intense battle had drawn to a close when Pei Qian and her companions passed by, with victory and defeat already decided. It was surprisingly the immortals from the mountains fleeing in disarray, and as it turned out, the imperial court had secretly dispatched many guest elder immortals and martial artists to influence the outcome of the battle. It appeared like the imperial court had wanted to deal with the earth immortal for many years, what with his fondness of commanding the emperor and officials around.
+
+During the tragic battle, a Dragon Gate Tier cultivator betrayed the Golden Core Tier cultivator despite the two of them supposedly being very good friends. He launched a sneak attack during the height of the battle, taking the haughty Golden Core Tier immortal by surprise. Not only that, but a direct disciple of the Golden Core Tier immortal also turned traitor and shattered his golden core, leading to his death on the battlefield.</seg>
       </tuv>
     </tu>
     <tu>
@@ -887507,6 +887583,14 @@ In other words, Sui Jingcheng's cultivation talent was genuinely outstanding. Fo
       </tuv>
       <tuv lang="en-US" changeid="soiln" changedate="20261006T112746Z" creationid="soiln" creationdate="20261006T112746Z">
         <seg>The ensuing meeting dragged on for three hours, and much of it was spent on back-and-forth negotiation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>随后一大帮人蜂拥而至，不知是杀红了眼，还是打定主意错杀不错放，有一位身披甘露甲的中年武将，一刀劈来。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Yuanl" changedate="20261116T192850Z" creationid="Yuanl" creationdate="20261116T192850Z">
+        <seg>Afterward, a large group of martial artists charged over, and it was unknown whether they were brimming with frenzied bloodlust or consciously deciding to err on the side of caution and kill innocents rather than let their enemies escape. A middle-aged martial artist wearing a suit of Dew Armor slashed his saber down at Pei Qian.</seg>
       </tuv>
     </tu>
     <tu>
