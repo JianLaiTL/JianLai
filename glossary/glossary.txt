@@ -7800,3 +7800,6 @@ F凌寒	Ling Han
 玉露	Yu Lu
 孙道长	Daoist Master Sun
 山青	Shanqing
+牛毛	Ox Hair	name of sword nurturing gourd
+终南山路	Zhongnan Mountain Road
+心事	Loaded Mind
