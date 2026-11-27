@@ -810,19 +810,6 @@
 万法归一	10,000 Techniques Return to One
 日月境	Sun Moon Tier
 鲲鹏宫	Roc Palace
-破虚二十星	20 Stars of the Shattering Void Tier
-九死转生神丹	Nine Deaths Reincarnation Divine Pill
-柳莹	Liu Ying
-沙原	Sha Yuan
-死卫	death guard
-四豹	Four Panthers
-柳蕙兰	Liu Huilan
-荆无血	Jing Wuxue
-上官元基	Shangguan Yuanji
-赵大将军	Great General Zhao
-白云星铁	White Cloud Star Metal
-云凤真血	Cloud Phoenix True Blood
-上古神兽	Ancient Divine Beast
 真凤	True Phoenix
 血脉	bloodline
 嚣张	arrogant
